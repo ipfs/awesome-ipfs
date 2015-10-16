@@ -7,7 +7,7 @@
 
 ## Table of Contents
 
-* [Use Cases](#use-cases')
+* [Use Cases](#use-cases)
 * [Apps](#apps)
 * [Tools](#tools)
 * [Videos](#videos)
