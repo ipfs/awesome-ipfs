@@ -22,6 +22,9 @@
 
 ## Tools
 
+* [ipfs-paste](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
+* [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
+
 ## Videos
 
 ## Archives
