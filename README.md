@@ -18,7 +18,7 @@
 
 ## Apps
 
-[IPFSBin](http://ipfsbin.xyz/) - Pastebin clone build on top of IPFS. Github: https://github.com/victorbjelkholm/ipfsbin
+* [IPFSBin](http://ipfsbin.xyz/) - Pastebin clone build on top of IPFS. Github: https://github.com/victorbjelkholm/ipfsbin
 
 ## Tools
 
