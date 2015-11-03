@@ -17,8 +17,8 @@
 
 ## Apps
 
-* [IPFSBin](http://ipfsbin.xyz/) - Pastebin clone build. [Github](https://github.com/victorbjelkholm/ipfsbin)
-* [ipfs.pics](http://ipfs.pics/) - Upload and share pics. [Github](https://github.com/ipfspics/server)
+* [IPFSBin](http://ipfsbin.xyz/) - Pastebin clone build. [GitHub](https://github.com/victorbjelkholm/ipfsbin)
+* [ipfs.pics](http://ipfs.pics/) - Upload and share pics. [GitHub](https://github.com/ipfspics/server)
 * [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 * [ipfs-share](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
 
