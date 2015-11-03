@@ -37,8 +37,8 @@
 
 ## Videos
 
-* [Juan Bennet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) (Youtube)
-* [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) (Youtube)
+* [Juan Bennet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) (YouTube)
+* [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) (YouTube)
 
 
 ## Archives
