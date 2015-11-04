@@ -48,6 +48,8 @@
 * [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) (Hacked.com)
 * [Introduction to IPFS ](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example/) (whatdoesthequantsay.com)
 * [The InterPlanetary File System Wants to Create a Permanent Web](http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web) (Vice // Motherboard)
+* [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html )
+* [Interview With Kyle Drake & Juan Benet on the IPFS](https://diginomics.com/interview-with-kyle-drake-juan-benet-on-the-ipfs/) (diginomics.com)
 
 ## License
 
