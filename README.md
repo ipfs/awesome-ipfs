@@ -21,6 +21,7 @@
 * [ipfs.pics](http://ipfs.pics/) - Upload and share pics. [GitHub](https://github.com/ipfspics/server)
 * [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 * [ipfs-share](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
+* [Arbore-qt](https://github.com/MichaelMure/Arbore-qt) - Friend-to-friend filesharing app to save the world from dystopia
 
 ## Tools
 
