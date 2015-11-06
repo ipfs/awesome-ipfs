@@ -33,6 +33,7 @@
 * [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
 * [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
 * [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
+* [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
 
 
 ## Videos
