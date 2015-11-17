@@ -2,7 +2,13 @@
 
 > Useful resources for using [IPFS](https://ipfs.io) and building things on top of it
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+_Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing,
+this list is for projects, tools, or pretty much any things related to IPFS that
+are totally_ **awesome**_. This is for products which are already awesome - if
+you have plans for cool stuff to do with IPFS, you should build it, and then
+link it here. If you have an idea for an awesome thing to do with IPFS, a good
+place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
+[ipfs/notes](https://github.com/ipfs/notes)._
 
 
 ## Table of Contents
