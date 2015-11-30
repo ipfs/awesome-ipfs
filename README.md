@@ -41,7 +41,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
 * [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
 * [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
-
+* [http2ipfs](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
 
 ## Videos
 
