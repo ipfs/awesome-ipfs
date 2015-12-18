@@ -2,8 +2,7 @@
 
 > Useful resources for using [IPFS](https://ipfs.io) and building things on top of it
 
-_Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing,
-this list is for projects, tools, or pretty much any things related to IPFS that
+_This list is for projects, tools, or pretty much any things related to IPFS that
 are totally_ **awesome**_. This is for products which are already awesome - if
 you have plans for cool stuff to do with IPFS, you should build it, and then
 link it here. If you have an idea for an awesome thing to do with IPFS, a good
@@ -24,7 +23,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 ## Apps
 
 * [IPFSBin](http://ipfsbin.xyz/) - Pastebin clone build. [GitHub](https://github.com/victorbjelkholm/ipfsbin)
-* [ipfs.pics](http://ipfs.pics/) - Upload and share pics. [GitHub](https://github.com/ipfspics/server)
+* [ipfs.pics](https://ipfs.pics) - Upload and share pics. [GitHub](https://github.com/ipfspics/server)
 * [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 * [ipfs-share](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
 * [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
@@ -66,4 +65,4 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
