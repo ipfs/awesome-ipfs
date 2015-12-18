@@ -18,6 +18,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [Tools](#tools)
 * [Videos](#videos)
 * [Archives](#archives)
+* [Discussions](#discussions)
 
 ## Use Cases
 
@@ -60,6 +61,10 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [The InterPlanetary File System Wants to Create a Permanent Web](http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web) (Vice // Motherboard)
 * [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html )
 * [Interview With Kyle Drake & Juan Benet on the IPFS](https://diginomics.com/interview-with-kyle-drake-juan-benet-on-the-ipfs/) (diginomics.com)
+
+## Discussions
+
+* [CRDTs discussion](https://github.com/ipfs/notes/issues/23)
 
 ## License
 
