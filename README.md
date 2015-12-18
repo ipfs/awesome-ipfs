@@ -49,11 +49,11 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [Juan Bennet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) (YouTube)
 * [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) (YouTube)
 
-
 ## Archives
 
 ## Articles
 
+* [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) (ipfs.io)
 * [Eris + IPFS](https://db.erisindustries.com/distributed%20business/2015/11/01/eris-and-ipfs/) (erisindustries.com)
 * [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) (Hacked.com)
 * [Introduction to IPFS ](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example/) (whatdoesthequantsay.com)
