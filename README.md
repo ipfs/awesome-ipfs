@@ -42,6 +42,9 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
 * [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
 * [http2ipfs](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
+* [ipget](https://github.com/noffle/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
+* [ipcat](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
+
 
 ## Videos
 
