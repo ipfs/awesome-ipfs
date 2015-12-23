@@ -22,35 +22,35 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 ## Apps
 
-* [IPFSBin](http://ipfsbin.xyz/) - Pastebin clone build. [GitHub](https://github.com/victorbjelkholm/ipfsbin)
-* [ipfs.pics](https://ipfs.pics) - Upload and share pics. [GitHub](https://github.com/ipfspics/server)
-* [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
-* [ipfs-share](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
-* [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 * [beets](https://github.com/sampsyo/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 * [Boards](http://ipfs.ydns.eu/ipns/boards.ydns.eu/) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards)
+* [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
+* [ipfs-share](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
+* [ipfs.pics](https://ipfs.pics) - Upload and share pics. [GitHub](https://github.com/ipfspics/server)
+* [IPFSBin](http://ipfsbin.xyz/) - Pastebin clone build. [GitHub](https://github.com/victorbjelkholm/ipfsbin)
+* [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 
 ## Tools
 
+* [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
+* [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
+* [http2ipfs](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
+* [ipcat](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
+* [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
+* [ipfs-firefox-addon](https://github.com/lidel/ipfs-firefox-addon) - Firefox addon to provide access to IPFS via local gateway
+* [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
 * [ipfs-paste](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
 * [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
-* [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
-* [ipfs-firefox-addon](https://github.com/lidel/ipfs-firefox-addon) - Firefox addon to provide access to IPFS via local gateway
-* [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
-* [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
-* [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
-* [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
-* [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
 * [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
-* [http2ipfs](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
 * [ipget](https://github.com/noffle/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
-* [ipcat](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
+* [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
+* [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
 
 
 ## Videos
 
-* [Juan Bennet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) (YouTube)
 * [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) (YouTube)
+* [Juan Bennet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) (YouTube)
 
 ## Archives
 
