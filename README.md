@@ -23,7 +23,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 ## Apps
 
 * [beets](https://github.com/sampsyo/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
-* [Boards](http://ipfs.ydns.eu/ipns/boards.ydns.eu/) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards)
+* [Boards](https://github.com/fazo96/ipfs-boards) - Distributed social platform that runs in the browser
 * [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 * [ipfs-share](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
 * [ipfs.pics](https://ipfs.pics) - Upload and share pics. [GitHub](https://github.com/ipfspics/server)
