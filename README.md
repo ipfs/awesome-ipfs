@@ -17,6 +17,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [Tools](#tools)
 * [Videos](#videos)
 * [Archives](#archives)
+* [Discussions](#discussions)
 
 ## Use Cases
 
@@ -66,6 +67,10 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 ### Articles independently hosted on IPFS
 * 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
 * [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) (ipfs.io)
+
+## Discussions
+
+* [CRDTs discussion](https://github.com/ipfs/notes/issues/23)
 
 ## License
 
