@@ -36,6 +36,20 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 * [Playback](https://mafintosh.github.io/playback/) - IPFS playback supoort. This allows casting a video in IPFS to a Chromecast.
 
+### Single page Webapps
+
+These are narrowly-scoped, little JS "apps" deployed through IPFS. All of these are currently written by @jbenet.
+
+- [a markdown renderer](https://github.com/ipfs/examples/tree/master/webapps/markdown-viewer) - [example](
+  https://ipfs.io/ipfs/QmSrCRJmzE4zE1nAfWPbzVfanKQNBhp7ZWmMnEdbiLvYNh/mdown#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u
+)
+- [a js video player](https://github.com/ipfs/examples/tree/master/webapps/play) - [example](
+  https://ipfs.io/ipfs/QmVc6zuAneKJzicnJpfrqCH9gSy6bz54JhcypfJYhGUFQu/play#/ipfs/QmTKZgRNwDNZwHtJSjCp6r5FYefzpULfy37JvMt9DwvXse
+)
+- [a qr-code renderer](https://github.com/ipfs/examples/tree/master/webapps/qr-render) - [example](
+  https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here
+)
+
 ## Tools
 
 * [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
