@@ -38,7 +38,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 ### Single page Webapps
 
-These are narrowly-scoped, little JS "apps" deployed through IPFS. All of these are currently written by @jbenet.
+These are narrowly-scoped, little JS "apps" deployed through IPFS.
 
 - [a markdown renderer](https://github.com/ipfs/examples/tree/master/webapps/markdown-viewer) - [example](
   https://ipfs.io/ipfs/QmSrCRJmzE4zE1nAfWPbzVfanKQNBhp7ZWmMnEdbiLvYNh/mdown#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u
@@ -49,6 +49,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS. All of these 
 - [a qr-code renderer](https://github.com/ipfs/examples/tree/master/webapps/qr-render) - [example](
   https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here
 )
+- [hasteIPFS](http://bin.kubuxu.ovh) - IPFS based code bin. (Read only for now)
 
 ## Tools
 
