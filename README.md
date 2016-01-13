@@ -82,7 +82,6 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * 2015-09-13: [Introduction to IPFS ](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example/) (whatdoesthequantsay.com)
 * 2015-09-18: [The InterPlanetary File System Wants to Create a Permanent Web](http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web) (Vice // Motherboard)
 * 2015-11-01: [Eris + IPFS](https://db.erisindustries.com/distributed%20business/2015/11/01/eris-and-ipfs/) (erisindustries.com)
-* 2015-11-03: [Interview With Kyle Drake & Juan Benet on the IPFS](https://diginomics.com/interview-with-kyle-drake-juan-benet-on-the-ipfs/) (diginomics.com)
 
 ### Articles independently hosted on IPFS
 * 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
