@@ -23,7 +23,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 ## Apps
 
-* [beets](https://github.com/sampsyo/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
+* [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 * [Boards](http://ipfs.ydns.eu/ipns/boards.ydns.eu/) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards)
 * [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
 * [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
@@ -82,7 +82,6 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * 2015-09-13: [Introduction to IPFS ](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example/) (whatdoesthequantsay.com)
 * 2015-09-18: [The InterPlanetary File System Wants to Create a Permanent Web](http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web) (Vice // Motherboard)
 * 2015-11-01: [Eris + IPFS](https://db.erisindustries.com/distributed%20business/2015/11/01/eris-and-ipfs/) (erisindustries.com)
-* 2015-11-03: [Interview With Kyle Drake & Juan Benet on the IPFS](https://diginomics.com/interview-with-kyle-drake-juan-benet-on-the-ipfs/) (diginomics.com)
 
 ### Articles independently hosted on IPFS
 * 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
