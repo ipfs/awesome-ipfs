@@ -14,5 +14,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title and include a link to the package and why it should be included.
 - If you are submitting an article, include the date before, and sort if in the list by date. Example: `* YYYY-MM-dd: [<title≥](link) (<outlet>)`.
+- Submit products when they are useable, or at a state which has something to show which is awesome in itself. This cuts down on half-finished implementations.
 
 Thank you for your suggestions!
