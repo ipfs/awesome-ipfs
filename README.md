@@ -23,7 +23,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 ## Apps
 
-* [beets](https://github.com/sampsyo/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
+* [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 * [Boards](http://ipfs.ydns.eu/ipns/boards.ydns.eu/) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards)
 * [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
 * [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
