@@ -49,7 +49,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 - [a qr-code renderer](https://github.com/ipfs/examples/tree/master/webapps/qr-render) - [example](
   https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here
 )
-- [hasteIPFS](https://ipfs.io/ipns/bin.kubuxu.ovh/) - IPFS based code bin. (Read only for now)
+- [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/) - IPFS based code bin. (Read only for now)
 
 ## Tools
 
