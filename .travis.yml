@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list http://ipfs.ydns.eu/ipns/boards.ydns.eu/
+  - git diff master.. --name-only | grep '.md' | xargs awesome_bot --allow-dupe --white-list http://ipfs.ydns.eu/ipns/boards.ydns.eu/
