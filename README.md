@@ -80,6 +80,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 
 * [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) (YouTube)
 * [Juan Bennet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) (YouTube)
+* [Juan Bennet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w) (YouTube) ([IPFS Mirror](https://t.co/RvXSFakZ3M))
 
 ## Archives
 
