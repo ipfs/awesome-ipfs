@@ -74,6 +74,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipget](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
 * [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
 * [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
+* [ipfs-shrinkwrap](https://gateway.ipfs.io/ipfs/Qmekvk5cCHyvnMQKNf8qJCgANhsdD7vEgJnBQYGhzhWk7K) - Back up your npm dependencies on the permanent web.
 
 
 ## Videos
