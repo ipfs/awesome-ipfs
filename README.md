@@ -15,14 +15,18 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 ## Table of Contents
 
-* [Use Cases](#use-cases)
-* [Apps](#apps)
-* [Tools](#tools)
-* [Videos](#videos)
-* [Archives](#archives)
-* [Discussions](#discussions)
-* [Contribute](#contribute)
-* [License](#license)
+- [Use Cases](#use-cases)
+- [Apps](#apps)
+  - [Single page Webapps](#single-page-webapps)
+- [Tools](#tools)
+- [Videos](#videos)
+- [Archives](#archives)
+- [Articles and Press](#articles-and-press)
+  - [Articles independently hosted on IPFS](#articles-independently-hosted-on-ipfs)
+- [Discussions](#discussions)
+- [Contribute](#contribute)
+  - [Want to hack on IPFS?](#want-to-hack-on-ipfs)
+- [License](#license)
 
 ## Use Cases
 
@@ -84,7 +88,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 
 ## Archives
 
-## Articles
+## Articles and Press
 
 * 2016-09-12: [IPFS: The Internet Democratised](https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b) (medium.com)
 * 2016-05-20: [Changelog Podcast](https://changelog.com/204) (changelog.com)
