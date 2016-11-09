@@ -32,7 +32,6 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 ## Apps
 
-* [ipfs-search](http://ipfs-search.com) - Search engine for files and directories on IPFS. REST API only for now.
 * [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards)
 * [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
@@ -48,6 +47,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS.
 * [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
+* [ipfs-search](http://ipfs-search.com) - Search engine for files and directories on IPFS. REST API only for now.
 
 ### Single page Webapps
 
