@@ -15,7 +15,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 ## Table of Contents
 
-- [Use Cases](#use-cases)
+- [Platforms](#platforms)
 - [Apps](#apps)
   - [Single page Webapps](#single-page-webapps)
 - [Tools](#tools)
@@ -28,11 +28,17 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
   - [Want to hack on IPFS?](#want-to-hack-on-ipfs)
 - [License](#license)
 
-## Use Cases
+## Platforms
+
+* [akaska](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
+* [Beaker Browser](https://beakerbrowser.com/) - An experimental P2P browser that can view files over HTTP, IPFS, and [Dat](https://datproject.org/).
+* [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
+* [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
+* [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
+* [uport](https://uport.me/#home) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
 
 ## Apps
 
-* [Beaker Browser](https://beakerbrowser.com/) - An experimental P2P browser that can view files over HTTP, IPFS, and [Dat](https://datproject.org/).
 * [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards)
 * [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
