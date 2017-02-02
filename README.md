@@ -29,7 +29,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 ## Apps
 
-* [akaska](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
+* [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
 * [Beaker Browser](https://beakerbrowser.com/) - An experimental P2P browser that can view files over HTTP, IPFS, and [Dat](https://datproject.org/).
 * [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards)
