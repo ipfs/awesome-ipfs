@@ -30,6 +30,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 ## Apps
 
 * [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
+* [Peergos](https://github.com/Peergos/Peergos) - A decentralised, secure file storage, sharing and social network that's surveillance resistant and doesn't expose your friend network.
 * [Beaker Browser](https://beakerbrowser.com/) - An experimental P2P browser that can view files over HTTP, IPFS, and [Dat](https://datproject.org/).
 * [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards)
@@ -41,6 +42,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
 * [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 * [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
+* [DecentralWiki](https://github.com/reposium-dco/decentralwiki) - This is a Decentralized version of Wikipedia built on IPFS that offers users a search through Wikipedia.
 * [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events.
 * [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [GitHub](https://github.com/kpcyrd/ipfs.ink)
 * [ipfs-search](http://ipfs-search.com) - Search engine for files and directories on IPFS.
@@ -50,10 +52,15 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
 * [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 * [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS.
+* [Orbit-TextUI](https://github.com/orbitdb/orbit-textui) - Terminal client for Orbit
 * [Philes](http://philes.co) - Philes is a browser-based, IPFS-powered distributed notepad (editor & viewer).
 * [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
 * [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
 * [uport](https://uport.me/#home) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
+* [IPFSTube](https://github.com/download13/ipfstube) - Simple ipfs video player, you can watch videos from hashes and upload your own. See [LIVE](https://ipfstube.erindachtler.me/)  
+* [IPFSDroid](https://github.com/ligi/IPFSDroid) - Android App for the The InterPlanetary File System
+* [Destore.io](http://destore.io/) - DeStore aims to build a decentralized peer-to-peer file storage platform with a trustless cryptocurrency payment system [github](https://github.com/DeStore/destore)
+
 
 ### Single page Webapps
 
@@ -83,6 +90,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
 * [ipfs-paste](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
 * [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
+* [ipfs-screenshot](https://github.com/uptownhr/ipfs-screenshot) - Like Cloudapp using IPFS. Screenshot publisher by selected area. (planning video/gif recorder)
 * [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
 * [ipget](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
 * [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
