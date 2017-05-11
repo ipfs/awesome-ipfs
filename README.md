@@ -45,8 +45,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [GitHub](https://github.com/kpcyrd/ipfs.ink)
 * [ipfs-search](http://ipfs-search.com) - Search engine for files and directories on IPFS.
 * [ipfs-share](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
-* [ipfs-userscript](https://github.com/loadletter/ipfs-redirect-userscript) -  Browser userscript for redirecting gateway.ipfs.io links to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
-* [ipfs.pics](https://ipfs.pics) - Upload and share pics. [GitHub](https://github.com/ipfspics/ipfspics-server)
+* [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
 * [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
 * [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 * [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS.
@@ -85,6 +84,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
 * [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
 * [ipget](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
+* [IPRedirect](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
 * [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
 * [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
 * [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows
@@ -105,7 +105,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * 2015-09-10: [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) (Hacked.com)
 * 2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example) (whatdoesthequantsay.com)
 * 2015-09-18: [The InterPlanetary File System Wants to Create a Permanent Web](http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web) (Vice // Motherboard)
-* 2015-11-01: [Eris + IPFS](http://db.erisindustries.com/distributed%20business/2015/11/01/eris-and-ipfs/) (erisindustries.com)
+* 2015-11-01: [Eris + IPFS](https://monax.io/2015/11/01/eris-and-ipfs/) (archived at monax.io)
 
 ### Articles independently hosted on IPFS
 * 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
