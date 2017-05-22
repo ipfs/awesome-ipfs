@@ -36,6 +36,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
 * [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 * [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
+* [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github](https://github.com/madvas/ethlance)
 * [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
 * [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
