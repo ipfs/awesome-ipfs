@@ -47,7 +47,6 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [ipfs-search](http://ipfs-search.com) - Search engine for files and directories on IPFS.
 * [ipfs-share](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
 * [ipfs-userscript](https://github.com/loadletter/ipfs-redirect-userscript) -  Browser userscript for redirecting gateway.ipfs.io links to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
-* [ipfs.pics](https://ipfs.pics) - Upload and share pics. [GitHub](https://github.com/ipfspics/ipfspics-server)
 * [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
 * [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 * [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS.
@@ -106,7 +105,6 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * 2015-09-10: [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) (Hacked.com)
 * 2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example) (whatdoesthequantsay.com)
 * 2015-09-18: [The InterPlanetary File System Wants to Create a Permanent Web](http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web) (Vice // Motherboard)
-* 2015-11-01: [Eris + IPFS](http://db.erisindustries.com/distributed%20business/2015/11/01/eris-and-ipfs/) (erisindustries.com)
 
 ### Articles independently hosted on IPFS
 * 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
