@@ -16,6 +16,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 ## Table of Contents
 
 - [Apps](#apps)
+  - [Proof of concept](#proof-of-concept)
   - [Single page Webapps](#single-page-webapps)
 - [Tools](#tools)
 - [Videos](#videos)
@@ -55,6 +56,9 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
 * [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
 * [uport](https://uport.me/#home) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
+
+### Proof of Concept
+* [Jupyter Notebook on ipfs](https://nbviewer.jupyter.org/urls/ipfs.io/ipfs/Qma5JcqN114NKPLrbeDBP1NRy87fqMNYeZSzcsr6WZD57N) - Rendered on https://nbviewer.jupyter.org. 
 
 ### Single page Webapps
 
