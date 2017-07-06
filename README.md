@@ -84,7 +84,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipcat](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
 * [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
 * [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
-* [ipfs-firefox-addon](https://github.com/lidel/ipfs-firefox-addon) - Firefox addon to provide access to IPFS via local gateway
+* [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway
 * [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
 * [ipfs-paste](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
 * [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
