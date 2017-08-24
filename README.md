@@ -51,7 +51,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [ipfs-share](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
 * [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
 * [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
-* [IPFSStore](https://ipfsstore.it) - File pinning for bitcoin
+* [IPFSStore](https://ipfsstore.it) - Pinning paid with Bitcoin
 * [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 * [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS.
 * [Partyshare](https://partysha.re) - A simple file sharing app.
