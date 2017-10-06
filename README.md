@@ -58,6 +58,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
 * [uport](https://uport.me/#home) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
 * [gogo.tattoo](http://gogo.tattoo) - Gogo Tattoo Project uses IPFS, DLTs and other modern technologies to offer tattoo artists and wearers an unbreakable lifetime record of their portfolios. gogo.tattoo app already has a feature to share works directly to IPFS.
+* [Surprise Me](https://gateway.ipfs.io/ipfs/QmWPcXvpsrAqYH6S4jF5DvamoL77YBtVvh6Drt6vhJ8BNr/) - Discover a new book with each page load because "RIGHT BOOK, IN THE RIGHT HANDS AT THE RIGHT TIME CAN CHANGE THE WORLD" . [Github](https://github.com/konarkmodi/ipfs-surprise-me)
 
 ### Single page Webapps
 
