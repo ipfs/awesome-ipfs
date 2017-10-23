@@ -58,6 +58,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
 * [uport](https://uport.me/#home) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
 * [gogo.tattoo](http://gogo.tattoo) - Gogo Tattoo Project uses IPFS, DLTs and other modern technologies to offer tattoo artists and wearers an unbreakable lifetime record of their portfolios. gogo.tattoo app already has a feature to share works directly to IPFS.
+* [papillon](https://github.com/gogank/papillon) - A static blog generater which can publish your blog onto IPFS. 
 
 ### Single page Webapps
 
@@ -96,6 +97,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
 * [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows
 * [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path
+
 
 ## Videos
 
