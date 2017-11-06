@@ -36,6 +36,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [Blokaly](https://www.blokaly.com) - A badge issuing, sharing and display platform based on IPFS.
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards)
 * [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
+* [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
 * [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 * [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 * [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage. 
@@ -110,6 +111,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 
 ## Articles and Press
 
+* 2017-06-13: [Decentralized & Distributed Edge Computing Comes to Computes.io] (https://blog.computes.io/decentralized-distributed-edge-computing-comes-to-computes-io-396aa062bc85)(medium.com)
 * 2017-03-31: [Using IPFS for IoT Communications](https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a) (medium.com)
 * 2016-09-12: [IPFS: The Internet Democratised](https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b) (medium.com)
 * 2016-05-20: [Changelog Podcast](https://changelog.com/204/) (changelog.com)
