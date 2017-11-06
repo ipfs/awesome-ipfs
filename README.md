@@ -53,7 +53,6 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 * [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS.
 * [Partyshare](https://partysha.re) - A simple file sharing app.
-* [Philes](http://philes.co) - Philes is a browser-based, IPFS-powered distributed notepad (editor & viewer).
 * [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
 * [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 * [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
