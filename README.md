@@ -79,7 +79,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
 - [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/) - IPFS based code bin. (Read only for now)
 - [Gorilla REPL viewer](https://github.com/keorn/ipfs-gorilla-repl) - [example](https://ipfs.io/ipfs/QmRNUauWDvZFkAp1Bw3kAode3jT8aH2vx7LYzbS7H6R3Mg/view.html?path=/ipfs/QmbRdyLXiFWrKc5hW1NbvpUxF9tLovWCPgiz4BDhjD9k3j)
-- [decentralized.cloud] - The simplest way to send your files around the world using IPFS.
+- [decentralized.cloud](decentralized.cloud) - The simplest way to send your files around the world using IPFS.
 
 ## Tools
 
