@@ -66,13 +66,13 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 These are narrowly-scoped, little JS "apps" deployed through IPFS.
 
-- [a markdown renderer](https://github.com/ipfs/examples/tree/master/webapps/markdown-viewer) - [example](
+- [a markdown renderer](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/markdown-viewer) - [example](
   https://ipfs.io/ipfs/QmSrCRJmzE4zE1nAfWPbzVfanKQNBhp7ZWmMnEdbiLvYNh/mdown#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u
 )
-- [a js video player](https://github.com/ipfs/examples/tree/master/webapps/play) - [example](
+- [a js video player](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/play) - [example](
   https://ipfs.io/ipfs/QmVc6zuAneKJzicnJpfrqCH9gSy6bz54JhcypfJYhGUFQu/play#/ipfs/QmTKZgRNwDNZwHtJSjCp6r5FYefzpULfy37JvMt9DwvXse
 )
-- [a qr-code renderer](https://github.com/ipfs/examples/tree/master/webapps/qr-render) - [example](
+- [a qr-code renderer](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/qr-render) - [example](
   https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here
 )
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
