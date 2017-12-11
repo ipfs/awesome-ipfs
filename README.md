@@ -61,6 +61,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
 * [uport](https://uport.me/#home) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
 * [gogo.tattoo](http://gogo.tattoo) - Gogo Tattoo Project uses IPFS, DLTs and other modern technologies to offer tattoo artists and wearers an unbreakable lifetime record of their portfolios. gogo.tattoo app already has a feature to share works directly to IPFS.
+* [OpenBazaar](https://www.openbazaar.org/) - This new version(v2.0) is built on IPFS, Openbazaar stores can now be accessible to buyers even when they are offline.
 
 ### Single page Webapps
 
