@@ -39,7 +39,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
 * [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 * [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
-* [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage. 
+* [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage.
 * [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github](https://github.com/madvas/ethlance)
 * [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
@@ -50,6 +50,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [GitHub](https://github.com/kpcyrd/ipfs.ink)
 * [ipfs-search](http://ipfs-search.com) - Search engine for files and directories on IPFS.
 * [ipfs-share](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
+* [ipfs-to-ens](https://monkybrain.github.io/ipfs-to-ens/) - Decentralized application that makes it easy to store an IPFS content hash for your ENS domain (.eth)
 * [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
 * [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
 * [IPFSStore](https://ipfsstore.it) - Pinning paid with Bitcoin
