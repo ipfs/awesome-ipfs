@@ -39,7 +39,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
 * [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 * [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
-* [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage. 
+* [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage.
 * [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github](https://github.com/madvas/ethlance)
 * [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
@@ -107,6 +107,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) (YouTube)
 * [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) (YouTube)
 * [Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w) (YouTube) ([IPFS Mirror](https://ipfs.io/ipfs/QmX8LDhDSYdX3xG6cHFUybXLDSuvo9Lz6wF5NU3UVmJRnB))
+* [Juan Benet at BPASE 2018 - Filecoin to IPFS relationship](https://www.youtube.com/watch?v=vyRZBeMtkrA) (YouTube)
 
 ## Archives
 
