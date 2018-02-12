@@ -107,7 +107,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) (YouTube)
 * [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) (YouTube)
 * [Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w) (YouTube) ([IPFS Mirror](https://ipfs.io/ipfs/QmX8LDhDSYdX3xG6cHFUybXLDSuvo9Lz6wF5NU3UVmJRnB))
-* [Juan Benet at BPASE 2018 - Filecoin to IPFS relationship](https://www.youtube.com/watch?v=vyRZBeMtkrA) (YouTube)
+* [Juan Benet at BPASE 2018](https://www.youtube.com/watch?v=vyRZBeMtkrA) (YouTube) - Filecoin to IPFS relationship
 
 ## Archives
 
