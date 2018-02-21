@@ -31,7 +31,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 * [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
 * [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - Decentralized content publishing / monetization platform.
-* [Arbore](https://github.com/MichaelMure/TotallyNotArbore) - A friend-to-friend file-sharing app build on top of IPFS.
+* [Arbore](http://arbo.re) - A friend-to-friend file-sharing app build on top of IPFS.
 * [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 * [Blokaly](https://www.blokaly.com) - A badge issuing, sharing and display platform based on IPFS.
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards)
