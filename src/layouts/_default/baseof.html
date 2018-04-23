@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  {{ partial "head" . }}
+</head>
+
+<body>
+  <div class="charcoal sans-serif w-90 mw8 center">
+    <nav class="mh2 montserrat mv4 fw6 flex-wrap ttu tracked sans-serif flex flex-between">
+      <a href="{{ .Site.BaseURL }}/" class="w-100 w-auto-l flex items-center pv3 pv0-l flex-grow-1 flex items-center justify-center justify-start-l no-underline" >
+        <img alt="IPFS" src="{{ .Site.BaseURL }}/images/logo.png" class="w3 h3 mr3">
+        <h1 class="f3 white">Awesome IPFS</h1>
+      </a>
+  
+      {{ $site := .Site }}
+      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+      {{ $color := (index $site.Data.categories $name).color }}
+      <a href="/categories/{{ $name | urlize }}"
+        class="flex-grow-1 flex items-center justify-center white no-underline pa3 bg-animate dib bg-{{ $color }}-muted hover-bg-{{ $color }}">
+        {{ $name }}
+      </a>
+      {{ end }}
+    </nav>
+
+    {{ template "main" . }}
+
+    <footer class="mv4 mh2 montserrat ttu tc gray">
+      <a target="_blank" href="https://github.com/ipfs/awesome-ipfs" class="gray no-underline">GitHub</a> | 
+      <a target="_blank" href="https://github.com/ipfs/awesome-ipfs/blob/static-site/CONTRIBUTING.md" class="gray no-underline"> Suggest a new item</a> |
+      <a target="_blank" href="https://discuss.ipfs.io/c/ecosystem" class="gray no-underline">Discuss</a>
+    </footer>
+  </div>
+  <script src='{{ .Site.BaseURL }}/app.js'></script>
+</body>
+</html>

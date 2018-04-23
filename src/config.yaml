@@ -1,0 +1,11 @@
+baseurl: ''
+relativeurls: true
+languageCode: en
+pluralizelisttitles: false
+removePathAccents: true
+title: Awesome IPFS
+
+params:
+  Description: >-
+    Useful resources for using IPFS and building things on top of it
+  image: /images/banner.png
