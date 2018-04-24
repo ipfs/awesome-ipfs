@@ -51,6 +51,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [GitHub](https://github.com/kpcyrd/ipfs.ink)
 * [ipfs-search](http://ipfs-search.com) - Search engine for files and directories on IPFS.
 * [ipfs-share](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
+* [ipfs-to-ens](https://monkybrain.github.io/ipfs-to-ens/) - Decentralized application that makes it easy to store an IPFS content hash for your ENS domain (.eth)
 * [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
 * [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
 * [IPFSStore](https://ipfsstore.it) - Pinning paid with Bitcoin
