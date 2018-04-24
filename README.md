@@ -101,6 +101,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
 * [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows
 * [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path
+* [ipfs-add-from-encrypted](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - Encrypt a file with AES256 then add to IPFS
 
 ## Videos
 
