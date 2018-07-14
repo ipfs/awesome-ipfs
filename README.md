@@ -57,6 +57,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [IPFSStore](https://ipfsstore.it) - Pinning paid with Bitcoin
 * [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 * [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS.
+* [Origin Protocol](https://demo.originprotocol.com/) - Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS. ([Gateway](https://ipfs.io/ipfs/QmWP28bNAJbkiKrXHAHzotKCvLyNragErycSYQQR9KiFby/#/)) [Github](https://github.com/OriginProtocol/demo-dapp) 
 * [Partyshare](https://partysha.re) - A simple file sharing app.
 * [Filemap](https://filemap.xyz/) - Upload files to a geographic point and never memorize a link again.
 * [FileNation](https://filenation.io/) - The simplest way to send your files around the world using IPFS.
