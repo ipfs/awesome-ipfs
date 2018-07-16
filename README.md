@@ -127,6 +127,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 
 ## Articles and Press
 
+* 2018-07-11: [On future-proof cryptographic hashes](https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/) (pascalprecht.github.io)
 * 2017-06-13: [Decentralized & Distributed Edge Computing Comes to Computes.io](https://blog.computes.io/decentralized-distributed-edge-computing-comes-to-computes-io-396aa062bc85) (medium.com)
 * 2017-03-31: [Using IPFS for IoT Communications](https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a) (medium.com)
 * 2016-09-12: [IPFS: The Internet Democratised](https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b) (medium.com)
