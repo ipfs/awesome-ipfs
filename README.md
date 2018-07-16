@@ -32,13 +32,14 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
 * [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - Decentralized content publishing / monetization platform.
 * [Arbore](http://arbo.re) - A friend-to-friend file-sharing app build on top of IPFS.
+* [Arpadyne](https://arpadyne.computes.com) - The New Internet - DNS powered by OrbitDB. Content delivered via IPFS.
 * [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
-* [Blokaly](https://www.blokaly.com) - A badge issuing, sharing and display platform based on IPFS.
+* [Blokaly](https://github.com/blokaly) - A badge issuing, sharing and display platform based on IPFS.
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub](https://github.com/fazo96/ipfs-boards)
 * [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
 * [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
 * [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
-* [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
+* [digx](https://digix.global) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 * [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage.
 * [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github](https://github.com/madvas/ethlance)
 * [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
@@ -56,7 +57,10 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [IPFSStore](https://ipfsstore.it) - Pinning paid with Bitcoin
 * [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 * [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS.
+* [Origin Protocol](https://demo.originprotocol.com/) - Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS. ([Gateway](https://ipfs.io/ipfs/QmWP28bNAJbkiKrXHAHzotKCvLyNragErycSYQQR9KiFby/#/)) [Github](https://github.com/OriginProtocol/demo-dapp) 
 * [Partyshare](https://partysha.re) - A simple file sharing app.
+* [Philes](https://github.com/chrismatthieu/philes) - A simple browser-based IPFS notepad app.
+* [Pathephone](https://pathephone.github.io) - Distributed music streaming app.
 * [Filemap](https://filemap.xyz/) - Upload files to a geographic point and never memorize a link again.
 * [FileNation](https://filenation.io/) - The simplest way to send your files around the world using IPFS.
 * [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
@@ -66,6 +70,8 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [gogo.tattoo](http://gogo.tattoo) - Gogo Tattoo Project uses IPFS, DLTs and other modern technologies to offer tattoo artists and wearers an unbreakable lifetime record of their portfolios. gogo.tattoo app already has a feature to share works directly to IPFS.
 * [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) - Build your wiki system base on ipfs and markdown.
 * [infura.io](https://infura.io) - A Infrastructure: use API and developer tools provide secure, reliable, and scalable access to Ethereum and IPFS to help build decentralized application easier.
+* [Temporal](https://github.com/RTradeLtd/Temporal) - Temporal is an easy to use API and platform for integrating IPFS and other distributed/decentralized storage technologies into enterprise applications
+* [Textile Photos](https://www.textile.photos) - Textile Photos is a secure, mobile digital wallet for your photos. [GitHub](https://github.com/textileio/textile-mobile)
 
 ### Single page Webapps
 
@@ -102,6 +108,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipget](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
 * [IPRedirect](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
 * [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
+* [Orion](https://github.com/Siderus/Orion) - KISS, Easy to setup and use IPFS node for macOS, Windows and Linux.
 * [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
 * [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows
 * [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path
