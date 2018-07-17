@@ -58,7 +58,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 * [markup.rocks](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 * [NodeFort.io](https://www.nodefort.io) - Web-based IPFS node hosting service.
 * [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS.
-* [Origin Protocol](https://demo.originprotocol.com/) - Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS. ([Gateway](https://ipfs.io/ipfs/QmWP28bNAJbkiKrXHAHzotKCvLyNragErycSYQQR9KiFby/#/)) [Github](https://github.com/OriginProtocol/demo-dapp) 
+* [Origin Protocol](https://demo.originprotocol.com/) - Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS. ([Gateway](https://ipfs.io/ipfs/QmWP28bNAJbkiKrXHAHzotKCvLyNragErycSYQQR9KiFby/#/)) [Github](https://github.com/OriginProtocol/demo-dapp)
 * [Partyshare](https://partysha.re) - A simple file sharing app.
 * [Philes](https://github.com/chrismatthieu/philes) - A simple browser-based IPFS notepad app.
 * [Pathephone](https://pathephone.github.io) - Distributed music streaming app.
@@ -95,6 +95,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 
 ## Tools
 
+* [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) - Monitor the current block number of the Ethereum blockchain, and set alerts (stored locally using PouchDB in your browser) for when certain block heights are passed. ([github](https://github.com/MidnightLightning/ethereum-blockwatch))
 * [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
 * [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
 * [http2ipfs](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
