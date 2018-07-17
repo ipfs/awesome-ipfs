@@ -33,3 +33,7 @@ body {
 .fill-blue {
   fill: #357edd;
 }
+
+.fill-white {
+  fill: white;
+}

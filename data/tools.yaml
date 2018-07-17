@@ -1,5 +1,6 @@
 title: Tools
 color: yellow
+icon: stroke_code
 description: Tools built on the top of IPFS.
 content:
 - title: cachewarmer

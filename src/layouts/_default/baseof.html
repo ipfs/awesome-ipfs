@@ -7,7 +7,7 @@
 <body>
   <div class="charcoal sans-serif w-90 mw8 center">
     <nav class="mh2 montserrat mv4 fw6 flex-wrap ttu tracked sans-serif flex flex-between">
-      <a href="{{ .Site.BaseURL }}/" class="w-100 w-auto-l flex items-center pv3 pv0-l flex-grow-1 flex items-center justify-center justify-start-l no-underline" >
+      <a href="{{ .Site.BaseURL }}/" class="w-100 w-auto-l flex items-center pv3 pv0-l mr4 flex-grow-1 flex items-center justify-center justify-start-l no-underline" >
         <img alt="IPFS" src="{{ .Site.BaseURL }}/images/logo.png" class="w3 h3 mr3">
         <h1 class="f3 white">Awesome IPFS</h1>
       </a>
@@ -15,8 +15,10 @@
       {{ $site := .Site }}
       {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
       {{ $color := (index $site.Data.categories $name).color }}
+      {{ $icon := print (index $site.Data.categories $name).icon ".svg" }}
       <a href="/categories/{{ $name | urlize }}"
         class="flex-grow-1 flex items-center justify-center white no-underline pa3 bg-animate dib bg-{{ $color }}-muted hover-bg-{{ $color }}">
+        <span class="w2 h2 fill-white mr2">{{ partial (print "icons/" $icon ) }}</span>
         {{ $name }}
       </a>
       {{ end }}

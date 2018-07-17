@@ -21,6 +21,8 @@ yarn-debug.log*
 yarn-error.log*
 yarn.lock
 
+glyph*.svg
+stroke*.svg
 public
 dist
 /src/resources

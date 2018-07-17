@@ -1,5 +1,6 @@
 title: Apps
 color: aqua
+icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
   - title: akasha

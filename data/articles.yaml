@@ -1,5 +1,6 @@
 title: Articles
 color: navy
+icon: stroke_pencil
 description: Articles about the decentralized web and IPFS.
 content:
   - title: Decentralized & Distributed Edge Computing Comes to Computes.io

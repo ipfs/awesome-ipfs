@@ -7,7 +7,13 @@ const cssPath = path.join(__dirname, '../src/css')
 const jsPath = path.join(__dirname, '../src/js')
 const http = require('http')
 
-const runHugo = () => runAll(['build:hugo'])
+const runHugo = () => {
+  console.log('Rebuilding...')
+  return runAll(['build:hugo'], {
+    stdout: process.stdout,
+    stderr: process.stderr
+  }).then(() => console.log('Done!')).catch(console.log)
+}
 
 const handler = (path) => {
   if (path.startsWith(dataFolder)) {
@@ -23,7 +29,7 @@ const handler = (path) => {
 
 async function run () {
   console.log('Preparing fonts, css, js and data...')
-  await runAll(['build:fonts', 'build:css', 'build:js', 'build:data'], {parallel: true})
+  await runAll(['build:fonts', 'build:css', 'build:js', 'build:css', 'build:data'], {parallel: true})
   console.log('Running Hugo once...')
   await runHugo()
 

@@ -1,6 +1,7 @@
 title: Videos
 color: red
 description: Videos about IPFS.
+icon: stroke_speaker
 content:
   - title: IPFS Alpha - Why we must redistribute the web
     website: https://www.youtube.com/watch?v=skMTdSEaCtA

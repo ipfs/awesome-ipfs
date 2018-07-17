@@ -14,6 +14,7 @@
     "build": "run-s build:*",
     "build:readme": "node ./scripts/make-readme.js",
     "build:fonts": "shx mkdir -p src/static/fonts && shx cp node_modules/ipfs-css/fonts/* src/static/fonts",
+    "build:icons": "shx cp node_modules/ipfs-css/icons/* src/layouts/partials/icons",
     "build:css": "postcss --no-map --use postcss-import cssnano -o src/static/app.css src/css/*.css",
     "build:js": "browserify -g uglifyify src/js/app.js -o src/static/app.js",
     "build:data": "node ./scripts/make-data.js",
