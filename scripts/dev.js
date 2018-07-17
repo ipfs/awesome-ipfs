@@ -51,7 +51,7 @@ async function run () {
   })
 
   watcher
-    .on('ready', () =>   console.log('Listening on :8080'))
+    .on('ready', () => console.log('Listening on :8080'))
     .on('add', handler)
     .on('change', handler)
     .on('unlink', handler)
