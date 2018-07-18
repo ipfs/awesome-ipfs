@@ -1,0 +1,28 @@
+{{- $title := or .Title .Site.Title -}}
+{{- $description := or .Description .Site.Params.Description -}}
+{{- $image := print .Site.BaseURL (or .Params.image .Site.Params.Image) -}}
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $description }}">
+<link rel="canonical" href="{{ .Permalink }}">
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="{{ $title }}"/>
+<meta name="twitter:description" content="{{ $description }}"/>
+<meta name="twitter:image:src" content="{{ $image }}"/>
+
+<meta property="og:locale" content="{{ .Site.LanguageCode }}" />
+<meta property="og:title" content="{{ $title }}" />
+<meta property="og:description" content="{{ $description }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta property="og:image" content="{{ $image }}" />
+
+<meta name="msapplication-TileColor" content="#0b3a53">
+<meta name="theme-color" content="#0b3a53">
+<link rel="manifest" href="{{ .Site.BaseURL }}/manifest.json">
+<link rel="shortcut icon" href="{{ .Site.BaseURL }}/favicon.ico">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}/app.css" >

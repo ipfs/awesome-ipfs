@@ -1,0 +1,11 @@
+title: Videos
+color: red
+description: Videos about IPFS.
+icon: stroke_speaker
+content:
+  - title: IPFS Alpha - Why we must redistribute the web
+    website: https://www.youtube.com/watch?v=skMTdSEaCtA
+  - title: Juan Benet at Stanford 2015
+    website: https://www.youtube.com/watch?v=HUVmypx9HGI
+  - title: Juan Benet at Fullstack Fest 2016
+    website: https://www.youtube.com/watch?v=jONZtXMu03w

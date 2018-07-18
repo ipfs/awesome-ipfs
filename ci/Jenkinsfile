@@ -1,0 +1,5 @@
+website([
+  website: 'awesome.ipfs.io',
+  disable_publish: true,
+  record: '_dnslink.dev'
+])

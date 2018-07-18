@@ -1,0 +1,237 @@
+title: Apps
+color: aqua
+icon: stroke_marketing
+description: Applications built with IPFS or with functionality that uses IPFS.
+content:
+  - title: akasha
+    website: http://akasha.world/
+    description: >
+      A Next-Generation Social Media Network, powered by Ethereum and embedded
+      into IPFS.
+  - title: Alexandria
+    website: http://www.alexandria.io/learn/#integrated-technologies
+    description: >
+      Decentralized content publishing / monetization platform.
+  - title: Arbore
+    website: http://arbo.re
+    description: >
+      A friend-to-friend file-sharing app build on top of IPFS.
+  - title: beets
+    source: https://github.com/beetbox/beets
+    description: >
+      Beets has a plugin which allows for easy sharing of music libraries
+      using IPFS
+  - title: Blokaly
+    source: https://github.com/blokaly
+    description: >
+      A badge issuing, sharing and display platform based on IPFS.
+  - title: Boards
+    website: https://ipfs.io/ipns/boards.ydns.eu
+    source: https://github.com/fazo96/ipfs-boards
+    description: >
+      Distributed social platform that runs in the browser.
+  - title: Cohort
+    source: https://github.com/zignig/cohort
+    description: >
+      A golang app to preset a threejs interface and get all of its assets
+      out of IPFS.
+  - title: Computes
+    website: https://computes.io
+    picture: /images/computes.svg
+    description: >
+      Computes.io is a distributed supercomputer powered by IPFS.
+  - title: dapple
+    source: https://github.com/nexusdev/dapple
+    description: >
+      Dapple is a Solidity developer multitool designed to manage the growing
+      complexity of interconnected smart contract systems.
+  - title: digx
+    website: https://www.dgx.io/
+    description: >
+      Digix is an asset-tokenisation platform built on Ethereum and IPFS.
+  - title: dtube
+    website: https://d.tube
+    picture: /images/dtube.png
+    description: >
+      Distributed video sharing with steem.it intergrations, using ipfs for
+      backend storage.
+  - title: Ethlance
+    website: http://ethlance.com
+    source: https://github.com/madvas/ethlance
+    description: >
+      First completely decentralised job market platform built on Ethereum
+      and IPFS.
+  - title: git-ipfs-rehost
+    source: https://github.com/whyrusleeping/git-ipfs-rehost
+    description: >
+      A script to rehost your git repos in ipfs.
+  - title: Global Upload
+    website: https://globalupload.io/
+    description: >
+      File transportation service for IPFS, upload files to the future of
+      distributed web.
+  - title: HydrusNetwork
+    source: https://github.com/hydrusnetwork/hydrus
+    description: >
+      A booru-style media tagging application with a multitude of features,
+      recently added basic ipfs support.
+  - title: InterPlanetary Wayback
+    source: https://github.com/oduwsdl/ipwb
+    description: >
+      Web Archive (WARC) indexing and replay using IPFS.
+  - title: Interplanetary Wiki
+    source: https://github.com/jamescarlyle/ipfs-wiki
+    description: >
+      Wiki built on top of IPFS
+  - title: IPFS Event Drop
+    source: https://github.com/travisperson/ipfs-event-drops
+    description: >
+      An app that allows for improved visualization of ipfs events.
+  - title: IPFS Drive
+    website: http://ipfs-drive.ydns.eu
+    source: https://github.com/fazo96/ipfs-drive
+    description: >
+      In browser file manager for IPFS.
+  - title: ipfs.ink
+    website: https://ipfs.ink
+    source: https://github.com/kpcyrd/ipfs.ink
+    description: >
+      Publish and render markdown essays to and from ipfs.
+  - title: ipfs-search
+    website: http://ipfs-search.com
+    description: >
+      Search engine for files and directories on IPFS.
+  - title: ipfs-share
+    source: https://github.com/rameshvarun/ipfs-share
+    description: >
+      Pastebin/Image host/File sharing application
+  - title: ipfs.pics
+    source: https://github.com/ipfspics/ipfspics-server
+    description: >
+      Upload and share pics.
+  - title: IPFSBin
+    source: https://github.com/victorbjelkholm/ipfsbin
+    description: >
+      Pastebin clone build.
+  - title: IPFSStore
+    website: https://ipfsstore.it
+    description: >
+      Pinning paid with Bitcoin
+  - title: markup.rocks
+    website: https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u
+    source: https://github.com/davidar/markup.rocks
+    description: >
+      Pandoc-based markup editor/previewer/converter, ported to IPFS.
+  - title: Orbit
+    website: https://orbit.chat
+    source: https://github.com/haadcode/orbit
+    picture: /images/orbit.png
+    description: >
+      Distributed, peer-to-peer chat application on IPFS.
+  - title: Partyshare
+    website: https://partysha.re
+    description: >
+      A simple file sharing app.
+  - title: Filemap
+    website: https://filemap.xyz/
+    description: >
+      Upload files to a geographic point and never memorize a link again.
+  - title: FileNation
+    website: https://filenation.io/
+    description: >
+      The simplest way to send your files around the world using IPFS.
+  - title: Playback
+    source: https://mafintosh.github.io/playback/
+    description: >
+      IPFS playback support. This allows casting a video in IPFS to a Chromecast.
+  - title: PushToTalk
+    website: http://timothy.hobbs.cz/push-to-talk/index.html
+    description: >
+      Push to Talk lets you edit audio essays and publish them with IPFS.
+  - title: ujo
+    website: http://ujomusic.com/
+    description: >
+      A blockchain marketplace for musicians.
+  - title: uport
+    website: https://uport.me/#home
+    description: >
+      Uport is a mobile, self-sovereign identity and key management system,
+      built on the Ethereum blockchain.
+  - title: gogo.tattoo
+    website: http://gogo.tattoo
+    description: >
+      Gogo Tattoo Project uses IPFS, DLTs and other modern technologies to
+      offer tattoo artists and wearers an unbreakable lifetime record of their portfolios.
+      gogo.tattoo app already has a feature to share works directly to IPFS.
+  - title: IPFessay
+    website: https://gitlab.com/stavros/IPFessay
+    description: >
+      A simple way to publish uncensorable essays on IPFS.
+  - title: Hardbin
+    source: https://github.com/jes/hardbin
+    description: >
+      Hardbin is an encrypted pastebin, with the decryption key passed in
+      the URL fragment
+  - title: hasteIPFS
+    website: https://ipfs.io/ipns/bin.ipfs.ovh/
+    description: >
+      IPFS based code bin. (Read only for now)
+  - title: Gorilla REPL viewer
+    source: https://github.com/keorn/ipfs-gorilla-repl
+    demo: https://ipfs.io/ipfs/QmRNUauWDvZFkAp1Bw3kAode3jT8aH2vx7LYzbS7H6R3Mg/view.html?path=/ipfs/QmbRdyLXiFWrKc5hW1NbvpUxF9tLovWCPgiz4BDhjD9k3j
+    description: >
+      Gorilla is a rich REPL for Clojure in the notebook style.
+  - title: a markdown renderer
+    source: https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/markdown-viewer
+    demo: https://ipfs.io/ipfs/QmSrCRJmzE4zE1nAfWPbzVfanKQNBhp7ZWmMnEdbiLvYNh/mdown#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u
+  - title: a js video player
+    source: https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/play
+    demo: https://ipfs.io/ipfs/QmVc6zuAneKJzicnJpfrqCH9gSy6bz54JhcypfJYhGUFQu/play#/ipfs/QmTKZgRNwDNZwHtJSjCp6r5FYefzpULfy37JvMt9DwvXs
+  - title: a qr-code renderer
+    source: https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/qr-render
+    demo: https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here
+  - title: Arpadyne
+    website: https://arpadyne.computes.com
+    description: >
+      The New Internet - DNS powered by OrbitDB. Content delivered via IPFS.
+  - title: Temporal
+    source: https://github.com/RTradeLtd/Temporal
+    description: >
+      Temporal is an easy to use API and platform for integrating IPFS and other
+      distributed/decentralized storage technologies into enterprise applications
+  - title: Textile Photos
+    website: https://www.textile.photos
+    source: https://github.com/textileio/textile-mobile
+    picture: /images/textilephotos.png
+    description: >
+      Textile Photos is a secure, mobile digital wallet for your photos.
+  - title: Pathephone
+    website: https://pathephone.github.io
+    description: Distributed music streaming app.
+  - title: Origin Protocol
+    website: https://demo.originprotocol.com/
+    source: https://github.com/OriginProtocol/demo-dapp
+    description: >
+      Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS. 
+  - title: Philes
+    website: https://philes.co
+    source: https://github.com/chrismatthieu/philes
+    description: A simple browser-based IPFS notepad app.
+  - title: ipfs-md-wiki
+    source: https://github.com/daijiale/ipfs-md-wiki
+    description: Build your wiki system base on ipfs and markdown.
+  - title: infura.io
+    website: https://infura.io
+    picture: /images/infura.png
+    description: >
+      A Infrastructure: use API and developer tools provide secure, reliable, and
+      scalable access toEthereum and IPFS to help build decentralized application easier.
+  - title: NodeFort.io
+    website: https://www.nodefort.io
+    picture: /images/nodefort.png
+    description: Web-based IPFS node hosting service.
+  - title: OpenBazaar
+    website: https://www.openbazaar.org/
+    description: >
+      This new version(v2.0) is built on IPFS, Openbazaar stores can now be accessible
+      to buyers even when they are offline.

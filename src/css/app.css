@@ -1,0 +1,39 @@
+@import "../../node_modules/tachyons/css/tachyons.css";
+@import "../../node_modules/ipfs-css/ipfs.css";
+
+body {
+  background: url('./images/starfield.png') no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  overflow-y: scroll;
+}
+
+.grow2 {
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+
+.grow2:active,
+.grow2:hover,
+.grow2:focus {
+  transform: scale(1.05);
+}
+
+.focus-outline:focus {
+  outline: 0;
+  box-shadow: 0 0 0 .2rem rgba(201, 210, 215, .4);
+}
+
+.mt-auto {
+  margin-top: auto;
+}
+
+.fill-blue {
+  fill: #357edd;
+}
+
+.fill-white {
+  fill: white;
+}
