@@ -7,21 +7,22 @@ const cssPath = path.join(__dirname, '../src/css')
 const jsPath = path.join(__dirname, '../src/js')
 const http = require('http')
 
+const options = {
+  stdout: process.stdout,
+  stderr: process.stderr
+}
+
 const runHugo = () => {
-  console.log('Rebuilding...')
-  return runAll(['build:hugo'], {
-    stdout: process.stdout,
-    stderr: process.stderr
-  }).then(() => console.log('Done!')).catch(console.log)
+  return runAll(['build:hugo'], options).catch(() => {})
 }
 
 const handler = (path) => {
   if (path.startsWith(dataFolder)) {
-    runAll(['build:data'], {parallel: false}).then(runHugo)
+    runAll(['build:data'], options).then(runHugo)
   } else if (path.startsWith(cssPath)) {
-    runAll(['build:css'], {parallel: false}).then(runHugo)
+    runAll(['build:css'], options).then(runHugo)
   } else if (path.startsWith(jsPath)) {
-    runAll(['build:js'], {parallel: false}).then(runHugo)
+    runAll(['build:js'], options).then(runHugo)
   } else {
     runHugo()
   }
@@ -29,8 +30,12 @@ const handler = (path) => {
 
 async function run () {
   console.log('Preparing fonts, css, js and data...')
-  await runAll(['build:fonts', 'build:css', 'build:js', 'build:css', 'build:data'], {parallel: true})
-  console.log('Running Hugo once...')
+  await runAll(['build:fonts', 'build:css', 'build:js', 'build:icons', 'build:data'], {
+    stdout: process.stdout,
+    stderr: process.stderr,
+    parallel: true
+  })
+
   await runHugo()
 
   console.log('Starting server...')
