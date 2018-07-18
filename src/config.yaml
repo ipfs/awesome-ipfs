@@ -5,6 +5,9 @@ pluralizelisttitles: false
 removePathAccents: true
 title: Awesome IPFS
 
+disableKinds:
+  - taxonomyTerm
+
 params:
   Description: >-
     Useful resources for using IPFS and building things on top of it
