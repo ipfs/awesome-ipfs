@@ -17,6 +17,13 @@ const cards = Array.from(document.querySelectorAll('.Card'))
     return 0
   })
 
+function randomizr () {
+  const cards = document.querySelector('.CardContainer')
+  for (var i = cards.children.length; i >= 0; i--) {
+    cards.appendChild(cards.children[Math.random() * i | 0])
+  }
+}
+
 function update (display) {
   cards.forEach((c) => {
     if (display.indexOf(c.dataset.ref) >= 0) {
@@ -28,6 +35,8 @@ function update (display) {
     }
   })
 }
+
+randomizr()
 
 if (search) {
   search.classList.remove('dn')

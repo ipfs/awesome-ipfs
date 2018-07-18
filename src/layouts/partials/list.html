@@ -11,7 +11,7 @@
     type="text" />
 </div>
 
-<main class="mv4 flex flex-wrap justify-between" >
+<main class="CardContainer mv4 flex flex-wrap justify-between" >
   {{ range (sort . "Params.index") -}}
     <article data-ref="{{ .Params.index }}" class="Card flex flex-column bg-white shadow-4 grow2 br1 dark-gray b--black-10 flex-grow-1 ma2">
       {{ $cat := index .Params.categories 0 }}
