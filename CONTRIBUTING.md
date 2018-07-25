@@ -14,6 +14,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Submit products when they are useable, or at a state which has something to show which is awesome in itself. This cuts down on half-finished implementations.
 - Add the idea to the corresponding file on [`data`](./data) and make sure it matches the format.
 - You can add a picture to describe your idea on [`./src/static/images`](./src/static/images).
-- Make sure to run `node run build:readme` or `yarn build:readme` before submitting the Pull Request.
+- Make sure to run `npm run build:readme` or `yarn build:readme` before submitting the Pull Request.
 
 Thank you for your suggestions!
