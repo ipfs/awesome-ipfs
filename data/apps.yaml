@@ -3,6 +3,12 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: killcord
+    website: https://killcord.io/
+    source: https://github.com/nomasters/killcord
+    picture: /images/killcord.svg
+    description: >
+      A censorship resistant deadman's switch
   - title: akasha
     website: http://akasha.world/
     description: >
