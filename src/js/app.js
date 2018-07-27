@@ -43,11 +43,15 @@ if (search) {
   const input = search.querySelector('input')
 
   input.addEventListener('keyup', () => {
-    const search = input.value
+    let search = input.value
 
     if (search === '') {
       cards.forEach((c) => c.classList.remove('dn'))
       return
+    }
+
+    if (!search.endsWith('*')) {
+      search = `${search} ${search}*`
     }
 
     try {
