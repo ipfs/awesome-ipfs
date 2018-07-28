@@ -39,17 +39,9 @@
 
         {{- if isset .Params "picture" -}}
         <div class="mt2 mw5">
-          <img class="br2" src="{{ .Site.BaseURL }}{{ .Params.picture }}" >
-        </div>
-        {{ end }}
-
-        {{- if isset .Params "youtube" -}}
-        <div class="relative mt2 mw5" style="height: 0; padding-bottom: 56.25%">
-          <iframe class="absolute top-0 left-0 w-100 h-100"
-            type="text/html"
-            src="https://www.youtube.com/embed/{{ .Params.youtube }}"
-            allowfullscreen
-            frameborder="0"></iframe>
+          <a target="_blank" class="no-underline charcoal" href="{{ if .Params.website }}{{ .Params.website }}{{ else if .Params.source }}{{ .Params.source }}{{ else if .Params.demo }}{{ .Params.demo }}{{ end }}">
+            <img class="br2" src="{{ .Site.BaseURL }}{{ .Params.picture }}" >
+          </a>
         </div>
         {{ end }}
 

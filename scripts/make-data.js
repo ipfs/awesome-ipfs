@@ -8,12 +8,8 @@ const contentDir = path.join(__dirname, '../src/content')
 const indexesDir = path.join(__dirname, '../src/layouts/partials/indexes')
 
 const processDataType = (data) => {
-  const content = data.content.map((info, index) => {
+  const content = data.content.map(info => {
     const { website, ...more } = info
-
-    if (data.title === 'Videos' && website.includes('youtube')) {
-      more.youtube = website.replace('https://www.youtube.com/watch?v=', '')
-    }
 
     return {
       website: website,

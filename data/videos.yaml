@@ -5,7 +5,10 @@ icon: stroke_speaker
 content:
   - title: IPFS Alpha - Why we must redistribute the web
     website: https://www.youtube.com/watch?v=skMTdSEaCtA
+    picture: /images/ipfs-alpha.jpg
   - title: Juan Benet at Stanford 2015
     website: https://www.youtube.com/watch?v=HUVmypx9HGI
+    picture: /images/stanford-2015.jpg
   - title: Juan Benet at Fullstack Fest 2016
     website: https://www.youtube.com/watch?v=jONZtXMu03w
+    picture: /images/fullstack-fest-2016.jpg
