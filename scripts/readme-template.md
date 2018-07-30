@@ -6,20 +6,19 @@
 
 > Useful resources for using [IPFS](https://ipfs.io) and building things on top of it
 
-_This list is for projects, tools, or pretty much any things related to IPFS that
-are totally_ **awesome**_. This is for products which are already awesome - if
-you have plans for cool stuff to do with IPFS, you should build it, and then
-link it here. If you have an idea for an awesome thing to do with IPFS, a good
-place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
-[ipfs/notes](https://github.com/ipfs/notes)._
+_This list is for projects, tools, or pretty much any things related to IPFS that are totally_ **awesome**_. This is for products which are already awesome - if you have plans for cool stuff to do with IPFS, you should build it, and then link it here. If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or [ipfs/notes](https://github.com/ipfs/notes)._
 
 ## Table of Contents
 
+- [Contribute](#contribute-to-this-list)
 #PLACEHOLDER_TOC#
 - [Discussions](#discussions)
-- [Contribute](#contribute)
-  - [Want to hack on IPFS?](#want-to-hack-on-ipfs)
+- [Want to hack on IPFS?](#want-to-hack-on-ipfs)
 - [License](#license)
+
+## Contribute to this list!
+
+Everyone is welcome to submit their new awesome-ipfs item. Check the [CONTRIBUTING.md guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) to learn how to do so.
 
 #PLACEHOLDER_CATEGORIES#
 
@@ -27,11 +26,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 
 * [CRDTs discussion](https://github.com/ipfs/notes/issues/23)
 
-## Contribute
-
-Please add (or remove) stuff from this list if you see anything awesome! [Open an issue](https://github.com/ipfs/awesome-ipfs/issues) or a PR.
-
-### Want to hack on IPFS?
+## Want to hack on IPFS?
 
 [![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/contributing.md)
 
