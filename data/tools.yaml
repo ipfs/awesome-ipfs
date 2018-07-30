@@ -70,7 +70,8 @@ content:
   description: IPFS Linux Init Daemon
 - title: Siderus Orion
   picture: /images/orion.png
-  source: https://orion.siderus.io
+  website: https://orion.siderus.io
+  source: https://github.com/Siderus/Orion
   description: Easy to use IPFS desktop client for macOS, Windows and Linux
 - title: ipfsecret
   source: https://github.com/c2fo-lab/ipfsecret

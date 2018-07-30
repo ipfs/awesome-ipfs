@@ -119,7 +119,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 - [IPRedirect](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn't had an extension written for it yet and has support for userscripts.
 - [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
 - [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
-- [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux
+- [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux [Source](https://github.com/Siderus/Orion)
 
 ## Videos
 
