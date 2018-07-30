@@ -25,6 +25,9 @@ content:
   source: https://github.com/ipfs/ipfs-companion
   picture: /images/companion.png
   description: Browser extension that simplifies access to IPFS resources.
+- title: ipfs-dropzone
+  source: https://github.com/fiatjaf/ipfs-dropzone
+  description: Dropzone.js fork that publishes files instead of uploading to an URL.
 - title: ipfs-gui
   source: https://github.com/marcin212/ipfs-gui
   description: Windows UI integration and IPFS installer

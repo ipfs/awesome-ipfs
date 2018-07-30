@@ -6,23 +6,23 @@
 
 > Useful resources for using [IPFS](https://ipfs.io) and building things on top of it
 
-_This list is for projects, tools, or pretty much any things related to IPFS that are totally_ **awesome**_. This is for products which are already awesome - if you have plans for cool stuff to do with IPFS, you should build it, and then
-link it here. If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or [ipfs/notes](https://github.com/ipfs/notes)._
+_This list is for projects, tools, or pretty much any things related to IPFS that
+are totally_ **awesome**_. This is for products which are already awesome - if
+you have plans for cool stuff to do with IPFS, you should build it, and then
+link it here. If you have an idea for an awesome thing to do with IPFS, a good
+place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
+[ipfs/notes](https://github.com/ipfs/notes)._
 
 ## Table of Contents
 
-- [Contribute](#contribute-to-this-list)
 - [Apps](#apps)
 - [Articles](#articles)
 - [Tools](#tools)
 - [Videos](#videos)
 - [Discussions](#discussions)
-- [Want to hack on IPFS?](#want-to-hack-on-ipfs)
+- [Contribute](#contribute)
+  - [Want to hack on IPFS?](#want-to-hack-on-ipfs)
 - [License](#license)
-
-## Contribute to this list!
-
-Everyone is welcome to submit their new awesome-ipfs item. Check the [CONTRIBUTING.md guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) to learn how to do so.
 
 ## Apps
 
@@ -106,6 +106,7 @@ Everyone is welcome to submit their new awesome-ipfs item. Check the [CONTRIBUTI
 - [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
 - [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
 - [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources.
+- [ipfs-dropzone](https://github.com/fiatjaf/ipfs-dropzone) - Dropzone.js fork that publishes files instead of uploading to an URL.
 - [ipfs-gui](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer
 - [ipfs-gui](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer
 - [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
@@ -132,7 +133,11 @@ Everyone is welcome to submit their new awesome-ipfs item. Check the [CONTRIBUTI
 
 * [CRDTs discussion](https://github.com/ipfs/notes/issues/23)
 
-## Want to hack on IPFS?
+## Contribute
+
+Please add (or remove) stuff from this list if you see anything awesome! [Open an issue](https://github.com/ipfs/awesome-ipfs/issues) or a PR.
+
+### Want to hack on IPFS?
 
 [![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/contributing.md)
 
