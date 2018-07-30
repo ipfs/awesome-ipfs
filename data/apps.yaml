@@ -140,6 +140,8 @@ content:
       A simple file sharing app.
   - title: Filemap
     website: https://filemap.xyz/
+    source: https://github.com/fiatjaf/filemap.xyz
+    picture: /images/filemap.jpg
     description: >
       Upload files to a geographic point and never memorize a link again.
   - title: FileNation
