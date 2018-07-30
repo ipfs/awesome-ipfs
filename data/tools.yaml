@@ -68,10 +68,10 @@ content:
 - title: ipfs-linux-service
   source: https://github.com/dylanPowers/ipfs-linux-service
   description: IPFS Linux Init Daemon
-- title: Orion
+- title: Siderus Orion
   picture: /images/orion.png
   source: https://github.com/Siderus/Orion
-  description: KISS, Easy to setup and use IPFS node for macOS, Windows and Linux.
+  description: Easy to use IPFS desktop client for macOS, Windows and Linux
 - title: ipfsecret
   source: https://github.com/c2fo-lab/ipfsecret
   description: Encrypt and decrypt IPFS files with a secret passphrase
