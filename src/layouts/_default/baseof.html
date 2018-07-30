@@ -17,7 +17,7 @@
       {{ $color := (index $site.Data.categories $name).color }}
       {{ $icon := print (index $site.Data.categories $name).icon ".svg" }}
       <a href="/categories/{{ $name | urlize }}"
-        class="flex-grow-1 flex items-center justify-center white no-underline pa3 bg-animate dib bg-{{ $color }}-muted hover-bg-{{ $color }}">
+        class="flex-grow-1 flex items-center justify-center white no-underline pa2 bg-animate dib bg-{{ $color }}-muted hover-bg-{{ $color }}">
         <span class="w2 h2 fill-white mr2">{{ partial (print "icons/" $icon ) }}</span>
         {{ $name }}
       </a>

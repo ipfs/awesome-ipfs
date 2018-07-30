@@ -1,0 +1,23 @@
+title: Datasets
+color: teal
+icon: stroke_copy
+description: Datasets who live or are replicated to IPFS
+content:
+  - title: IETF RFC Archive
+    hash: /ipfs/QmNvTjdqEPjZVWCvRWsFJA1vK7TTw1g9JP6we1WBJTRADM
+    website: https://ipfs.io/ipfs/QmNvTjdqEPjZVWCvRWsFJA1vK7TTw1g9JP6we1WBJTRADM
+    source: https://github.com/ipfs/archives/issues/18
+    description:
+    size: 500MB
+  - title: Presidental Daily Briefs
+    hash: /ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89
+    website: https://ipfs.io/ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89
+    source: https://github.com/ipfs/archives/issues/23
+    description:
+    size: 480MB
+  - title: XKCD
+    hash: /ipfs/Qmb8wsGZNXt5VXZh1pEmYynjB6Euqpq3HYyeAdw2vScTkQ
+    website: https://ipfs.io/ipfs/Qmb8wsGZNXt5VXZh1pEmYynjB6Euqpq3HYyeAdw2vScTkQ
+    source: https://github.com/ipfs/archives/issues/21
+    description:
+    size: 122MB

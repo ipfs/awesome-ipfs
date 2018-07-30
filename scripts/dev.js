@@ -46,7 +46,8 @@ async function run () {
     autoIndex: true
   })
 
-  http.createServer(ecstatic).listen(8080)
+  const port = process.env.PORT || 8080
+  http.createServer(ecstatic).listen(port)
 
   const watcher = chokidar.watch([dataFolder, srcFolder], {
     ignored: (string) => string.indexOf('src/content') !== -1 ||
@@ -62,7 +63,7 @@ async function run () {
   })
 
   watcher
-    .on('ready', () => console.log('Listening on :8080'))
+    .on('ready', () => console.log('Listening on :' + port))
     .on('add', handler)
     .on('change', handler)
     .on('unlink', handler)
