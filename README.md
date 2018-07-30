@@ -124,6 +124,7 @@ place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or
 ## Videos
 
 - [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) 
+- [IPFS Simply Explained](https://www.youtube.com/watch?v=5Uj6uR3fp-U) 
 - [Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w) 
 - [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) 
 
