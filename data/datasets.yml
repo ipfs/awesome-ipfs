@@ -21,3 +21,33 @@ content:
     source: https://github.com/ipfs/archives/issues/21
     description:
     size: 122MB
+  - title: Old Internet Files
+    hash: /ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp
+    website: https://ipfs.io/ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp
+    source: https://github.com/ipfs/archives/issues/176
+    description:
+    size: 207MB
+  - title: yarchive.net
+    hash: /ipfs/QmdA5WkDNALetBn4iFeSepHjdLGJdxPBwZyY47ir1bZGAK
+    website: https://ipfs.io/ipfs/QmdA5WkDNALetBn4iFeSepHjdLGJdxPBwZyY47ir1bZGAK
+    source: https://github.com/ipfs/archives/issues/76
+    description:
+    size: 196MB
+  - title: World Wide Web History Project
+    hash: /ipfs/QmRTSA1UFHSx3z7taNRwUVM8AjB2EQwKvyZu3BfJg9QRtZ
+    website: https://ipfs.io/ipfs/QmRTSA1UFHSx3z7taNRwUVM8AjB2EQwKvyZu3BfJg9QRtZ
+    source: https://github.com/ipfs/archives/issues/159
+    description:
+    size: 92MB
+  - title: haveibeenpwnd.com passwords
+    hash: /ipfs/QmSRBDMksX7c5dfheGsYDdWrLdve5hBvXDQm7Yrov7KMJv
+    website: https://ipfs.io/ipfs/QmSRBDMksX7c5dfheGsYDdWrLdve5hBvXDQm7Yrov7KMJv
+    source: https://github.com/ipfs/archives/issues/157
+    description:
+    size: 43.5GB
+  - title: MDSConnect
+    hash: /ipfs/QmcvfB6pAqUfTnuAK8zFKVxbdhopnBPveJrDcy1JAA7HX5
+    website: https://ipfs.io/ipfs/QmcvfB6pAqUfTnuAK8zFKVxbdhopnBPveJrDcy1JAA7HX5
+    source: https://github.com/ipfs/archives/issues/152
+    description:
+    size: 18.4GB
