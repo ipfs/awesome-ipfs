@@ -83,6 +83,7 @@ content:
       recently added basic ipfs support.
   - title: InterPlanetary Wayback
     source: https://github.com/oduwsdl/ipwb
+    picture: /images/interplanetarywayback.png
     description: >
       Web Archive (WARC) indexing and replay using IPFS.
   - title: Interplanetary Wiki
