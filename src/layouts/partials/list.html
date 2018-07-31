@@ -44,7 +44,9 @@
         {{- if isset .Params "hash" -}}
           <div>
             <a href="https://ipfs.io{{ .Params.hash }}" target="_blank" alt="Website" title="Website" class="aqua hover-teal">
-              <code>{{ .Params.hash }}</code>
+              <abbr title="{{ .Params.hash }}">
+                <code>{{ substr .Params.hash 0 10 }}...{{ substr .Params.hash 47 5 }}</code>
+              </abbr>
             </a>
           </div>
         {{- end -}}
