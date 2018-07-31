@@ -218,7 +218,7 @@ content:
     website: https://demo.originprotocol.com/
     source: https://github.com/OriginProtocol/demo-dapp
     description: >
-      Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS. 
+      Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS.
   - title: Philes
     website: https://philes.co
     source: https://github.com/chrismatthieu/philes
@@ -241,3 +241,21 @@ content:
     description: >
       This new version(v2.0) is built on IPFS, Openbazaar stores can now be accessible
       to buyers even when they are offline.
+  - title: Peer Bandwidth Demo
+    website: https://ipfs.io/ipfs/QmVaVXbLdw4R5NqAiiQoTWtitxo5g7FS31PQmCLbH9p8Fu/
+    source: https://github.com/tableflip/ipfs-peer-bw-example
+    picture: /images/peer-bandwidth-demo.jpg
+    description: >
+      An demo app that uses window.ipfs, provided by the IPFS Companion web extension to get and graph bandwidth info for your IPFS node
+  - title: PubSub Chat Demo
+    website: https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/
+    source: https://github.com/tableflip/ipfs-pubsub-chat-example
+    picture: /images/pubsub-chat-demo.png
+    description: >
+      A ~76KB demo chat app that uses window.ipfs, provided by the IPFS Companion web extension
+  - title: Peer Map Demo
+    website: https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/
+    source: https://github.com/tableflip/ipfs-peer-map-example
+    picture: /images/peer-map-demo.jpg
+    description: >
+      A map of IPv4 IPFS peers that uses window.ipfs
