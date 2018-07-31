@@ -13,6 +13,7 @@ _This list is for projects, tools, or pretty much any things related to IPFS tha
 - [Contribute](#contribute-to-this-list)
 - [Apps](#apps)
 - [Articles](#articles)
+- [Datasets](#datasets)
 - [Tools](#tools)
 - [Videos](#videos)
 - [Discussions](#discussions)
@@ -92,6 +93,17 @@ Everyone is welcome to submit their new awesome-ipfs item. Check the [CONTRIBUTI
 - 2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example) 
 - 2015-09-10: [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) 
 - 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html) 
+
+## Datasets
+
+- [haveibeenpwnd.com passwords](https://ipfs.io/ipfs/QmSRBDMksX7c5dfheGsYDdWrLdve5hBvXDQm7Yrov7KMJv)  [Source](https://github.com/ipfs/archives/issues/157)
+- [IETF RFC Archive](https://ipfs.io/ipfs/QmNvTjdqEPjZVWCvRWsFJA1vK7TTw1g9JP6we1WBJTRADM)  [Source](https://github.com/ipfs/archives/issues/18)
+- [MDSConnect](https://ipfs.io/ipfs/QmcvfB6pAqUfTnuAK8zFKVxbdhopnBPveJrDcy1JAA7HX5)  [Source](https://github.com/ipfs/archives/issues/152)
+- [Old Internet Files](https://ipfs.io/ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp)  [Source](https://github.com/ipfs/archives/issues/176)
+- [Presidental Daily Briefs](https://ipfs.io/ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89)  [Source](https://github.com/ipfs/archives/issues/23)
+- [World Wide Web History Project](https://ipfs.io/ipfs/QmRTSA1UFHSx3z7taNRwUVM8AjB2EQwKvyZu3BfJg9QRtZ)  [Source](https://github.com/ipfs/archives/issues/159)
+- [XKCD](https://ipfs.io/ipfs/Qmb8wsGZNXt5VXZh1pEmYynjB6Euqpq3HYyeAdw2vScTkQ)  [Source](https://github.com/ipfs/archives/issues/21)
+- [yarchive.net](https://ipfs.io/ipfs/QmdA5WkDNALetBn4iFeSepHjdLGJdxPBwZyY47ir1bZGAK)  [Source](https://github.com/ipfs/archives/issues/76)
 
 ## Tools
 

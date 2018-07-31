@@ -37,6 +37,20 @@
           {{ template  "text" .Params.description }}
         {{- end -}}
 
+        {{- if isset .Params "size" -}}
+          {{ template  "text" (print "Size: " .Params.size) }}
+        {{- end -}}
+
+        {{- if isset .Params "hash" -}}
+          <div class="mt2 mw5">
+            <a href="https://ipfs.io{{ .Params.hash }}" target="_blank" alt="Website" title="Website" class="aqua hover-teal">
+              <abbr title="{{ .Params.hash }}">
+                <code>{{ substr .Params.hash 0 10 }}...{{ substr .Params.hash 47 5 }}</code>
+              </abbr>
+            </a>
+          </div>
+        {{- end -}}
+
         {{- if isset .Params "picture" -}}
         <div class="mt2 mw5">
           <a target="_blank" class="no-underline charcoal" href="{{ if .Params.website }}{{ .Params.website }}{{ else if .Params.source }}{{ .Params.source }}{{ else if .Params.demo }}{{ .Params.demo }}{{ end }}">
