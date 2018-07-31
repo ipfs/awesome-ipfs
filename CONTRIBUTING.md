@@ -15,8 +15,8 @@ Please ensure your pull request adheres to the following guidelines:
 - Don't mention `IPFS` in the description as it's implied.
 - Start the description with a capital and end with a full stop/period.
 - Check your spelling and grammar.
-- Add the idea to the corresponding file on [`data`](./data) and make sure it matches the format.
-- You can add a picture to describe your idea on [`./src/static/images`](./src/static/images).
+- Add the idea to the corresponding file in [`data`](./data) and make sure it matches the format.
+- You can add a picture to describe your idea in [`./src/static/images`](./src/static/images).
 
 ### 3. Submitting it through a PR
 
