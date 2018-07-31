@@ -72,8 +72,11 @@ Everyone is welcome to submit their new awesome-ipfs item. Check the [CONTRIBUTI
 - [Origin Protocol](https://demo.originprotocol.com/) - Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS. [Source](https://github.com/OriginProtocol/demo-dapp)
 - [Partyshare](https://partysha.re) - A simple file sharing app.
 - [Pathephone](https://pathephone.github.io) - Distributed music streaming app.
+- [Peer Bandwidth Demo](https://ipfs.io/ipfs/QmVaVXbLdw4R5NqAiiQoTWtitxo5g7FS31PQmCLbH9p8Fu/) - An demo app that uses window.ipfs, provided by the IPFS Companion web extension to get and graph bandwidth info for your IPFS node [Source](https://github.com/tableflip/ipfs-peer-bw-example)
+- [Peer Map Demo](https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/) - A map of IPv4 IPFS peers that uses window.ipfs [Source](https://github.com/tableflip/ipfs-peer-map-example)
 - [Philes](https://philes.co) - A simple browser-based IPFS notepad app. [Source](https://github.com/chrismatthieu/philes)
 - [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
+- [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - A ~76KB demo chat app that uses window.ipfs, provided by the IPFS Companion web extension [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [Temporal](https://github.com/RTradeLtd/Temporal) - Temporal is an easy to use API and platform for integrating IPFS and other distributed/decentralized storage technologies into enterprise applications
 - [Textile Photos](https://www.textile.photos) - Textile Photos is a secure, mobile digital wallet for your photos. [Source](https://github.com/textileio/textile-mobile)
