@@ -12,6 +12,12 @@ content:
 - title: http2ipfs
   source: https://github.com/jbenet/http2ipfs-web
   description: This is a simple webtool to add URLs to an IPFS node.
+- title: IPLD Explorer
+  website: https://explore.ipld.io
+  source: https://github.com/ipfs-shipyard/ipld-explorer
+  picture: /images/ipld-explorer.png
+  description: >
+    Explore the Merkle Forest from the comfort of your browser
 - title: ipcat
   source: https://github.com/noffle/ipcat
   description: ":cat2: Retrieve IPFS object data and send it to stdout."
