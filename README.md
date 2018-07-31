@@ -22,7 +22,7 @@ _This list is for projects, tools, or pretty much any things related to IPFS tha
 
 ## Contribute to this list!
 
-Everyone is welcome to submit their new awesome-ipfs item. Check the [CONTRIBUTING.md guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) to learn how to do so.
+Everyone is welcome to submit their new awesome-ipfs item. In order to add an element to this list, you need to modify the files in `/data` and then run a simple `make build` before publishing your pull request as the Readme and the website are automatically generated. Check the [CONTRIBUTING.md guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) to learn how to do so.
 
 ## Apps
 
