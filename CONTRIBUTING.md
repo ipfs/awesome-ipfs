@@ -25,3 +25,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Submit products when they are useable, or at a state which has something to show which is awesome in itself. This cuts down on half-finished implementations.
 
 Thank you for your suggestions!
+
+## Are you editing the README?
+
+Do **not** edit the README file directly. As it is generated automatically, your changes will get annihilated afterwards. Please update the [README template](https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md) instead. Thank you!
