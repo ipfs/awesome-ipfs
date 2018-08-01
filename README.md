@@ -91,7 +91,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - 2017-03-31: [Using IPFS for IoT Communications](https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a) 
 - 2016-09-12: [IPFS: The Internet Democratised](https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b) 
 - 2016-05-20: [Changelog Podcast](https://changelog.com/204/) 
-- 2015-11-01: [Eris + IPFS](https://monax.io/2015/11/01/eris-and-ipfs/) 
+- 2015-11-01: [Eris + IPFS](https://monax.io/blog/2015/11/01/eris-and-ipfs/) 
 - 2015-09-18: [The InterPlanetary File System Wants to Create a Permanent Web](http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web) 
 - 2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example) 
 - 2015-09-10: [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) 
