@@ -260,3 +260,15 @@ content:
     picture: /images/peer-map-demo.jpg
     description: >
       A map of IPv4 IPFS peers that uses window.ipfs
+  - title: IPFS ID and Public Key QR Codes Demo
+    website: https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/
+    source: https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes
+    picture: /images/id-qr-code.png
+    description: >
+      A demo app that uses windows.ipfs to show you a QR Code of your IPNS Link and of your Public Key.
+  - title: ToDo List Demo
+    website: https://ipfs.io/ipfs/QmfFaH6dGibQ5JwEdsujeHBzsmHUsFRB5kU9P8nzPyzMv2/
+    source: https://github.com/ipfs-shipyard/demo-ipfs-todo
+    picture: /images/todo-demo.png
+    description: >
+      A ToDo List demo app that uses windows.ipfs.
