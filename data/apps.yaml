@@ -155,6 +155,11 @@ content:
     website: http://timothy.hobbs.cz/push-to-talk/index.html
     description: >
       Push to Talk lets you edit audio essays and publish them with IPFS.
+  - title: qri
+    website: https://qri.io
+    source: https://github.com/qri-io/qri
+    description: >
+      Dataset creation, collaboration, and discovery on the distributed web.
   - title: ujo
     website: http://ujomusic.com/
     description: >
