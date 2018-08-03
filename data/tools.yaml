@@ -6,6 +6,9 @@ content:
 - title: cachewarmer
   source: https://github.com/BrendanBenshoof/cachewarmer
   description: Donate ipfs gateways to cache other people's content
+- title: gatsby-plugin-ipfs
+  source: https://github.com/moxystudio/gatsby-plugin-ipfs
+  description: Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
 - title: git-remote-ipfs
   source: https://github.com/cryptix/git-remote-ipfs
   description: push/pull repositories from/to IPFS
