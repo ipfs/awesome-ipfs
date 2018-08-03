@@ -67,6 +67,12 @@ content:
     description: >
       First completely decentralised job market platform built on Ethereum
       and IPFS.
+  - title: enzypt.io
+    website: https://enzypt.io/
+    source: https://github.com/flex-dapps/enzypt
+    picture: /images/enzypt.png
+    description: >
+      A website to buy and sell files through Ethereum and IPFS.
   - title: git-ipfs-rehost
     source: https://github.com/whyrusleeping/git-ipfs-rehost
     description: >
