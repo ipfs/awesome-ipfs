@@ -43,6 +43,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 - [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 - [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage.
+- [enzypt.io](https://enzypt.io/) - A website to buy and sell files through Ethereum and IPFS. [Source](https://github.com/flex-dapps/enzypt)
 - [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Source](https://github.com/madvas/ethlance)
 - [Filemap](https://filemap.xyz/) - Upload files to a geographic point and never memorize a link again.
 - [FileNation](https://filenation.io/) - The simplest way to send your files around the world using IPFS.
