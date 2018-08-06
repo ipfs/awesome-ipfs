@@ -91,6 +91,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 
 ## Articles
 
+- 2018-08-06: [Content Identifiers in IPFS](https://pascalprecht.github.io/posts/content-identifiers-in-ipfs/) 
 - 2018-07-11: [On future-proof cryptographic hashes](https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/) 
 - 2017-06-13: [Decentralized & Distributed Edge Computing Comes to Computes.io](https://blog.computes.io/decentralized-distributed-edge-computing-comes-to-computes-io-396aa062bc85) 
 - 2017-05-05: [Decentralized indexes for public genomic data](https://github.com/luizirber/2017-recomb) 
