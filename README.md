@@ -58,6 +58,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
+- [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) - Run your IPFS node on your machine without having to bother with command line tools. Manage your node, add your files, easily change the settings... everything from just one interface.
 - [IPFS Drive](http://ipfs-drive.ydns.eu) - In browser file manager for IPFS. [Source](https://github.com/fazo96/ipfs-drive)
 - [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events.
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - A demo app that uses windows.ipfs to show you a QR Code of your IPNS Link and of your Public Key. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
