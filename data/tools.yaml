@@ -94,3 +94,7 @@ content:
   description: >
     Monitor the current block number of the Ethereum blockchain, and set alerts (stored locally using
     PouchDB in your browser) for when certain block heights are passed.
+- title: npm-ipfsify
+  website: https://www.npmjs.com/package/npm-ipfsify
+  source: https://github.com/zachdeibert/npm-ipfsify
+  description: Converts NPM packages so they can be loaded directly out of IPFS (no node_modules folder).
