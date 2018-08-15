@@ -35,6 +35,9 @@ content:
   - title: On future-proof cryptographic hashes
     date: '2018-07-11'
     website: https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/
+  - title: Content Identifiers in IPFS
+    date: '2018-08-06'
+    website: https://pascalprecht.github.io/posts/content-identifiers-in-ipfs/
   - title: Decentralized indexes for public genomic data
     date: '2017-05-05'
     website: https://github.com/luizirber/2017-recomb
