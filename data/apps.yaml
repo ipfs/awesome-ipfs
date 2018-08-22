@@ -284,7 +284,7 @@ content:
     description: >
       A ToDo List demo app that uses windows.ipfs.
   - title: IPFS Desktop
-    source: https://github.com/ipfs/ipfs-desktop
+    source: https://github.com/ipfs-shipyard/ipfs-desktop
     picture: /images/ipfs-desktop.png
     description: >
       Run your IPFS node on your machine without having to bother with command line tools.
