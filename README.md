@@ -38,6 +38,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 - [Blokaly](https://github.com/blokaly) - A badge issuing, sharing and display platform based on IPFS.
 - [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [Source](https://github.com/fazo96/ipfs-boards)
+- [brig](https://brig.readthedocs.io/en/latest) - File synchronization with git like interface and FUSE filesystem. [Source](https://github.com/sahib/brig)
 - [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
 - [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
 - [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.

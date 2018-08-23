@@ -36,6 +36,11 @@ content:
     source: https://github.com/fazo96/ipfs-boards
     description: >
       Distributed social platform that runs in the browser.
+  - title: brig
+    website: https://brig.readthedocs.io/en/latest
+    source: https://github.com/sahib/brig
+    description: >
+      File synchronization with git like interface and FUSE filesystem.
   - title: Cohort
     source: https://github.com/zignig/cohort
     description: >
