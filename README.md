@@ -116,7 +116,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [Old Internet Files](https://ipfs.io/ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp)  [Source](https://github.com/ipfs/archives/issues/176)
 - [Presidental Daily Briefs](https://ipfs.io/ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89)  [Source](https://github.com/ipfs/archives/issues/23)
 - [World Wide Web History Project](https://ipfs.io/ipfs/QmRTSA1UFHSx3z7taNRwUVM8AjB2EQwKvyZu3BfJg9QRtZ)  [Source](https://github.com/ipfs/archives/issues/159)
-- [XKCD](https://ipfs.io/ipfs/Qmb8wsGZNXt5VXZh1pEmYynjB6Euqpq3HYyeAdw2vScTkQ)  [Source](https://github.com/ipfs/archives/issues/21)
+- [XKCD Archive](https://ipfs.io/ipfs/Qmc7D35JiGQXvRS9HWxdZoa97V3bQqyiekRWmnCgS7RURi) - As of 2018/08/25 [Source](https://github.com/ipfs/archives/issues/21)
 - [yarchive.net](https://ipfs.io/ipfs/QmdA5WkDNALetBn4iFeSepHjdLGJdxPBwZyY47ir1bZGAK)  [Source](https://github.com/ipfs/archives/issues/76)
 
 ## Tools

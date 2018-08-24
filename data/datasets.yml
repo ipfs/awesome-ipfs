@@ -14,12 +14,12 @@ content:
     source: https://github.com/ipfs/archives/issues/23
     description:
     size: 480MB
-  - title: XKCD
-    hash: /ipfs/Qmb8wsGZNXt5VXZh1pEmYynjB6Euqpq3HYyeAdw2vScTkQ
-    website: https://ipfs.io/ipfs/Qmb8wsGZNXt5VXZh1pEmYynjB6Euqpq3HYyeAdw2vScTkQ
+  - title: XKCD Archive
+    hash: /ipfs/Qmc7D35JiGQXvRS9HWxdZoa97V3bQqyiekRWmnCgS7RURi
+    website: https://ipfs.io/ipfs/Qmc7D35JiGQXvRS9HWxdZoa97V3bQqyiekRWmnCgS7RURi
     source: https://github.com/ipfs/archives/issues/21
-    description:
-    size: 122MB
+    description: As of 2018/08/25
+    size: 116MB
   - title: Old Internet Files
     hash: /ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp
     website: https://ipfs.io/ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp
