@@ -212,6 +212,11 @@ content:
     website: https://arpadyne.computes.com
     description: >
       The New Internet - DNS powered by OrbitDB. Content delivered via IPFS.
+  - title: TallyLab
+    website: https://tallylab.com/
+    picture: /images/tallylab.jpg
+    description: >
+      Local-first, end-to-end encrypted diary app for capturing, analyzing, and sharing data about any and - title: Temporal
   - title: Temporal
     source: https://github.com/RTradeLtd/Temporal
     description: >
