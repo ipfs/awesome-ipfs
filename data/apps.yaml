@@ -265,6 +265,11 @@ content:
     picture: /images/pubsub-chat-demo.png
     description: >
       A ~76KB demo chat app that uses window.ipfs, provided by the IPFS Companion web extension
+  - title: Pugdit
+    website: https://github.com/zbyte64/pugdit
+    source: https://github.com/zbyte64/pugdit
+    description: >
+      A bulletin board service that discovers and distributes over IPFS
   - title: Peer Map Demo
     website: https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/
     source: https://github.com/tableflip/ipfs-peer-map-example
