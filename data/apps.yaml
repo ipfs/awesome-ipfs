@@ -290,3 +290,8 @@ content:
       Run your IPFS node on your machine without having to bother with command line tools.
       Manage your node, add your files, easily change the settings... everything from
       just one interface.
+  - title: IpfsCloud
+    source: https://github.com/vasa-develop/ipfscloud.git
+    website: http://ipfscloud.store/
+    description: >
+       A Decentralised Cloud Storage Platform.
