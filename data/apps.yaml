@@ -259,6 +259,11 @@ content:
     picture: /images/peer-bandwidth-demo.jpg
     description: >
       An demo app that uses window.ipfs, provided by the IPFS Companion web extension to get and graph bandwidth info for your IPFS node
+  - title: Pinata
+    website: https://pinata.cloud
+    picture: /images/pinata.png
+    description: >
+      Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
   - title: PubSub Chat Demo
     website: https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/
     source: https://github.com/tableflip/ipfs-pubsub-chat-example
