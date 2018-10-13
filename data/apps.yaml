@@ -295,3 +295,7 @@ content:
     source: https://github.com/amar-laksh/xfce-screenshooter-ipfs-support
     description: >
         A fork of xfce-screenshooter with glorious image uploading support through Globalupload.io!
+  - title: kipi-plugins
+    source: https://github.com/amar-laksh/kipi-plugins
+    description: >
+        A fork of kipi-plugins with support for IPFS uploads through the glorious globalupload.io
