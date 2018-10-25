@@ -292,6 +292,7 @@ content:
       just one interface.
   - title: IpfsCloud
     source: https://github.com/vasa-develop/ipfscloud.git
-    website: http://ipfscloud.store/
+    website: http://ipfscloud.store
     description: >
-       A Decentralised Cloud Storage Platform.
+       A Decentralised Cloud Storage Platform. know more here
+       http://clusterlabs.io/#projects
