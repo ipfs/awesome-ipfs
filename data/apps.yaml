@@ -303,3 +303,10 @@ content:
     description: >
       Create and manage your Ethereum Profile, and your personal data. Use the 3box-js
       library to integrate profiles into your dapp.
+  - title: Pubswap
+    website: https://pubswap.com
+    picture: /images/pubswap.png
+    description: >
+      Decentralized content distribution platform for video and written word.
+      Support your favorite content creators even further by seeding their content.
+      Content creators retain complete control and ownership of their content.
