@@ -307,3 +307,10 @@ content:
     source: https://github.com/IBM/ipfs-social-proof
     description: >
       Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
+  - title: Shasta
+    website: https://shasta.world/
+    source: https://github.com/Shasta
+    picture: /images/shasta.png
+    description: >
+      A decentralized, peer-to-peer energy market built on the Ethereum blockchain and embedded
+      into IPFS.
