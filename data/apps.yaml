@@ -208,6 +208,11 @@ content:
     website: https://arpadyne.computes.com
     description: >
       The New Internet - DNS powered by OrbitDB. Content delivered via IPFS.
+  - title: TallyLab
+    website: https://tallylab.com/
+    picture: /images/tallylab.jpg
+    description: >
+      Local-first, end-to-end encrypted diary app for capturing, analyzing, and sharing data about any and everything.
   - title: Temporal
     source: https://github.com/RTradeLtd/Temporal
     description: >
@@ -291,11 +296,15 @@ content:
       Run your IPFS node on your machine without having to bother with command line tools.
       Manage your node, add your files, easily change the settings... everything from
       just one interface.
-  - title: xfce-screenshooter-ipfs-support
-    source: https://github.com/amar-laksh/xfce-screenshooter-ipfs-support
+  - title: 3Box
+    website: https://3box.io
+    source: https://github.com/uport-project/3box
+    picture: /images/3box.png
     description: >
-        A fork of xfce-screenshooter with glorious image uploading support through Globalupload.io!
-  - title: kipi-plugins
-    source: https://github.com/amar-laksh/kipi-plugins
+      Create and manage your Ethereum Profile, and your personal data. Use the 3box-js
+      library to integrate profiles into your dapp.
+  - title: Autonomica "IPFS Social Proof"
+    source: https://github.com/IBM/ipfs-social-proof
     description: >
-        A fork of kipi-plugins with support for IPFS uploads through the glorious globalupload.io
+      Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
+

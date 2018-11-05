@@ -28,6 +28,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 
 ## Apps
 
+- [3Box](https://3box.io) - Create and manage your Ethereum Profile, and your personal data. Use the 3box-js library to integrate profiles into your dapp. [Source](https://github.com/uport-project/3box)
 - [a js video player](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/play) - [Demo](https://ipfs.io/ipfs/QmVc6zuAneKJzicnJpfrqCH9gSy6bz54JhcypfJYhGUFQu/play#/ipfs/QmTKZgRNwDNZwHtJSjCp6r5FYefzpULfy37JvMt9DwvXs)
 - [a markdown renderer](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/markdown-viewer) - [Demo](https://ipfs.io/ipfs/QmSrCRJmzE4zE1nAfWPbzVfanKQNBhp7ZWmMnEdbiLvYNh/mdown#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 - [a qr-code renderer](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/qr-render) - [Demo](https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here)
@@ -35,6 +36,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - Decentralized content publishing / monetization platform.
 - [Arbore](http://arbo.re) - A friend-to-friend file-sharing app build on top of IPFS.
 - [Arpadyne](https://arpadyne.computes.com) - The New Internet - DNS powered by OrbitDB. Content delivered via IPFS.
+- [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 - [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 - [Blokaly](https://github.com/blokaly) - A badge issuing, sharing and display platform based on IPFS.
 - [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [Source](https://github.com/fazo96/ipfs-boards)
@@ -85,6 +87,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - A ~76KB demo chat app that uses window.ipfs, provided by the IPFS Companion web extension [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [qri](https://qri.io) - Dataset creation, collaboration, and discovery on the distributed web. [Source](https://github.com/qri-io/qri)
+- [TallyLab](https://tallylab.com/) - Local-first, end-to-end encrypted diary app for capturing, analyzing, and sharing data about any and everything.
 - [Temporal](https://github.com/RTradeLtd/Temporal) - Temporal is an easy to use API and platform for integrating IPFS and other distributed/decentralized storage technologies into enterprise applications
 - [Textile Photos](https://www.textile.photos) - Textile Photos is a secure, mobile digital wallet for your photos. [Source](https://github.com/textileio/textile-mobile)
 - [ToDo List Demo](https://ipfs.io/ipfs/QmfFaH6dGibQ5JwEdsujeHBzsmHUsFRB5kU9P8nzPyzMv2/) - A ToDo List demo app that uses windows.ipfs. [Source](https://github.com/ipfs-shipyard/demo-ipfs-todo)
@@ -153,10 +156,11 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 
 ## Videos
 
+- [Distributed Apps with IPFS - Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w) - This talk breaks down how to build a dynamic app on top of IPFS with CRDTs, pub/sub, and slick UIs. It also delves into new models for distributed computation, and the ethical importance of distributing the web.
 - [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) 
-- [IPFS Simply Explained](https://www.youtube.com/watch?v=5Uj6uR3fp-U) 
-- [Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w) 
-- [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) 
+- [IPFS Simply Explained](https://www.youtube.com/watch?v=5Uj6uR3fp-U) - Let's take a look at how IPFS works, how it can solve issue's like censorship and if it would really work across multiple planets!
+- [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) - The talk includes a broad look at The IPFS Project, and a discussion on evolving the network stack through open source protocols R & D.
+- [Textile Build Series - A Free Online Workshop](https://www.youtube.com/playlist?list=PLC8CEtJ9shDznO1tpvGe--BVEWmCKY9_Z) - A full Training Program to teach devs on how to build for the Decentralized Web. The series covers a ton of content, touch multiple parts of the IPFS stack and guides devs through building a simple DApp.
 
 ## Discussions
 
