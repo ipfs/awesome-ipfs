@@ -81,6 +81,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [Peer Bandwidth Demo](https://ipfs.io/ipfs/QmVaVXbLdw4R5NqAiiQoTWtitxo5g7FS31PQmCLbH9p8Fu/) - An demo app that uses window.ipfs, provided by the IPFS Companion web extension to get and graph bandwidth info for your IPFS node [Source](https://github.com/tableflip/ipfs-peer-bw-example)
 - [Peer Map Demo](https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/) - A map of IPv4 IPFS peers that uses window.ipfs [Source](https://github.com/tableflip/ipfs-peer-map-example)
 - [Philes](https://philes.co) - A simple browser-based IPFS notepad app. [Source](https://github.com/chrismatthieu/philes)
+- [Piln](https://piln.xyz/) - Accountless and cheap pinning service priced in satoshis and paid in Bitcoin through the Lightning Network. Everything is public. [Source](https://github.com/fiatjaf/piln)
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
 - [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - A ~76KB demo chat app that uses window.ipfs, provided by the IPFS Companion web extension [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)

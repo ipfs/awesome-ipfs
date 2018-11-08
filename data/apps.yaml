@@ -145,6 +145,13 @@ content:
     website: https://partysha.re
     description: >
       A simple file sharing app.
+  - title: Piln
+    website: https://piln.xyz/
+    picture: /images/piln.png
+    source: https://github.com/fiatjaf/piln
+    description: >
+      Accountless and cheap pinning service priced in satoshis and paid
+      in Bitcoin through the Lightning Network. Everything is public.
   - title: FileNation
     website: https://filenation.io/
     description: >
