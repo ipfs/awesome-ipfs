@@ -69,7 +69,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [Source](https://github.com/kpcyrd/ipfs.ink)
 - [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
 - [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
-- [IPFSStore](https://ipfsstore.it) - Pinning paid with Bitcoin
+- [IPFSStore](https://ipfsstore.it) - Pinning paid with Steem
 - [killcord](https://killcord.io/) - A censorship resistant deadman's switch [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Source](https://github.com/davidar/markup.rocks)
 - [NodeFort.io](https://www.nodefort.io) - Web-based IPFS node hosting service.
