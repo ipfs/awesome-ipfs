@@ -42,9 +42,6 @@ content:
 - title: ipfs-gui
   source: https://github.com/marcin212/ipfs-gui
   description: Windows UI integration and IPFS installer
-- title: ipfs-linux-service
-  source: https://github.com/dylanPowers/ipfs-linux-service
-  description: IPFS Linux Init Daemon
 - title: ipfs-paste
   source: https://github.com/jbenet/ipfs-paste
   description: Paste stdin and clipboard to IPFS
@@ -76,9 +73,6 @@ content:
 - title: ipfs-add-from-url
   source: https://github.com/maxlath/ipfs-add-from-url
   description: Add a file to IPFS from a URL instead of a file path
-- title: ipfs-gui
-  source: https://github.com/marcin212/ipfs-gui
-  description: Windows UI integration and IPFS installer
 - title: ipfs-linux-service
   source: https://github.com/dylanPowers/ipfs-linux-service
   description: IPFS Linux Init Daemon
