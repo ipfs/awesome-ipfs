@@ -93,3 +93,6 @@ content:
   description: >
     Monitor the current block number of the Ethereum blockchain, and set alerts (stored locally using
     PouchDB in your browser) for when certain block heights are passed.
+- title: Brig
+  source: https://github.com/sahib/brig
+  description: File synchronization on top of ipfs with git like interface and FUSE filesystem
