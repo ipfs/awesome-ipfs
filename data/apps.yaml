@@ -311,4 +311,10 @@ content:
     source: https://github.com/amar-laksh/xfce-screenshooter-ipfs-support
     description: >
       A fork of xfce-screenshooter with IPFS support!
+  - title: Pedity
+    website: https://pedity.com
+    picture: /images/pedity.png
+    description: >
+      First decentralized content rewards platform on stellar.
+      Powerful features including content sharing, blogging, stellar profiles.
 
