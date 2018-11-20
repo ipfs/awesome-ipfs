@@ -315,5 +315,5 @@ content:
   - title: KDE-DolphinServiceMenu-IPFS
     source: https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS
     description: >
-      Service Menu for Dolphin File Manager to upload images to IPFS
+      Service Menu for Dolphin File Manager to upload files to IPFS
 
