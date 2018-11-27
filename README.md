@@ -151,7 +151,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
 - [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
 - [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux [Source](https://github.com/Siderus/Orion)
-- [humancid](https://github.com/arsyun/ipfs-common/tree/master/humancid) - CID to human readable cid
+- [humancid](https://github.com/arsyun/ipfs-common) - some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3, read the leveldb tools.
 
 ## Videos
 

@@ -95,5 +95,5 @@ content:
     PouchDB in your browser) for when certain block heights are passed.
 - title: humancid
   website: https://github.com/arsyun
-  source: https://github.com/arsyun/ipfs-common/tree/master/humancid
+  source: https://github.com/arsyun/ipfs-common
   description: CID to human readable cid
