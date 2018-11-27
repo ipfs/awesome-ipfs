@@ -93,3 +93,6 @@ content:
   description: >
     Monitor the current block number of the Ethereum blockchain, and set alerts (stored locally using
     PouchDB in your browser) for when certain block heights are passed.
+- title: humancid
+  source: https://github.com/arsyun/ipfs-common/tree/master/humancid
+  description: CID to human readable cid
