@@ -316,4 +316,8 @@ content:
     source: https://github.com/amar-laksh/xfce-screenshooter-ipfs-support
     description: >
       A fork of xfce-screenshooter with IPFS support!
+  - title: IPFS-Store
+    source: https://github.com/ConsenSys/IPFS-Store
+    description: >
+      IPFS-Store is a search engine opensource tool aiming to collect, store and index data on the IPFS network
 
