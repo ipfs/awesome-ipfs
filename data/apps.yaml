@@ -316,4 +316,9 @@ content:
     source: https://github.com/amar-laksh/xfce-screenshooter-ipfs-support
     description: >
       A fork of xfce-screenshooter with IPFS support!
-
+  - title: Request Network
+    website: https://request.network/
+    source: https://github.com/RequestNetwork/requestNetwork
+    picture: /images/request-network.png
+    description: >
+      Decentralized network for financial transactions.
