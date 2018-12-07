@@ -152,6 +152,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
 - [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux [Source](https://github.com/Siderus/Orion)
 - [ipfs-common](https://github.com/arsyun/ipfs-common) - some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools.
+- [solid-ipfs](https://github.com/Eximua/solid-ipfs) - Using Solid to store IPFS Hash privately or publicly.
 
 ## Videos
 
