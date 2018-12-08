@@ -87,6 +87,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - A ~76KB demo chat app that uses window.ipfs, provided by the IPFS Companion web extension [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [qri](https://qri.io) - Dataset creation, collaboration, and discovery on the distributed web. [Source](https://github.com/qri-io/qri)
+- [Request Network](https://request.network/) - Decentralized network for financial transactions. [Source](https://github.com/RequestNetwork/requestNetwork)
 - [TallyLab](https://tallylab.com/) - Local-first, end-to-end encrypted diary app for capturing, analyzing, and sharing data about any and everything.
 - [Temporal](https://github.com/RTradeLtd/Temporal) - Temporal is an easy to use API and platform for integrating IPFS and other distributed/decentralized storage technologies into enterprise applications
 - [Textile Photos](https://www.textile.photos) - Textile Photos is a secure, mobile digital wallet for your photos. [Source](https://github.com/textileio/textile-mobile)
@@ -102,6 +103,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - 2017-08-21: [Understanding the IPFS White Paper part 2](https://decentralized.blog/understanding-the-ipfs-white-paper-part-2.html) 
 - 2017-08-10: [Understanding the IPFS White Paper part 1](https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html) 
 - 2017-06-13: [Decentralized & Distributed Edge Computing Comes to Computes.io](https://blog.computes.io/decentralized-distributed-edge-computing-comes-to-computes-io-396aa062bc85) 
+- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 - 2017-05-05: [Decentralized indexes for public genomic data](https://github.com/luizirber/2017-recomb) 
 - 2017-03-31: [Using IPFS for IoT Communications](https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a) 
 - 2016-09-12: [IPFS: The Internet Democratised](https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b) 
@@ -111,7 +113,6 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - 2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example) 
 - 2015-09-10: [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) 
 - 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html) 
-- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 
 ## Datasets
 
@@ -137,6 +138,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path
 - [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
 - [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
+- [ipfs-common](https://github.com/arsyun) - some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools. [Source](https://github.com/arsyun/ipfs-common)
 - [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources.
 - [ipfs-gui](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer
 - [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
