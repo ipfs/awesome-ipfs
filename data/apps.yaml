@@ -36,6 +36,11 @@ content:
     source: https://github.com/fazo96/ipfs-boards
     description: >
       Distributed social platform that runs in the browser.
+  - title: brig
+    website: https://brig.readthedocs.io/en/latest
+    source: https://github.com/sahib/brig
+    description: >
+      File synchronization with git like interface and FUSE filesystem.
   - title: Cohort
     source: https://github.com/zignig/cohort
     description: >
@@ -311,9 +316,13 @@ content:
     source: https://github.com/amar-laksh/xfce-screenshooter-ipfs-support
     description: >
       A fork of xfce-screenshooter with IPFS support!
-
+  - title: Request Network
+    website: https://request.network/
+    source: https://github.com/RequestNetwork/requestNetwork
+    picture: /images/request-network.png
+    description: >
+      Decentralized network for financial transactions.
   - title: KDE-DolphinServiceMenu-IPFS
     source: https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS
     description: >
       Service Menu for Dolphin File Manager to upload files to IPFS
-
