@@ -1,0 +1,49 @@
+title: Articles
+color: navy
+icon: stroke_pencil
+description: Articles about the decentralized web and IPFS.
+content:
+  - title: Decentralized & Distributed Edge Computing Comes to Computes.io
+    date: '2017-06-13'
+    website: https://blog.computes.io/decentralized-distributed-edge-computing-comes-to-computes-io-396aa062bc85
+  - title: Using IPFS for IoT Communications
+    date: '2017-03-31'
+    website: https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a
+  - title: 'IPFS: The Internet Democratised'
+    date: '2016-09-12'
+    website: https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b
+  - title: Changelog Podcast
+    date: '2016-05-20'
+    website: https://changelog.com/204/
+  - title: First Steps Toward Implementing Distributed Permanent Web With IPFS
+    date: '2015-09-10'
+    website: https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/
+  - title: Introduction to IPFS
+    date: '2015-09-13'
+    website: http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example
+  - title: The InterPlanetary File System Wants to Create a Permanent Web
+    date: '2015-09-18'
+    website: http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web
+  - title: Eris + IPFS
+    date: '2015-11-01'
+    website: https://monax.io/blog/2015/11/01/eris-and-ipfs/
+  - title: HTTP is obsolete. It's time for the distributed, permanent web
+    date: '2015-09-08'
+    website: https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
+  - title: Downloading nodejs versions with nvm/n over IPFS
+    website: https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc
+  - title: On future-proof cryptographic hashes
+    date: '2018-07-11'
+    website: https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/
+  - title: Content Identifiers in IPFS
+    date: '2018-08-06'
+    website: https://pascalprecht.github.io/posts/content-identifiers-in-ipfs/
+  - title: Decentralized indexes for public genomic data
+    date: '2017-05-05'
+    website: https://github.com/luizirber/2017-recomb
+  - title: Understanding the IPFS White Paper part 1
+    date: '2017-08-10'
+    website: https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html
+  - title: Understanding the IPFS White Paper part 2
+    date: '2017-08-21'
+    website: https://decentralized.blog/understanding-the-ipfs-white-paper-part-2.html

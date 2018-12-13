@@ -1,0 +1,34 @@
+title: Videos
+color: red
+description: Videos about IPFS.
+icon: stroke_speaker
+content:
+  - title: IPFS Alpha - Why we must redistribute the web
+    website: https://www.youtube.com/watch?v=skMTdSEaCtA
+    picture: /images/ipfs-alpha.jpg
+  - title: IPFS Simply Explained
+    website: https://www.youtube.com/watch?v=5Uj6uR3fp-U
+    picture: /images/ipfs_simply_explained_video.jpg
+    description: >
+      Let's take a look at how IPFS works, how it can solve issue's like
+      censorship and if it would really work across multiple planets!
+  - title: Juan Benet at Stanford 2015
+    website: https://www.youtube.com/watch?v=HUVmypx9HGI
+    picture: /images/stanford-2015.jpg
+    description: >
+       The talk includes a broad look at The IPFS Project, and a discussion on evolving the network stack through open source protocols R & D.
+  - title: Distributed Apps with IPFS - Juan Benet at Fullstack Fest 2016
+    website: https://www.youtube.com/watch?v=jONZtXMu03w
+    picture: /images/fullstack-fest-2016.jpg
+    description: >
+      This talk breaks down how to build a dynamic app on top of IPFS with
+      CRDTs, pub/sub, and slick UIs. It also delves into new models for
+      distributed computation, and the ethical importance of distributing the
+      web.
+  - title: Textile Build Series - A Free Online Workshop
+    website: https://www.youtube.com/playlist?list=PLC8CEtJ9shDznO1tpvGe--BVEWmCKY9_Z
+    picture: /images/textile-build-series.jpg
+    description: >
+      A full Training Program to teach devs on how to build for the
+      Decentralized Web. The series covers a ton of content, touch multiple
+      parts of the IPFS stack and guides devs through building a simple DApp.

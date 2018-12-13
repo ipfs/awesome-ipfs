@@ -1,0 +1,100 @@
+title: Tools
+color: yellow
+icon: stroke_code
+description: Tools built on the top of IPFS.
+content:
+- title: cachewarmer
+  source: https://github.com/BrendanBenshoof/cachewarmer
+  description: Donate ipfs gateways to cache other people's content
+- title: gatsby-plugin-ipfs
+  source: https://github.com/moxystudio/gatsby-plugin-ipfs
+  description: Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
+- title: dillo-ipfs
+  source: https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256
+  website: https://ipfs.io/ipns/12D3KooWBG1fsFRF4ykpidXVNVnbon5KLfv67pkkGeFstrwftVVb/
+  description: IPFS integration for the Dillo web browser.
+  picture: /images/dillo-ipfs.png
+- title: git-remote-ipfs
+  source: https://github.com/cryptix/git-remote-ipfs
+  description: push/pull repositories from/to IPFS
+- title: http2ipfs
+  source: https://github.com/jbenet/http2ipfs-web
+  description: This is a simple webtool to add URLs to an IPFS node.
+- title: IPLD Explorer
+  website: https://explore.ipld.io
+  source: https://github.com/ipfs-shipyard/ipld-explorer
+  picture: /images/ipld-explorer.png
+  description: >
+    Explore the Merkle Forest from the comfort of your browser
+- title: ipcat
+  source: https://github.com/noffle/ipcat
+  description: ":cat2: Retrieve IPFS object data and send it to stdout."
+- title: ipfs-chrome-station
+  source: https://github.com/fbaiodias/ipfs-chrome-station
+  description: Chrome extension to redirect ipfs.io traffic to local gateway
+- title: ipfs-chrome-extension
+  source: https://github.com/dylanPowers/ipfs-chrome-extension
+  description: Chrome extension to redirect ipfs.io traffic to local gateway
+- title: ipfs-companion
+  source: https://github.com/ipfs/ipfs-companion
+  picture: /images/companion.png
+  description: Browser extension that simplifies access to IPFS resources.
+- title: ipfs-gui
+  source: https://github.com/marcin212/ipfs-gui
+  description: Windows UI integration and IPFS installer
+- title: ipfs-paste
+  source: https://github.com/jbenet/ipfs-paste
+  description: Paste stdin and clipboard to IPFS
+- title: ipfs-screencap
+  source: https://github.com/jbenet/ipfs-screencap
+  description: Capture screenshots, publish them to IPFS, and copy the link to the
+    clipboard.
+- title: ipfscrape
+  source: https://github.com/victorbjelkholm/ipfscrape
+  description: Scrape a webpage with all assets and put it in IPFS
+- title: ipget
+  source: https://github.com/ipfs/ipget
+  description: ":satellite: wget for IPFS: retrieve files over IPFS and save them
+    locally."
+- title: IPRedirect
+  source: https://github.com/JayBrown/IPRedirect
+  description: Browser userscript for redirecting IPFS/IPNS addresses to your local
+    gateway. This should work on any browser that hasn't had an extension written
+    for it yet and has support for userscripts.
+- title: ipscend
+  source: https://github.com/diasdavid/ipscend
+  description: Tool for hosting web apps and static websites in IPFS
+- title: pinbot
+  source: https://github.com/whyrusleeping/pinbot
+  description: Pin content via IRC
+- title: ipfs-mount
+  source: https://github.com/richardschneider/net-ipfs-mount
+  description: Mount IPFS as a mapped drive on Windows
+- title: ipfs-add-from-url
+  source: https://github.com/maxlath/ipfs-add-from-url
+  description: Add a file to IPFS from a URL instead of a file path
+- title: ipfs-linux-service
+  source: https://github.com/dylanPowers/ipfs-linux-service
+  description: IPFS Linux Init Daemon
+- title: Siderus Orion
+  picture: /images/orion.png
+  website: https://orion.siderus.io
+  source: https://github.com/Siderus/Orion
+  description: Easy to use IPFS desktop client for macOS, Windows and Linux
+- title: ipfsecret
+  source: https://github.com/c2fo-lab/ipfsecret
+  description: Encrypt and decrypt IPFS files with a secret passphrase
+- title: ipfs-add-from-encrypted
+  source: https://github.com/TroyWilson1/ipfs-add-from-encrypted
+  description: Encrypt a file or directory with AES256 then add to IPFS
+- title: Blockwatch
+  website: https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html
+  source: https://github.com/MidnightLightning/ethereum-blockwatch
+  description: >
+    Monitor the current block number of the Ethereum blockchain, and set alerts (stored locally using
+    PouchDB in your browser) for when certain block heights are passed.
+- title: ipfs-common
+  website: https://github.com/arsyun
+  source: https://github.com/arsyun/ipfs-common
+  description: >
+      some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools.

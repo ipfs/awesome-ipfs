@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+{{- $p1 := (print .Data.Plural "_") -}}
+{{- $p2 := lower .Title -}}
+{{- $partial := print $p1 $p2 -}}
+{{- partial "list" .Data.Pages -}}
+{{- partial (print "indexes/" $partial) -}}
+
+{{ end }}
