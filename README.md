@@ -153,6 +153,8 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
 - [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
 - [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux [Source](https://github.com/Siderus/Orion)
+- [ipfs-orchestrator](https://github.com/RTradeLtd/ipfs-orchestrator) - Private network orchestration, allowing for the management (creation, start, stop, configuration) of multiple dockerized private networks.
+- [kaas](https://github.com/RTradeLtd/kaas) - Encrypted IPFS key management through gRPC
 
 ## Videos
 
