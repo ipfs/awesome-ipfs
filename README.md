@@ -47,6 +47,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 - [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage.
 - [enzypt.io](https://enzypt.io/) - A website to buy and sell files through Ethereum and IPFS. [Source](https://github.com/flex-dapps/enzypt)
+- [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
 - [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Source](https://github.com/madvas/ethlance)
 - [FileNation](https://filenation.io/) - The simplest way to send your files around the world using IPFS.
 - [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
