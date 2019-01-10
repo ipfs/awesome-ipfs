@@ -147,7 +147,7 @@ content:
     description: >
       Distributed, peer-to-peer chat application on IPFS.
   - title: Partyshare
-    website: https://partysha.re
+    website: https://busterlabs.github.io/Partyshare
     description: >
       A simple file sharing app.
   - title: FileNation
