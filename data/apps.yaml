@@ -148,6 +148,8 @@ content:
       Distributed, peer-to-peer chat application on IPFS.
   - title: Partyshare
     website: https://busterlabs.github.io/Partyshare
+    source: https://github.com/BusterLabs/Partyshare
+    picture: /images/Partyshare_Logo.png
     description: >
       A simple file sharing desktop app.
   - title: FileNation
