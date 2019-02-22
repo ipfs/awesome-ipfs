@@ -28,6 +28,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 
 ## Apps
 
+- [2read](https://2read.net/) - Convert article in current tab to readable form and upload it to writable node(s). [Source](https://github.com/meehow/2read)
 - [3Box](https://3box.io) - Create and manage your Ethereum Profile, and your personal data. Use the 3box-js library to integrate profiles into your dapp. [Source](https://github.com/uport-project/3box)
 - [a js video player](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/play) - [Demo](https://ipfs.io/ipfs/QmVc6zuAneKJzicnJpfrqCH9gSy6bz54JhcypfJYhGUFQu/play#/ipfs/QmTKZgRNwDNZwHtJSjCp6r5FYefzpULfy37JvMt9DwvXs)
 - [a markdown renderer](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/markdown-viewer) - [Demo](https://ipfs.io/ipfs/QmSrCRJmzE4zE1nAfWPbzVfanKQNBhp7ZWmMnEdbiLvYNh/mdown#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
@@ -86,7 +87,11 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
 - [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - A ~76KB demo chat app that uses window.ipfs, provided by the IPFS Companion web extension [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
+<<<<<<< HEAD
 - [qri](https://qri.io) - Dataset creation, collaboration, and discovery on the distributed web. [Source](https://github.com/qri-io/qri)
+=======
+- [qri](https://qri.io) - Dataset verion control, discovery and collaboration tools (free, open-source). [Source](https://github.com/qri-io/qri)
+>>>>>>> upstream/master
 - [Request Network](https://request.network/) - Decentralized network for financial transactions. [Source](https://github.com/RequestNetwork/requestNetwork)
 - [TallyLab](https://tallylab.com/) - Local-first, end-to-end encrypted diary app for capturing, analyzing, and sharing data about any and everything.
 - [Temporal](https://github.com/RTradeLtd/Temporal) - Temporal is an easy to use API and platform for integrating IPFS and other distributed/decentralized storage technologies into enterprise applications
@@ -168,7 +173,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 
 ## Want to hack on IPFS?
 
-[![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/contributing.md)
+[![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/CONTRIBUTING.md)
 
 ## License
 

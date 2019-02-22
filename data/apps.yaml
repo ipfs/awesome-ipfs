@@ -3,6 +3,13 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: 2read
+    website: https://2read.net/
+    source: https://github.com/meehow/2read
+    picture: /images/2read.svg
+    description: >
+      Convert article in current tab to readable form and upload it
+      to writable node(s).
   - title: killcord
     website: https://killcord.io/
     source: https://github.com/nomasters/killcord
@@ -166,7 +173,7 @@ content:
     website: https://qri.io
     source: https://github.com/qri-io/qri
     description: >
-      Dataset creation, collaboration, and discovery on the distributed web.
+      Dataset verion control, discovery and collaboration tools (free, open-source).
   - title: ujo
     website: http://ujomusic.com/
     description: >
