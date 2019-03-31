@@ -98,3 +98,7 @@ content:
   source: https://github.com/arsyun/ipfs-common
   description: >
       some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools.
+- title: Public gateway status checker
+  website: https://ipfs.fooock.com/
+  source: https://github.com/fooock/ipfs-gateway-checker
+  description: Web app to check public states of IPFS gateways, including latency and gateway writable state.
