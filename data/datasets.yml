@@ -15,11 +15,11 @@ content:
     description:
     size: 480MB
   - title: XKCD
-    hash: /ipfs/Qmb8wsGZNXt5VXZh1pEmYynjB6Euqpq3HYyeAdw2vScTkQ
-    website: https://ipfs.io/ipfs/Qmb8wsGZNXt5VXZh1pEmYynjB6Euqpq3HYyeAdw2vScTkQ
+    hash: /ipns/xkcd.hacdias.com
+    website: https://ipfs.io/ipns/xkcd.hacdias.com
     source: https://github.com/ipfs/archives/issues/21
     description:
-    size: 122MB
+    size: 241MB
   - title: Old Internet Files
     hash: /ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp
     website: https://ipfs.io/ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp
