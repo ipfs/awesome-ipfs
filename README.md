@@ -36,7 +36,6 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
 - [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - Decentralized content publishing / monetization platform.
 - [Arbore](http://arbo.re) - A friend-to-friend file-sharing app build on top of IPFS.
-- [Arpadyne](https://arpadyne.computes.com) - The New Internet - DNS powered by OrbitDB. Content delivered via IPFS.
 - [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 - [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 - [Blokaly](https://github.com/blokaly) - A badge issuing, sharing and display platform based on IPFS.
@@ -49,7 +48,6 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage.
 - [enzypt.io](https://enzypt.io/) - A website to buy and sell files through Ethereum and IPFS. [Source](https://github.com/flex-dapps/enzypt)
 - [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Source](https://github.com/madvas/ethlance)
-- [FileNation](https://filenation.io/) - The simplest way to send your files around the world using IPFS.
 - [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
 - [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
 - [gogo.tattoo](http://gogo.tattoo) - Gogo Tattoo Project uses IPFS, DLTs and other modern technologies to offer tattoo artists and wearers an unbreakable lifetime record of their portfolios. gogo.tattoo app already has a feature to share works directly to IPFS.
@@ -71,7 +69,6 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [Source](https://github.com/kpcyrd/ipfs.ink)
 - [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
 - [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
-- [IPFSStore](https://ipfsstore.it) - Pinning paid with Steem
 - [killcord](https://killcord.io/) - A censorship resistant deadman's switch [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Source](https://github.com/davidar/markup.rocks)
 - [NodeFort.io](https://www.nodefort.io) - Web-based IPFS node hosting service.
@@ -108,7 +105,6 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - 2017-03-31: [Using IPFS for IoT Communications](https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a) 
 - 2016-09-12: [IPFS: The Internet Democratised](https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b) 
 - 2016-05-20: [Changelog Podcast](https://changelog.com/204/) 
-- 2015-11-01: [Eris + IPFS](https://monax.io/blog/2015/11/01/eris-and-ipfs/) 
 - 2015-09-18: [The InterPlanetary File System Wants to Create a Permanent Web](http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web) 
 - 2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example) 
 - 2015-09-10: [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) 
@@ -121,7 +117,6 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [IETF RFC Archive](https://ipfs.io/ipfs/QmNvTjdqEPjZVWCvRWsFJA1vK7TTw1g9JP6we1WBJTRADM)  [Source](https://github.com/ipfs/archives/issues/18)
 - [MDSConnect](https://ipfs.io/ipfs/QmcvfB6pAqUfTnuAK8zFKVxbdhopnBPveJrDcy1JAA7HX5)  [Source](https://github.com/ipfs/archives/issues/152)
 - [Old Internet Files](https://ipfs.io/ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp)  [Source](https://github.com/ipfs/archives/issues/176)
-- [Presidental Daily Briefs](https://ipfs.io/ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89)  [Source](https://github.com/ipfs/archives/issues/23)
 - [World Wide Web History Project](https://ipfs.io/ipfs/QmRTSA1UFHSx3z7taNRwUVM8AjB2EQwKvyZu3BfJg9QRtZ)  [Source](https://github.com/ipfs/archives/issues/159)
 - [XKCD](https://ipfs.io/ipns/xkcd.hacdias.com)  [Source](https://github.com/ipfs/archives/issues/21)
 - [yarchive.net](https://ipfs.io/ipfs/QmdA5WkDNALetBn4iFeSepHjdLGJdxPBwZyY47ir1bZGAK)  [Source](https://github.com/ipfs/archives/issues/76)
@@ -130,7 +125,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 
 - [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) - Monitor the current block number of the Ethereum blockchain, and set alerts (stored locally using PouchDB in your browser) for when certain block heights are passed. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
 - [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
-- [dillo-ipfs](https://ipfs.io/ipns/12D3KooWBG1fsFRF4ykpidXVNVnbon5KLfv67pkkGeFstrwftVVb/) - IPFS integration for the Dillo web browser. [Source](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256)
+- [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) - IPFS integration for the Dillo web browser.
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
 - [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
 - [http2ipfs](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.

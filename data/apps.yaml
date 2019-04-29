@@ -138,10 +138,6 @@ content:
     source: https://github.com/victorbjelkholm/ipfsbin
     description: >
       Pastebin clone build.
-  - title: IPFSStore
-    website: https://ipfsstore.it
-    description: >
-      Pinning paid with Steem
   - title: markup.rocks
     website: https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u
     source: https://github.com/davidar/markup.rocks
@@ -157,10 +153,6 @@ content:
     website: https://partysha.re
     description: >
       A simple file sharing app.
-  - title: FileNation
-    website: https://filenation.io/
-    description: >
-      The simplest way to send your files around the world using IPFS.
   - title: Playback
     source: https://mafintosh.github.io/playback/
     description: >
@@ -216,10 +208,6 @@ content:
   - title: a qr-code renderer
     source: https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/qr-render
     demo: https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here
-  - title: Arpadyne
-    website: https://arpadyne.computes.com
-    description: >
-      The New Internet - DNS powered by OrbitDB. Content delivered via IPFS.
   - title: TallyLab
     website: https://tallylab.com/
     picture: /images/tallylab.jpg
