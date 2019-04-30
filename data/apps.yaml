@@ -131,8 +131,8 @@ content:
     website: https://ipfs-search.com
     source: https://github.com/ipfs-search/ipfs-search
     description: >
-      Searching the universe since 2016. 
-      
+      Searching the universe since 2016.
+
       Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search API's available.
   - title: ipfs-share
     source: https://github.com/rameshvarun/ipfs-share
@@ -336,3 +336,12 @@ content:
     description: >
       Service Menu for Dolphin File Manager to upload files to IPFS
       The open network for transaction requests.
+  - title: Discussify
+    source: https://github.com/ipfs-shipyard/discussify-browser-extension
+    description: >
+      Discussify provides a real-time, peer to peer, and permanent discussion platform
+      for anyone to join and participate.
+  - title: AirSecure
+    source: https://github.com/airsecure/airsecure
+    description: >
+      Decentralized two factor authentication app built on Textile & IPFS.
