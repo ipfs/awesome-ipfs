@@ -11,15 +11,12 @@
         <img alt="IPFS" src="{{ .Site.BaseURL }}/images/logo.png" class="w3 h3 mr3">
         <h1 class="f3 white">Awesome IPFS</h1>
       </a>
-  
-      {{ $site := .Site }}
-      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-      {{ $color := (index $site.Data.categories $name).color }}
-      {{ $icon := print (index $site.Data.categories $name).icon ".svg" }}
-      <a href="/categories/{{ $name | urlize }}"
-        class="flex-grow-1 flex items-center justify-center white no-underline pa2 bg-animate dib bg-{{ $color }}-muted hover-bg-{{ $color }}">
-        <span class="w2 h2 fill-white mr2">{{ partial (print "icons/" $icon ) }}</span>
-        {{ $name }}
+
+      {{ range (where .Site.Pages "Type" "category") }}
+      <a href="{{ .RelPermalink }}"
+        class="flex-grow-1 flex items-center justify-center white no-underline pa2 bg-animate dib bg-{{ .Params.color }}-muted hover-bg-{{ .Params.color }}">
+        <span class="w2 h2 fill-white mr2">{{ partial (print "icons/" .Params.icon ".svg" ) }}</span>
+        {{ .Title }}
       </a>
       {{ end }}
     </nav>
