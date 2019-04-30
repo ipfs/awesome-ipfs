@@ -136,12 +136,13 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path
 - [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
 - [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
-- [ipfs-common](https://github.com/arsyun) - some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools. [Source](https://github.com/arsyun/ipfs-common)
+- [ipfs-common](https://github.com/arsyun) - Some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools. [Source](https://github.com/arsyun/ipfs-common)
 - [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources.
 - [ipfs-gui](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer
 - [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
 - [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows
 - [ipfs-paste](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
+- [ipfs-publish](https://ipfs-publish.uhlir.dev) - Continuous Delivery tool for delivery of static websites from Git providers to IPFS. [Source](https://github.com/AuHau/ipfs-publish)
 - [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
 - [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
 - [ipfsecret](https://github.com/c2fo-lab/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase
