@@ -27,9 +27,7 @@ stroke*.svg
 public
 dist
 /src/resources
-/src/data
 /src/content
-/src/layouts/partials/indexes
 /src/static/fonts
 /src/static/app.css
 /src/static/app.js

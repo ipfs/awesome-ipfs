@@ -3,18 +3,12 @@ const path = require('path')
 const files = require('./data')
 const readme = path.join(__dirname, '../README.md')
 const template = path.join(__dirname, 'readme-template.md')
-const { slugify, sortInv, sortAbc } = require('./utils')
+const { slugify } = require('./utils')
 
 const toc = files.map(cat => `- [${cat.title}](#${slugify(cat.title)})`).join('\n')
 
 const sections = files.map(category => {
-  let sort = (a, b) => sortAbc(a.title, b.title)
-
-  if (category.title === 'Articles') {
-    sort = (a, b) => sortInv(a.date, b.date)
-  }
-
-  const content = category.content.sort(sort).map(item => {
+  const content = category.content.map(item => {
     let block = '- '
     let mainUrl = ''
 
