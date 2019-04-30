@@ -305,6 +305,11 @@ content:
       Run your IPFS node on your machine without having to bother with command line tools.
       Manage your node, add your files, easily change the settings... everything from
       just one interface.
+  - title: IpfsCloud
+    source: https://github.com/cluster-labs/ipfscloud-web
+    website: https://ipfscloud.store
+    description: >
+       A Decentralized, Anonymous Cloud Storage Platform on IPFS.
   - title: 3Box
     website: https://3box.io
     source: https://github.com/uport-project/3box
