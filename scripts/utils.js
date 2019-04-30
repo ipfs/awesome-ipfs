@@ -20,12 +20,9 @@ const slugify = (text) => text.toString()
   .replace(/^-+/, '')
   .replace(/-+$/, '')
 
-const capitalize = (text) => `${text.charAt(0).toUpperCase()}${text.slice(1).toLowerCase()}`
-
 module.exports = {
   sort,
   sortInv,
   sortAbc,
-  slugify,
-  capitalize
+  slugify
 }

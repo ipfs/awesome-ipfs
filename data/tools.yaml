@@ -3,6 +3,9 @@ color: yellow
 icon: stroke_code
 description: Tools built on the top of IPFS.
 content:
+- title: Sweet IPFS
+  source: https://github.com/RHazDev/Sweet-IPFS
+  description: Full node for Android
 - title: cachewarmer
   source: https://github.com/BrendanBenshoof/cachewarmer
   description: Donate ipfs gateways to cache other people's content
@@ -11,7 +14,7 @@ content:
   description: Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
 - title: dillo-ipfs
   source: https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256
-  website: https://ipfs.io/ipns/12D3KooWBG1fsFRF4ykpidXVNVnbon5KLfv67pkkGeFstrwftVVb/
+  website: https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256
   description: IPFS integration for the Dillo web browser.
   picture: /images/dillo-ipfs.png
 - title: git-remote-ipfs
@@ -103,3 +106,7 @@ content:
   source: https://github.com/ConsenSys/Mahuta
   description: >
     Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
+- title: Public gateway status checker
+  website: https://ipfs.fooock.com/
+  source: https://github.com/fooock/ipfs-gateway-checker
+  description: Web app to check public states of IPFS gateways, including latency and gateway writable state.
