@@ -101,6 +101,11 @@ content:
   source: https://github.com/arsyun/ipfs-common
   description: >
       some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools.
+- title: mahuta
+  website: https://github.com/ConsenSys/Mahuta
+  source: https://github.com/ConsenSys/Mahuta
+  description: >
+    Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
 - title: Public gateway status checker
   website: https://ipfs.fooock.com/
   source: https://github.com/fooock/ipfs-gateway-checker
