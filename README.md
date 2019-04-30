@@ -153,12 +153,13 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
 - [Public gateway status checker](https://ipfs.fooock.com/) - Web app to check public states of IPFS gateways, including latency and gateway writable state. [Source](https://github.com/fooock/ipfs-gateway-checker)
 - [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux [Source](https://github.com/Siderus/Orion)
+- [IPDR](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry
 - [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) - Full node for Android
 
 ## Videos
 
 - [Distributed Apps with IPFS - Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w) - This talk breaks down how to build a dynamic app on top of IPFS with CRDTs, pub/sub, and slick UIs. It also delves into new models for distributed computation, and the ethical importance of distributing the web.
-- [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) 
+- [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA)
 - [IPFS Simply Explained](https://www.youtube.com/watch?v=5Uj6uR3fp-U) - Let's take a look at how IPFS works, how it can solve issue's like censorship and if it would really work across multiple planets!
 - [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) - The talk includes a broad look at The IPFS Project, and a discussion on evolving the network stack through open source protocols R & D.
 - [Textile Build Series - A Free Online Workshop](https://www.youtube.com/playlist?list=PLC8CEtJ9shDznO1tpvGe--BVEWmCKY9_Z) - A full Training Program to teach devs on how to build for the Decentralized Web. The series covers a ton of content, touch multiple parts of the IPFS stack and guides devs through building a simple DApp.
