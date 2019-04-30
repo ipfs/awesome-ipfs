@@ -116,3 +116,6 @@ content:
   website: https://ipfs.fooock.com/
   source: https://github.com/fooock/ipfs-gateway-checker
   description: Web app to check public states of IPFS gateways, including latency and gateway writable state.
+- title: IPDR
+  website: https://github.com/miguelmota/ipdr
+  description: IPFS-backed Docker Registry
