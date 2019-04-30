@@ -73,6 +73,11 @@ content:
     description: >
       Distributed video sharing with steem.it intergrations, using ipfs for
       backend storage.
+  - title: Eternum
+    website: https://www.eternum.io/
+    picture: /images/eternum.png
+    description: >
+      Paid pinning service with an easy-to-use API.
   - title: Ethlance
     website: http://ethlance.com
     source: https://github.com/madvas/ethlance
