@@ -7,10 +7,8 @@ jobs:
           NO_SANDBOX: true
     steps:
       - checkout
-      - run:
-          command: yarn
-      - run:
-          command: yarn build
+      - run: npm install
+      - run: npm run build
       - persist_to_workspace:
           root: .
           paths:
