@@ -147,7 +147,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
 - [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows
 - [ipfs-paste](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
-- [ipfs-publish](https://ipfs-publish.uhlir.dev) - Continuous Delivery tool for delivery of static websites from Git providers to IPFS. some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools. [Source](https://github.com/AuHau/ipfs-publish)
+- [ipfs-publish](https://ipfs-publish.uhlir.dev) - Continuous Delivery tool for delivery of static websites from Git providers to IPFS. [Source](https://github.com/AuHau/ipfs-publish)
 - [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
 - [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
 - [ipfsecret](https://github.com/c2fo-lab/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase
