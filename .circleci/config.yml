@@ -1,5 +1,13 @@
 version: 2
 jobs:
+  awesome:
+    docker:
+      - image: circleci/ruby:2.4.2-jessie-node
+    steps:
+      - checkout
+      - run: gem install awesome_bot
+      - run: awesome_bot --allow-redirect --allow-dupe --allow-ssl -w ipfs.io README.md
+
   build:
     docker:
       - image: circleci/node:10.15.1-browsers
@@ -38,8 +46,19 @@ jobs:
 
 workflows:
   version: 2
+  check-links:
+    triggers:
+      - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - awesome
   build-deploy:
     jobs:
+      - awesome
       - build
       - deploy:
           context: ipfs-dns-deploy
