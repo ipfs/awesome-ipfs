@@ -152,6 +152,8 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
 - [Public gateway status checker](https://ipfs.fooock.com/) - Web app to check public states of IPFS gateways, including latency and gateway writable state. [Source](https://github.com/fooock/ipfs-gateway-checker)
 - [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux [Source](https://github.com/Siderus/Orion)
+- [ipfs-common](https://github.com/arsyun/ipfs-common) - some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools.
+- [solid-ipfs](https://github.com/Eximua/solid-ipfs) - Using Solid to store IPFS Hash privately or publicly.
 
 ## Videos
 
