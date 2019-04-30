@@ -128,9 +128,12 @@ content:
     description: >
       Publish and render markdown essays to and from ipfs.
   - title: ipfs-search
-    website: http://ipfs-search.com
+    website: https://ipfs-search.com
+    source: https://github.com/ipfs-search/ipfs-search
     description: >
-      Search engine for files and directories on IPFS.
+      Searching the universe since 2016. 
+      
+      Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search API's available.
   - title: ipfs-share
     source: https://github.com/rameshvarun/ipfs-share
     description: >
