@@ -39,6 +39,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [Arbore](http://arbo.re) - A friend-to-friend file-sharing app build on top of IPFS.
 - [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 - [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
+- [Bit Tube](https://bit.tube/trending) - Distributed video and live sharing with ipfs intergrations, using ipfs for backend storage.
 - [Blokaly](https://github.com/blokaly) - A badge issuing, sharing and display platform based on IPFS.
 - [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [Source](https://github.com/fazo96/ipfs-boards)
 - [brig](https://brig.readthedocs.io/en/latest) - File synchronization with git like interface and FUSE filesystem. [Source](https://github.com/sahib/brig)
