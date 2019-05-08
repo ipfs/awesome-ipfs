@@ -47,6 +47,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 - [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 - [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) - Discussify provides a real-time, peer to peer, and permanent discussion platform for anyone to join and participate.
+- [DtinyUrl](http://t.bdaily.club) - Dcentralized url shortening service base on ipfs [Source](https://github.com/facert/dtinyurl)
 - [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage.
 - [enzypt.io](https://enzypt.io/) - A website to buy and sell files through Ethereum and IPFS. [Source](https://github.com/flex-dapps/enzypt)
 - [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
