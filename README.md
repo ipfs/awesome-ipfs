@@ -103,6 +103,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 
 ## Articles
 
+- 2019-05-12: [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://dev.to/agentofuser/the-complete-beginner-s-guide-to-deploying-your-first-static-website-to-ipfs-33po) 
 - 2018-08-06: [Content Identifiers in IPFS](https://pascalprecht.github.io/posts/content-identifiers-in-ipfs/) 
 - 2018-07-11: [On future-proof cryptographic hashes](https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/) 
 - 2017-08-21: [Understanding the IPFS White Paper part 2](https://decentralized.blog/understanding-the-ipfs-white-paper-part-2.html) 
