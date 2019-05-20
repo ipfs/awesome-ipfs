@@ -118,3 +118,8 @@ content:
 - title: IPDR
   website: https://github.com/miguelmota/ipdr
   description: IPFS-backed Docker Registry
+- title: 'ipfs-deploy'
+  website: https://github.com/agentofuser/ipfs-deploy
+  source: https://github.com/agentofuser/ipfs-deploy
+  description: 'Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy'
+  picture: /images/ipfs-deploy.png
