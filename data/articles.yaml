@@ -44,3 +44,7 @@ content:
   - title: Understanding the IPFS White Paper part 2
     date: '2017-08-21'
     website: https://decentralized.blog/understanding-the-ipfs-white-paper-part-2.html
+  - title: "The Complete Beginner's Guide to Deploying Your First Static Website to IPFS"
+    date: '2019-05-12'
+    website: https://dev.to/agentofuser/the-complete-beginner-s-guide-to-deploying-your-first-static-website-to-ipfs-33po
+    picture: /images/tutorial-ipfs-deploy.jpeg
