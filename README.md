@@ -44,7 +44,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [brig](https://brig.readthedocs.io/en/latest) - File synchronization with git like interface and FUSE filesystem. [Source](https://github.com/sahib/brig)
 - [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
 - [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
-- [CoTNetwork](http://www.cotnetwork.com) - Destributed computing network base on ipfs
+- [CoTNetwork](http://www.cotnetwork.com) - A distributed computing network base on ipfs
 - [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 - [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 - [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) - Discussify provides a real-time, peer to peer, and permanent discussion platform for anyone to join and participate.
