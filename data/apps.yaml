@@ -104,6 +104,12 @@ content:
     description: >
       A booru-style media tagging application with a multitude of features,
       recently added basic ipfs support.
+  - title: InfiniteBooru
+    source: https://infinitebooru.com
+    picture: /images/infinitebooru.png
+    description: >
+      A booru-style media tagging application and content aggregator
+      with all media backed by IPFS.
   - title: InterPlanetary Wayback
     source: https://github.com/oduwsdl/ipwb
     picture: /images/interplanetarywayback.png
