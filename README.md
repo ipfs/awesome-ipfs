@@ -99,6 +99,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [ToDo List Demo](https://ipfs.io/ipfs/QmfFaH6dGibQ5JwEdsujeHBzsmHUsFRB5kU9P8nzPyzMv2/) - A ToDo List demo app that uses windows.ipfs. [Source](https://github.com/ipfs-shipyard/demo-ipfs-todo)
 - [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
 - [uport](https://uport.me/#home) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
+- [Wistful Books](https://wistfulbooks.com/) - Single page offline application for enjoying librivox.org audio books. [Source](https://github.com/smwa/wistfulbooks)
 - [xfce-screenshooter-ipfs-support](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) - A fork of xfce-screenshooter with IPFS support!
 
 ## Articles
