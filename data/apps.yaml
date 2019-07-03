@@ -350,3 +350,9 @@ content:
     source: https://github.com/facert/dtinyurl
     description: >
       Dcentralized url shortening service base on ipfs
+  - title: Peergos
+    website: https://peergos.org
+    source: https://github.com/Peergos/Peergos
+    picture: /images/peergos.png
+    description: >
+        End-to-end encrypted, peer-to-peer file storage and sharing.
