@@ -1,7 +1,16 @@
 {{ define "text" }}
-<p class="f6 lh-copy mw5 mt2 mb0 mid-gray">
-  {{- . -}}
+<p class="f6 lh-copy mw5 mt2 mb0 mid-gray" style="word-break: break-all">
+  {{- markdownify . -}}
 </p>
+{{ end }}
+
+{{ define "hash" }}
+<a href="https://ipfs.io{{ . }}" target="_blank" alt="Website" title="Website" class="aqua hover-teal">
+  <abbr title="{{ . }}">
+    {{ $length := sub (len .) 5 }}
+    <code>{{ substr . 0 10 }}...{{ substr . $length 5 }}</code>
+  </abbr>
+</a>
 {{ end }}
 
 <div class="ma2 dn" id="search">
@@ -41,12 +50,7 @@
 
       {{- if isset . "hash" -}}
         <div class="mt2 mw5">
-          <a href="https://ipfs.io{{ .hash }}" target="_blank" alt="Website" title="Website" class="aqua hover-teal">
-            <abbr title="{{ .hash }}">
-              {{ $length := sub (len .hash) 5 }}
-              <code>{{ substr .hash 0 10 }}...{{ substr .hash $length 5 }}</code>
-            </abbr>
-          </a>
+          {{ template  "hash" .hash }}
         </div>
       {{- end -}}
 
@@ -76,8 +80,13 @@
           {{ partial "icons/flask.svg" }}
         </a>
         {{- end -}}
+
+        {{- if isset . "snapshot" -}}
+        <a href="http://ipfs.io/{{ .snapshot.hash }}" target="_blank" alt="Snapshot as of {{ .snapshot.date }}" title="Snapshot as of {{ .snapshot.date }}">
+          {{ partial "icons/history.svg" }}
+        </a>
+      {{- end -}}
       </div>
-      
     </div>
   </article>
   {{ end }}
