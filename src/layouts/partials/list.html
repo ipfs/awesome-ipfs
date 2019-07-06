@@ -44,12 +44,6 @@
         {{ template  "text" .description }}
       {{- end -}}
 
-      {{- if isset . "snapshot" -}}
-       <p class="f6 lh-copy mw5 mt2 mb0 mid-gray" style="word-break: break-all">
-        Snapshot as of {{ .snapshot.date }}: {{ template  "hash" .snapshot.hash }}.
-       </p>
-      {{- end -}}
-
       {{- if isset . "size" -}}
         {{ template  "text" (print "Size: " .size) }}
       {{- end -}}
@@ -86,8 +80,13 @@
           {{ partial "icons/flask.svg" }}
         </a>
         {{- end -}}
+
+        {{- if isset . "snapshot" -}}
+        <a href="http://ipfs.io/{{ .snapshot.hash }}" target="_blank" alt="Snapshot as of {{ .snapshot.date }}" title="Snapshot as of {{ .snapshot.date }}">
+          {{ partial "icons/history.svg" }}
+        </a>
+      {{- end -}}
       </div>
-      
     </div>
   </article>
   {{ end }}
