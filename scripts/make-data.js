@@ -3,7 +3,7 @@ const fs = require('fs-extra')
 const { join } = require('path')
 
 function getData () {
-  let data = require('./data')
+  const data = require('./data')
 
   data.push({
     title: 'Awesome IPFS',
