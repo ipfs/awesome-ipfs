@@ -33,6 +33,8 @@ body {
 .Card {
   margin: 0 0 1em 0;
   width: 100%;
+  page-break-inside: avoid;
+  break-inside: avoid;
 }
 
 @media (max-width: 1000px) {
