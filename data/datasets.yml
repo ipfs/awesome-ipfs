@@ -1,7 +1,7 @@
 title: Datasets
 color: teal
 icon: stroke_copy
-description: Datasets who live or are replicated to IPFS
+description: Datasets who live or are replicated to IPFS.
 content:
   - title: IETF RFC Archive
     hash: /ipfs/QmNvTjdqEPjZVWCvRWsFJA1vK7TTw1g9JP6we1WBJTRADM
