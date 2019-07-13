@@ -14,6 +14,7 @@ _This list is for projects, tools, or pretty much any things related to IPFS tha
 - [Apps](#apps)
 - [Articles](#articles)
 - [Datasets](#datasets)
+- [Services](#services)
 - [Tools](#tools)
 - [Videos](#videos)
 - [Discussions](#discussions)
@@ -88,7 +89,6 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Peer Map Demo](https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/) - A map of IPv4 IPFS peers that uses window.ipfs [Source](https://github.com/tableflip/ipfs-peer-map-example)
 - [Peergos](https://peergos.org) - End-to-end encrypted, peer-to-peer file storage and sharing. [Source](https://github.com/Peergos/Peergos)
 - [Philes](https://philes.co) - A simple browser-based IPFS notepad app. [Source](https://github.com/chrismatthieu/philes)
-- [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
 - [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - A ~76KB demo chat app that uses window.ipfs, provided by the IPFS Companion web extension [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
@@ -139,6 +139,10 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [World Wide Web History Project](https://ipfs.io/ipfs/QmRTSA1UFHSx3z7taNRwUVM8AjB2EQwKvyZu3BfJg9QRtZ)  [Source](https://github.com/ipfs/archives/issues/159)
 - [xkcd](https://ipfs.io/ipns/xkcd.hacdias.com)  [Source](https://github.com/ipfs/archives/issues/21)
 - [yarchive.net](https://ipfs.io/ipfs/QmdA5WkDNALetBn4iFeSepHjdLGJdxPBwZyY47ir1bZGAK)  [Source](https://github.com/ipfs/archives/issues/76)
+
+## Services
+
+- [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 
 ## Tools
 
