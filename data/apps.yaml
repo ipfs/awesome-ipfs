@@ -293,7 +293,7 @@ content:
     description: >
       A demo app that uses windows.ipfs to show you a QR Code of your IPNS Link and of your Public Key.
   - title: ToDo List Demo
-    website: https://ipfs.io/ipfs/QmfFaH6dGibQ5JwEdsujeHBzsmHUsFRB5kU9P8nzPyzMv2/
+    website: https://ipfs.io/ipfs/QmSGQrmvHe6fFiWdV2H8YnhLaoX4qe5nYEmJfUFx6LdUYa/
     source: https://github.com/ipfs-shipyard/demo-ipfs-todo
     picture: /images/todo-demo.png
     description: >
