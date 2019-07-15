@@ -73,11 +73,6 @@ content:
     description: >
       Distributed video sharing with steem.it intergrations, using ipfs for
       backend storage.
-  - title: Eternum
-    website: https://www.eternum.io/
-    picture: /images/eternum.png
-    description: >
-      Paid pinning service with an easy-to-use API.
   - title: Ethlance
     website: http://ethlance.com
     source: https://github.com/madvas/ethlance
@@ -254,10 +249,6 @@ content:
     description: >
       A Infrastructure: use API and developer tools provide secure, reliable, and
       scalable access toEthereum and IPFS to help build decentralized application easier.
-  - title: NodeFort.io
-    website: https://www.nodefort.io
-    picture: /images/nodefort.png
-    description: Web-based IPFS node hosting service.
   - title: OpenBazaar
     website: https://www.openbazaar.org/
     description: >
@@ -344,7 +335,7 @@ content:
     website: http://t.bdaily.club
     source: https://github.com/facert/dtinyurl
     description: >
-      Dcentralized url shortening service base on ipfs
+      Dcentralized URL shortening service based on IPFS.
   - title: Peergos
     website: https://peergos.org
     source: https://github.com/Peergos/Peergos
