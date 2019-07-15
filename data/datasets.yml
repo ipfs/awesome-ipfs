@@ -11,8 +11,8 @@ content:
   - title: xkcd
     hash: /ipns/xkcd.hacdias.com
     snapshot:
-      hash: /ipfs/QmPaSQc397fJ8KbrQ1E4uR8RB1tBkEojBR91sUSG6qGt4K
-      date: 06/07/2019
+      hash: /ipfs/QmP7UYTMQFhsiRHfbgPgEngALzXWroSRVkEyWSbJTd23yf
+      date: 15/07/2019
     website: https://ipfs.io/ipns/xkcd.hacdias.com
     source: https://github.com/ipfs/archives/issues/21
     description:

@@ -69,6 +69,12 @@
         </a>
         {{- end -}}
 
+        {{- if isset . "snapshot" -}}
+        <a href="http://ipfs.io/{{ .snapshot.hash }}" target="_blank" alt="Snapshot as of {{ .snapshot.date }}" title="Snapshot as of {{ .snapshot.date }}">
+          {{ partial "icons/history.svg" }}
+        </a>
+        {{- end -}}
+
         {{- if isset . "source" -}}
         <a href="{{ .source }}" target="_blank" alt="Source Code" title="Source Code">
           {{ partial "icons/code.svg" }}
@@ -80,12 +86,6 @@
           {{ partial "icons/flask.svg" }}
         </a>
         {{- end -}}
-
-        {{- if isset . "snapshot" -}}
-        <a href="http://ipfs.io/{{ .snapshot.hash }}" target="_blank" alt="Snapshot as of {{ .snapshot.date }}" title="Snapshot as of {{ .snapshot.date }}">
-          {{ partial "icons/history.svg" }}
-        </a>
-      {{- end -}}
       </div>
     </div>
   </article>
