@@ -1,0 +1,10 @@
+title: Services
+color: green
+icon: stroke_decentralization
+description: Services that make use of IPFS technologies.
+content:
+  - title: Pinata
+    website: https://pinata.cloud
+    picture: /images/pinata.png
+    description: >
+      Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
