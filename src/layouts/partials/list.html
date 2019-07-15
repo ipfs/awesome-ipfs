@@ -13,16 +13,16 @@
 </a>
 {{ end }}
 
-<div class="ma2 dn" id="search">
+<div class="mv2 dn" id="search">
   <input
     placeholder="Find your awesome app..."
     class="input-reset outline-0 bn pa3 mb2 db w-100 center focus-outline dn"
     type="text" />
 </div>
 
-<main class="CardContainer mv4 flex flex-wrap justify-between" >
+<main class="CardContainer mv4" >
   {{ range (sort .Params.content "index") -}}
-  <article data-ref="{{ .index }}" class="Card flex flex-column bg-white shadow-4 grow2 br1 dark-gray b--black-10 flex-grow-1 ma2">
+  <article data-ref="{{ .index }}" class="Card dib bg-white shadow-4 br1 dark-gray b--black-10 ma2">
     <div class="bg-navy ttu fw6 tracked montserrat bg-{{ .color }}-muted br1 br--top white pv1 ph2 ph3-ns f7 b w-100">
       {{ humanize .category }}
     </div>
