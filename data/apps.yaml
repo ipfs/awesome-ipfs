@@ -3,6 +3,11 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: IPSE
+    website: https://ipse.io/
+    picture: /images/ipse.png
+    description: >
+      IPSE is a search engine built on IPFS and Blockchain.
   - title: 2read
     website: https://2read.net/
     source: https://github.com/meehow/2read
