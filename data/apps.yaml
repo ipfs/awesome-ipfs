@@ -347,3 +347,7 @@ content:
     picture: /images/peergos.png
     description: >
         End-to-end encrypted, peer-to-peer file storage and sharing.
+  - title: Minerva
+    source: https://github.com/bdchain/Minerva
+    description: >
+      Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine. 
