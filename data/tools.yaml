@@ -6,6 +6,9 @@ content:
 - title: Sweet IPFS
   source: https://github.com/RHazDev/Sweet-IPFS
   description: Full node for Android
+- title: git-stellar-ipfs
+  source: https://github.com/aanupam23/go-stellar-ipfs
+  description: go-stellar-ipfs is a library that is a bridge between Stellar and IPFS. 
 - title: cachewarmer
   source: https://github.com/BrendanBenshoof/cachewarmer
   description: Donate ipfs gateways to cache other people's content
