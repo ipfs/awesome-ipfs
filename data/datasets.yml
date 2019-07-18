@@ -1,19 +1,22 @@
 title: Datasets
 color: teal
 icon: stroke_copy
-description: Datasets who live or are replicated to IPFS
+description: Datasets who live or are replicated to IPFS.
 content:
   - title: IETF RFC Archive
     hash: /ipfs/QmNvTjdqEPjZVWCvRWsFJA1vK7TTw1g9JP6we1WBJTRADM
     website: https://ipfs.io/ipfs/QmNvTjdqEPjZVWCvRWsFJA1vK7TTw1g9JP6we1WBJTRADM
     source: https://github.com/ipfs/archives/issues/18
     size: 500MB
-  - title: XKCD
+  - title: xkcd
     hash: /ipns/xkcd.hacdias.com
+    snapshot:
+      hash: /ipfs/QmP7UYTMQFhsiRHfbgPgEngALzXWroSRVkEyWSbJTd23yf
+      date: 15/07/2019
     website: https://ipfs.io/ipns/xkcd.hacdias.com
     source: https://github.com/ipfs/archives/issues/21
     description:
-    size: 241MB
+    size: 242MB
   - title: Old Internet Files
     hash: /ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp
     website: https://ipfs.io/ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp
@@ -44,3 +47,63 @@ content:
     source: https://github.com/ipfs/archives/issues/152
     description:
     size: 18.4GB
+  - title: arXiv
+    hash: /ipfs/QmfXH9XtP7xmoTH8WAp4HNSduqWMwLTH8B8TvbTkdgzNAa
+    website: https://ipfs.io/ipfs/QmfXH9XtP7xmoTH8WAp4HNSduqWMwLTH8B8TvbTkdgzNAa
+    source: https://github.com/ipfs/archives/issues/2
+    description:
+    size: 25GB
+  - title: Presidental Daily Briefs
+    hash: /ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89
+    website: https://ipfs.io/ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89
+    source: https://github.com/ipfs/archives/issues/23
+    description:
+    size: 480MB
+  - title: No-Intro Collection
+    hash: /ipfs/QmPFj6iAxUwxVyEtDJBJHXVp4SX9dkV91Mh5mjqGxTctHy
+    website: https://ipfs.io/ipfs/QmPFj6iAxUwxVyEtDJBJHXVp4SX9dkV91Mh5mjqGxTctHy
+    source: https://github.com/ipfs/archives/issues/163
+    description:
+    size: 39.15 GB
+  - title: cdnjs
+    hash: /ipfs/QmRrnfFUgx81KZR9ibEcxDXgevoj9e5DydB5v168yembnX
+    website: https://ipfs.io/ipfs/QmRrnfFUgx81KZR9ibEcxDXgevoj9e5DydB5v168yembnX
+    source: https://github.com/ipfs/archives/issues/35
+    description:
+    size: 17GB
+  - title: alpine-linux 3.4 packages
+    hash: /ipfs/QmRsvEpJggeu4HhoafzRFobV4sbwVVTXMrdb2p8XWv7bCS
+    website: https://ipfs.io/ipfs/QmRsvEpJggeu4HhoafzRFobV4sbwVVTXMrdb2p8XWv7bCS
+    source: https://github.com/ipfs/archives/issues/83
+    description:
+    size: 29GB
+  - title: Project Apollo Archives
+    hash: /ipfs/QmSnuWmxptJZdLJpKRarxBMS2Ju2oANVrgbr2xWbie9b2D
+    website: https://ipfs.io/ipfs/QmSnuWmxptJZdLJpKRarxBMS2Ju2oANVrgbr2xWbie9b2D
+    source: https://github.com/ipfs/archives/issues/143
+    description:
+    size: 61GB
+  - title: textfiles.com
+    hash: /ipfs/QmNoscE3kNc83dM5rZNUC5UDXChiTdDcgf16RVtFCRWYuU
+    website: https://ipfs.io/ipfs/QmNoscE3kNc83dM5rZNUC5UDXChiTdDcgf16RVtFCRWYuU
+    source: https://github.com/ipfs/archives/issues/155
+    description:
+    size: 1.6GB
+  - title: cdn.media.ccc.de
+    hash: /ipfs/QmW84mqTYnCkRTy6VeRJebPWuuk8b27PJ4bWm2bL4nrEWb
+    website: https://ipfs.io/ipfs/QmW84mqTYnCkRTy6VeRJebPWuuk8b27PJ4bWm2bL4nrEWb
+    source: https://github.com/ipfs/archives/issues/52
+    description:
+    size: 5.4TiB
+  - title: Geocities by Archive Team
+    hash: /ipfs/QmVCjhoEFC9vwvaa8bKyJgwAByP4MXSogcyDGoz4Lkc3ox
+    website: https://ipfs.io/ipfs/QmVCjhoEFC9vwvaa8bKyJgwAByP4MXSogcyDGoz4Lkc3ox
+    source: https://github.com/ipfs/archives/issues/182
+    description:
+    size: 641TiB
+  - title: KinoKabaret Caen, 2018 - Shortfilms
+    hash: /ipfs/QmajLDwZLH6bKTzd8jkq913ZbxaB2nFGRrkDAuygYNNv39
+    website: https://ipfs.io/ipfs/QmajLDwZLH6bKTzd8jkq913ZbxaB2nFGRrkDAuygYNNv39
+    source: https://github.com/ipfs/archives/issues/172
+    description:
+    size: 30GB

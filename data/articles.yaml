@@ -3,6 +3,9 @@ color: navy
 icon: stroke_pencil
 description: Articles about the decentralized web and IPFS.
 content:
+  - title: Understanding IPFS in Depth(4/6) What is MultiFormats?
+    date: '2019-07-08'
+    website: https://hackernoon.com/understanding-ipfs-in-depth-4-6-what-is-multiformats-cf25eef83966
   - title: Decentralized & Distributed Edge Computing Comes to Computes.io
     date: '2017-06-13'
     website: https://blog.computes.io/decentralized-distributed-edge-computing-comes-to-computes-io-396aa062bc85
