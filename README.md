@@ -56,6 +56,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
 - [gogo.tattoo](http://gogo.tattoo) - Gogo Tattoo Project uses IPFS, DLTs and other modern technologies to offer tattoo artists and wearers an unbreakable lifetime record of their portfolios. gogo.tattoo app already has a feature to share works directly to IPFS.
 - [Gorilla REPL viewer](https://github.com/keorn/ipfs-gorilla-repl) - Gorilla is a rich REPL for Clojure in the notebook style.
+- [GrandHelmsman](http://www.grandhelmsman.com/en/index.html) - In pursuit of excellence,we are committed to becoming the leading distributed decentralized storage device and technology service provider in the industry,improving the level of information storage,communication and propagation for all human beings.
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
 - [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/) - IPFS based code bin. (Read only for now)
 - [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
