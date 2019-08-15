@@ -103,16 +103,12 @@ content:
   website: https://github.com/arsyun
   source: https://github.com/arsyun/ipfs-common
   description: >
-<<<<<<< HEAD
-      some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools.
-=======
       Some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools.
 - title: ipfs-publish
   picture: /images/ipfs-publish.png
   website: https://ipfs-publish.uhlir.dev
   source: https://github.com/AuHau/ipfs-publish
   description: Continuous Delivery tool for delivery of static websites from Git providers to IPFS.
->>>>>>> upstream/master
 - title: mahuta
   website: https://github.com/ConsenSys/Mahuta
   source: https://github.com/ConsenSys/Mahuta
