@@ -73,11 +73,6 @@ content:
     description: >
       Distributed video sharing with steem.it intergrations, using ipfs for
       backend storage.
-  - title: Eternum
-    website: https://www.eternum.io/
-    picture: /images/eternum.png
-    description: >
-      Paid pinning service with an easy-to-use API.
   - title: Ethlance
     website: http://ethlance.com
     source: https://github.com/madvas/ethlance
@@ -131,8 +126,8 @@ content:
     website: https://ipfs-search.com
     source: https://github.com/ipfs-search/ipfs-search
     description: >
-      Searching the universe since 2016. 
-      
+      Searching the universe since 2016.
+
       Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search API's available.
   - title: ipfs-share
     source: https://github.com/rameshvarun/ipfs-share
@@ -254,10 +249,6 @@ content:
     description: >
       A Infrastructure: use API and developer tools provide secure, reliable, and
       scalable access toEthereum and IPFS to help build decentralized application easier.
-  - title: NodeFort.io
-    website: https://www.nodefort.io
-    picture: /images/nodefort.png
-    description: Web-based IPFS node hosting service.
   - title: OpenBazaar
     website: https://www.openbazaar.org/
     description: >
@@ -269,11 +260,6 @@ content:
     picture: /images/peer-bandwidth-demo.jpg
     description: >
       An demo app that uses window.ipfs, provided by the IPFS Companion web extension to get and graph bandwidth info for your IPFS node
-  - title: Pinata
-    website: https://pinata.cloud
-    picture: /images/pinata.png
-    description: >
-      Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
   - title: PubSub Chat Demo
     website: https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/
     source: https://github.com/tableflip/ipfs-pubsub-chat-example
@@ -293,7 +279,7 @@ content:
     description: >
       A demo app that uses windows.ipfs to show you a QR Code of your IPNS Link and of your Public Key.
   - title: ToDo List Demo
-    website: https://ipfs.io/ipfs/QmfFaH6dGibQ5JwEdsujeHBzsmHUsFRB5kU9P8nzPyzMv2/
+    website: https://ipfs.io/ipfs/QmSGQrmvHe6fFiWdV2H8YnhLaoX4qe5nYEmJfUFx6LdUYa/
     source: https://github.com/ipfs-shipyard/demo-ipfs-todo
     picture: /images/todo-demo.png
     description: >
@@ -330,4 +316,38 @@ content:
     source: https://github.com/RequestNetwork/requestNetwork
     picture: /images/request.svg
     description: >
+      Decentralized network for financial transactions.
+  - title: KDE-DolphinServiceMenu-IPFS
+    source: https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS
+    description: >
+      Service Menu for Dolphin File Manager to upload files to IPFS
       The open network for transaction requests.
+  - title: Discussify
+    source: https://github.com/ipfs-shipyard/discussify-browser-extension
+    description: >
+      Discussify provides a real-time, peer to peer, and permanent discussion platform
+      for anyone to join and participate.
+  - title: AirSecure
+    source: https://github.com/airsecure/airsecure
+    description: >
+      Decentralized two factor authentication app built on Textile & IPFS.
+  - title: DtinyUrl
+    website: http://t.bdaily.club
+    source: https://github.com/facert/dtinyurl
+    description: >
+      Dcentralized URL shortening service based on IPFS.
+  - title: Wistful Books
+    website: https://wistfulbooks.com/
+    source: https://github.com/smwa/wistfulbooks
+    description: >
+      Single page offline application for enjoying librivox.org audio books.
+  - title: Peergos
+    website: https://peergos.org
+    source: https://github.com/Peergos/Peergos
+    picture: /images/peergos.png
+    description: >
+        End-to-end encrypted, peer-to-peer file storage and sharing.
+  - title: Minerva
+    source: https://github.com/bdchain/Minerva
+    description: >
+      Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine. 

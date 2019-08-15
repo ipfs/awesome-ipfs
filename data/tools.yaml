@@ -6,6 +6,9 @@ content:
 - title: Sweet IPFS
   source: https://github.com/RHazDev/Sweet-IPFS
   description: Full node for Android
+- title: go-stellar-ipfs
+  source: https://github.com/aanupam23/go-stellar-ipfs
+  description: go-stellar-ipfs is a library that is a bridge between Stellar and IPFS. 
 - title: cachewarmer
   source: https://github.com/BrendanBenshoof/cachewarmer
   description: Donate ipfs gateways to cache other people's content
@@ -100,7 +103,16 @@ content:
   website: https://github.com/arsyun
   source: https://github.com/arsyun/ipfs-common
   description: >
+<<<<<<< HEAD
       some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools.
+=======
+      Some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools.
+- title: ipfs-publish
+  picture: /images/ipfs-publish.png
+  website: https://ipfs-publish.uhlir.dev
+  source: https://github.com/AuHau/ipfs-publish
+  description: Continuous Delivery tool for delivery of static websites from Git providers to IPFS.
+>>>>>>> upstream/master
 - title: mahuta
   website: https://github.com/ConsenSys/Mahuta
   source: https://github.com/ConsenSys/Mahuta
@@ -110,3 +122,11 @@ content:
   website: https://ipfs.fooock.com/
   source: https://github.com/fooock/ipfs-gateway-checker
   description: Web app to check public states of IPFS gateways, including latency and gateway writable state.
+- title: IPDR
+  website: https://github.com/miguelmota/ipdr
+  description: IPFS-backed Docker Registry
+- title: 'ipfs-deploy'
+  website: https://github.com/agentofuser/ipfs-deploy
+  source: https://github.com/agentofuser/ipfs-deploy
+  description: 'Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy'
+  picture: /images/ipfs-deploy.png
