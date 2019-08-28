@@ -3,6 +3,12 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: SimpleID
+    website: https://simpleid.xyz/
+    source: https://github.com/simplesecure/
+    picture: /images/simpleid.svg
+    description: >
+      Developer tools for adding Ethereum authentication and content pinning to your app.
   - title: 2read
     website: https://2read.net/
     source: https://github.com/meehow/2read
