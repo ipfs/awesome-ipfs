@@ -69,6 +69,10 @@ content:
     description: >
       Dapple is a Solidity developer multitool designed to manage the growing
       complexity of interconnected smart contract systems.
+  - title: Diffuse
+    source: https://diffuse.sh
+    description: >
+      Play music from your IPFS node, or any other cloud/distributed storage service you use.
   - title: digx
     website: https://www.dgx.io/
     description: >
@@ -356,4 +360,4 @@ content:
   - title: Minerva
     source: https://github.com/bdchain/Minerva
     description: >
-      Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine. 
+      Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.

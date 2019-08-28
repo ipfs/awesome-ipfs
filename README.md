@@ -46,6 +46,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
 - [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
 - [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
+- [Diffuse](https://diffuse.sh) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
 - [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 - [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) - Discussify provides a real-time, peer to peer, and permanent discussion platform for anyone to join and participate.
 - [DtinyUrl](http://t.bdaily.club) - Dcentralized URL shortening service based on IPFS. [Source](https://github.com/facert/dtinyurl)
@@ -147,6 +148,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 
 - [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
 - [NodeFort.io](https://www.nodefort.io) - Web-based IPFS node hosting service.
+- [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 
 ## Tools
