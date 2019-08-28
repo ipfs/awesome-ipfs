@@ -3,6 +3,12 @@ color: green
 icon: stroke_decentralization
 description: Services that make use of IPFS technologies.
 content:
+  - title: Peergos
+    website: https://peergos.org
+    source: https://github.com/Peergos/Peergos
+    picture: /images/peergos.png
+    description: >
+      Your private, but social, space online. Store and edit documents and media. Share files or folders with friends. 
   - title: Pinata
     website: https://pinata.cloud
     picture: /images/pinata.png
