@@ -54,6 +54,9 @@ content:
     date: '2019-05-12'
     website: https://dev.to/agentofuser/the-complete-beginner-s-guide-to-deploying-your-first-static-website-to-ipfs-33po
     picture: /images/tutorial-ipfs-deploy.jpeg
+  - title: "Managing storage in a Java application with IPFS"
+    date: '2019-08-14'
+    website: https://kauri.io/article/3e8494f4f56f48c4bb77f1f925c6d926    
   - title: The Case for a Decentralized Social Network
     date: '2019-03-10'
     website: https://medium.com/npfoss/the-case-for-a-decentralized-social-network-2683b727abf5
