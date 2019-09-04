@@ -347,6 +347,11 @@ content:
     source: https://github.com/smwa/wistfulbooks
     description: >
       Single page offline application for enjoying librivox.org audio books.
+  - title: Tree3 Network
+    website: https://tree3.network/
+    source: https://github.com/tree3network/tree3
+    description: >
+       A decentralized platform for micropayments, offchain data and blogging powered by Stellar and IPFS. 
   - title: Peergos
     website: https://peergos.org
     source: https://github.com/Peergos/Peergos
