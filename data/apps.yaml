@@ -3,6 +3,12 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: SimpleID
+    website: https://simpleid.xyz/
+    source: https://github.com/simplesecure/
+    picture: /images/simpleid.svg
+    description: >
+      Developer tools for adding Ethereum authentication and content pinning to your app.
   - title: 2read
     website: https://2read.net/
     source: https://github.com/meehow/2read
@@ -63,6 +69,10 @@ content:
     description: >
       Dapple is a Solidity developer multitool designed to manage the growing
       complexity of interconnected smart contract systems.
+  - title: Diffuse
+    source: https://diffuse.sh
+    description: >
+      Play music from your IPFS node, or any other cloud/distributed storage service you use.
   - title: digx
     website: https://www.dgx.io/
     description: >
@@ -350,4 +360,4 @@ content:
   - title: Minerva
     source: https://github.com/bdchain/Minerva
     description: >
-      Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine. 
+      Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.
