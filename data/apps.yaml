@@ -3,6 +3,11 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: IPSE
+    website: https://ipse.io/
+    source: https://github.com/IPSE-TEAM
+    description: >
+      A search engine based on IPFS.
   - title: SimpleID
     website: https://simpleid.xyz/
     source: https://github.com/simplesecure/
