@@ -356,3 +356,7 @@ content:
     source: https://github.com/bdchain/Minerva
     description: >
       Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.
+  - title: Ipfs with TiddlyWiki
+    source: https://github.com/xmaysonnave/tiddlywiki-ipfs
+    description: >
+      Ipfs with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over Ipfs.

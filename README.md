@@ -68,6 +68,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [IPFS Drive](http://ipfs-drive.ydns.eu) - In browser file manager for IPFS. [Source](https://github.com/fazo96/ipfs-drive)
 - [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events.
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - A demo app that uses windows.ipfs to show you a QR Code of your IPNS Link and of your Public Key. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
+- [Ipfs with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) - Ipfs with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over Ipfs.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) - Build your wiki system base on ipfs and markdown.
 - [ipfs-search](https://ipfs-search.com) - Searching the universe since 2016.
 Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search API's available. [Source](https://github.com/ipfs-search/ipfs-search)
