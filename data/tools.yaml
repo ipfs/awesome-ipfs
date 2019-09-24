@@ -3,6 +3,12 @@ color: yellow
 icon: stroke_code
 description: Tools built on the top of IPFS.
 content:
+- title: Sweet IPFS
+  source: https://github.com/RHazDev/Sweet-IPFS
+  description: Full node for Android
+- title: go-stellar-ipfs
+  source: https://github.com/aanupam23/go-stellar-ipfs
+  description: go-stellar-ipfs is a library that is a bridge between Stellar and IPFS.
 - title: cachewarmer
   source: https://github.com/BrendanBenshoof/cachewarmer
   description: Donate ipfs gateways to cache other people's content
@@ -11,7 +17,7 @@ content:
   description: Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
 - title: dillo-ipfs
   source: https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256
-  website: https://ipfs.io/ipns/12D3KooWBG1fsFRF4ykpidXVNVnbon5KLfv67pkkGeFstrwftVVb/
+  website: https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256
   description: IPFS integration for the Dillo web browser.
   picture: /images/dillo-ipfs.png
 - title: git-remote-ipfs
@@ -97,4 +103,31 @@ content:
   website: https://github.com/arsyun
   source: https://github.com/arsyun/ipfs-common
   description: >
-      some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools.
+      Some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools.
+- title: ipfs-publish
+  picture: /images/ipfs-publish.png
+  website: https://ipfs-publish.uhlir.dev
+  source: https://github.com/AuHau/ipfs-publish
+  description: Continuous Delivery tool for delivery of static websites from Git providers to IPFS.
+- title: mahuta
+  website: https://github.com/ConsenSys/Mahuta
+  source: https://github.com/ConsenSys/Mahuta
+  description: >
+    Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
+- title: Public gateway status checker
+  website: https://ipfs.fooock.com/
+  source: https://github.com/fooock/ipfs-gateway-checker
+  description: Web app to check public states of IPFS gateways, including latency and gateway writable state.
+- title: IPDR
+  website: https://github.com/miguelmota/ipdr
+  description: IPFS-backed Docker Registry
+- title: 'ipfs-deploy'
+  website: https://github.com/agentofuser/ipfs-deploy
+  source: https://github.com/agentofuser/ipfs-deploy
+  description: 'Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy'
+  picture: /images/ipfs-deploy.png
+- title: orbit-db
+  website: https://github.com/orbitdb/orbit-db
+  source: https://github.com/orbitdb/orbit-db
+  description: OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
+  picture: /images/orbit-db.png
