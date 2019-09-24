@@ -131,3 +131,7 @@ content:
   source: https://github.com/orbitdb/orbit-db
   description: OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
   picture: /images/orbit-db.png
+- title: go-orbit-db
+  website: https://github.com/berty/go-orbit-db
+  source: https://github.com/berty/go-orbit-db
+  description: This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
