@@ -23,3 +23,7 @@ content:
     website: https://www.nodefort.io
     picture: /images/nodefort.png
     description: Web-based IPFS node hosting service.
+  - title: Temporal
+    website: https://temporal.cloud
+    picture: /images/temporal.png
+    description: Scalable IPFS Infrastructure with free starter package featuring turnkey APIs, toolkits and storage.
