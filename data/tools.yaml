@@ -3,6 +3,9 @@ color: yellow
 icon: stroke_code
 description: Tools built on the top of IPFS.
 content:
+- title: Tellit
+  source: https://gitlab.com/terceranexus6/tellit
+  description: Encrypt files before uploading them using a keypair or a passphrase
 - title: Sweet IPFS
   source: https://github.com/RHazDev/Sweet-IPFS
   description: Full node for Android
