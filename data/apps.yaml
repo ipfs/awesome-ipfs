@@ -7,7 +7,7 @@ content:
     website: https://ipse.io/
     source: https://github.com/IPSE-TEAM
     description: >
-      A search engine based on IPFS.
+      A search engine for the IPFS network.
   - title: SimpleID
     website: https://simpleid.xyz/
     source: https://github.com/simplesecure/
