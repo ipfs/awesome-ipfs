@@ -28,7 +28,6 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 **NOTE**: If you want to edit the README file directly (not the items/links) you need to modify the [README template](https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md) instead and run `make build` again. Thank you!
 
 ## Apps
-- [IPSE](https://ipse.io/) - A search engine for the IPFS network.
 - [2read](https://2read.net/) - Convert article in current tab to readable form and upload it to writable node(s). [Source](https://github.com/meehow/2read)
 - [3Box](https://3box.io) - Create and manage your Ethereum Profile, and your personal data. Use the 3box-js library to integrate profiles into your dapp. [Source](https://github.com/uport-project/3box)
 - [a js video player](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/play) - [Demo](https://ipfs.io/ipfs/QmVc6zuAneKJzicnJpfrqCH9gSy6bz54JhcypfJYhGUFQu/play#/ipfs/QmTKZgRNwDNZwHtJSjCp6r5FYefzpULfy37JvMt9DwvXs)
@@ -76,6 +75,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
 - [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
 - [IpJot](https://ipjot.herokuapp.com/) - Creates short notes, stories, books, poems, conversations on IPFS.
+- [IPSE](https://ipse.io/) - A search engine for the IPFS network.
 - [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) - Service Menu for Dolphin File Manager to upload files to IPFS The open network for transaction requests.
 - [killcord](https://killcord.io/) - A censorship resistant deadman's switch [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Source](https://github.com/davidar/markup.rocks)
