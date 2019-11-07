@@ -107,3 +107,9 @@ content:
     source: https://github.com/ipfs/archives/issues/172
     description:
     size: 30GB
+  - title: Librivox Audio Books
+    hash: /ipfs/QmXyNMhV8bQFp6wzoVpkz3NqDi7Fj72Deg7KphAuew3RYU
+    website: https://ipfs.io/ipfs/QmXyNMhV8bQFp6wzoVpkz3NqDi7Fj72Deg7KphAuew3RYU
+    source: https://github.com/ipfs/archives/pull/199/
+    description: Archived content of Librivox including the script that generated it
+    size: 2.0 TiB
