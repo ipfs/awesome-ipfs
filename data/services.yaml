@@ -23,3 +23,7 @@ content:
     website: https://www.nodefort.io
     picture: /images/nodefort.png
     description: Web-based IPFS node hosting service.
+  - title: Boom.FYI
+    website: https://www.boom.fyi
+    picture: /images/boom-fyi.svg
+    description: An IPFS link shortening and access control service.
