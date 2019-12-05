@@ -6,6 +6,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - If you just created something, wait at least a couple of weeks before submitting.
+- Review the [content policy](POLICY.md) to ensure your submission meets the requirements.
 
 ### 2. Creating a submission
 
