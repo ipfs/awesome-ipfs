@@ -3,6 +3,12 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: Cyber
+    website: https://cybercongress.ai/
+    source: https://github.com/cybercongress
+    picture: /images/cybercongress.png
+    description: >
+      A consensus computer on top of IPFS that uses IPFS hashes to create cyberlinks.
   - title: SimpleID
     website: https://simpleid.xyz/
     source: https://github.com/simplesecure/
