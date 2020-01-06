@@ -15,7 +15,7 @@ jobs:
           NO_SANDBOX: true
     steps:
       - checkout
-      - run: npm install
+      - run: npm ci
       - run: npm run build
       - persist_to_workspace:
           root: .
