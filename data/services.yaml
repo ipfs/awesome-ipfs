@@ -23,3 +23,11 @@ content:
     website: https://www.nodefort.io
     picture: /images/nodefort.png
     description: Web-based IPFS node hosting service.
+  - title: Boom.FYI
+    website: https://www.boom.fyi
+    picture: /images/boom-fyi.svg
+    description: An IPFS link shortening and access control service.
+  - title: Temporal
+    website: https://temporal.cloud
+    picture: /images/temporal.png
+    description: Scalable IPFS Infrastructure with free starter package featuring turnkey APIs, toolkits and storage.

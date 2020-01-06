@@ -3,6 +3,12 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: Cyber
+    website: https://cybercongress.ai/
+    source: https://github.com/cybercongress
+    picture: /images/cybercongress.png
+    description: >
+      A consensus computer on top of IPFS that uses IPFS hashes to create cyberlinks.
   - title: SimpleID
     website: https://simpleid.xyz/
     source: https://github.com/simplesecure/
@@ -151,6 +157,14 @@ content:
     source: https://github.com/victorbjelkholm/ipfsbin
     description: >
       Pastebin clone build.
+  - title: IpJot
+    website: https://ipjot.herokuapp.com/
+    description: >
+      Creates short notes, stories, books, poems, conversations on IPFS.
+  - title: IPSE
+    website: https://www.ipse.io/
+    description: >
+      A search engine for the IPFS network.      
   - title: markup.rocks
     website: https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u
     source: https://github.com/davidar/markup.rocks

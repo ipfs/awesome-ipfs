@@ -45,6 +45,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [brig](https://brig.readthedocs.io/en/latest) - File synchronization with git like interface and FUSE filesystem. [Source](https://github.com/sahib/brig)
 - [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
 - [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
+- [Cyber](https://github.com/cybercongress) - A distributed consensus supercomputer that runs on top of IPFS. It can compute relevance for web3 data via the use of cyberlinks, that are created from IPFS hashes. 
 - [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 - [Diffuse](https://diffuse.sh) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
 - [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
@@ -76,6 +77,8 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [Source](https://github.com/kpcyrd/ipfs.ink)
 - [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
 - [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
+- [IpJot](https://ipjot.herokuapp.com/) - Creates short notes, stories, books, poems, conversations on IPFS.
+- [IPSE](https://www.ipse.io/) - A search engine for the IPFS network.
 - [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) - Service Menu for Dolphin File Manager to upload files to IPFS The open network for transaction requests.
 - [killcord](https://killcord.io/) - A censorship resistant deadman's switch [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Source](https://github.com/davidar/markup.rocks)
@@ -110,6 +113,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - 2019-07-22: [10+ Resources Every IPFS Developer Should Know About](https://medium.com/@vaibhavsaini_67863/10-resources-to-get-started-with-ipfs-5f429dc8a841) 
 - 2019-05-12: [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://dev.to/agentofuser/the-complete-beginner-s-guide-to-deploying-your-first-static-website-to-ipfs-33po) 
 - 2019-03-10: [The Case for a Decentralized Social Network](https://medium.com/npfoss/the-case-for-a-decentralized-social-network-2683b727abf5) 
+- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 - 2019-01-30: [Ultimate Guide to Filecoin Breaking Down Filecoin Whitepaper & Economics](https://medium.com/swlh/ultimate-guide-to-filecoin-breaking-down-filecoin-whitepaper-economics-9212541a5895) 
 - 2018-08-06: [Content Identifiers in IPFS](https://pascalprecht.github.io/posts/content-identifiers-in-ipfs/) 
 - 2018-07-11: [On future-proof cryptographic hashes](https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/) 
@@ -124,7 +128,6 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - 2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example) 
 - 2015-09-10: [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) 
 - 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html) 
-- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 
 ## Datasets
 
@@ -148,10 +151,12 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 
 ## Services
 
+- [Boom.FYI](https://www.boom.fyi) - An IPFS link shortening and access control service.
 - [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
 - [NodeFort.io](https://www.nodefort.io) - Web-based IPFS node hosting service.
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
+- [Temporal](https://temporal.cloud) - Scalable IPFS Infrastructure with free starter package featuring turnkey APIs, toolkits and storage.
 
 ## Tools
 
