@@ -164,7 +164,7 @@ content:
   - title: IPSE
     website: https://www.ipse.io/
     description: >
-      A search engine for the IPFS network.      
+      A search engine for the IPFS network.
   - title: markup.rocks
     website: https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u
     source: https://github.com/davidar/markup.rocks
@@ -370,7 +370,7 @@ content:
     source: https://github.com/bdchain/Minerva
     description: >
       Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.
-  - title: Ipfs with TiddlyWiki
+  - title: IPFS with TiddlyWiki
     source: https://github.com/xmaysonnave/tiddlywiki-ipfs
     description: >
-      Ipfs with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over Ipfs.
+      IPFS with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over IPFS.
