@@ -8,7 +8,7 @@ content:
     source: https://github.com/Peergos/Peergos
     picture: /images/peergos.png
     description: >
-      Your private, but social, space online. Store and edit documents and media. Share files or folders with friends. 
+      Your private, but social, space online. Store and edit documents and media. Share files or folders with friends.
   - title: Pinata
     website: https://pinata.cloud
     picture: /images/pinata.png
@@ -19,10 +19,6 @@ content:
     picture: /images/eternum.png
     description: >
       Paid pinning service with an easy-to-use API.
-  - title: NodeFort.io
-    website: https://www.nodefort.io
-    picture: /images/nodefort.png
-    description: Web-based IPFS node hosting service.
   - title: Boom.FYI
     website: https://www.boom.fyi
     picture: /images/boom-fyi.svg

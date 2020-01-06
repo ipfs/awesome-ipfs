@@ -129,7 +129,6 @@ content:
     description: >
       An app that allows for improved visualization of ipfs events.
   - title: IPFS Drive
-    website: http://ipfs-drive.ydns.eu
     source: https://github.com/fazo96/ipfs-drive
     description: >
       In browser file manager for IPFS.
@@ -200,7 +199,7 @@ content:
     description: >
       A blockchain marketplace for musicians.
   - title: uport
-    website: https://uport.me/#home
+    website: https://www.uport.me
     description: >
       Uport is a mobile, self-sovereign identity and key management system,
       built on the Ethereum blockchain.
