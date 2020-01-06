@@ -88,7 +88,7 @@ content:
   source: https://github.com/Siderus/Orion
   description: Easy to use IPFS desktop client for macOS, Windows and Linux
 - title: ipfsecret
-  source: https://github.com/c2fo-lab/ipfsecret
+  source: https://github.com/shlemph/ipfsecret
   description: Encrypt and decrypt IPFS files with a secret passphrase
 - title: ipfs-add-from-encrypted
   source: https://github.com/TroyWilson1/ipfs-add-from-encrypted
