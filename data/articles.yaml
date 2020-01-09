@@ -3,6 +3,9 @@ color: navy
 icon: stroke_pencil
 description: Articles about the decentralized web and IPFS.
 content:
+  - title: InterPlanetary Chat Application using Libp2p 
+    date: '2019-10-01'
+    website: http://simpleaswater.com/libp2p/tutorials/nodejs/getting_started?ref=awesomeipfs
   - title: 10+ Resources Every IPFS Developer Should Know About
     date: '2019-07-22'
     website: https://medium.com/@vaibhavsaini_67863/10-resources-to-get-started-with-ipfs-5f429dc8a841
