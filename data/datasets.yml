@@ -107,7 +107,7 @@ content:
     source: https://github.com/ipfs/archives/issues/172
     description:
     size: 30GB
-  - title:  WistfulBooks: LibriVox Audiobook Archive
+  - title:  'WistfulBooks: LibriVox Audiobook Archive'
     hash: /ipfs/QmXyNMhV8bQFp6wzoVpkz3NqDi7Fj72Deg7KphAuew3RYU
     website: https://wistfulbooks.com
     source: https://github.com/smwa/wistfulbooks

@@ -142,6 +142,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Presidental Daily Briefs](https://ipfs.io/ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89)  [Source](https://github.com/ipfs/archives/issues/23)
 - [Project Apollo Archives](https://ipfs.io/ipfs/QmSnuWmxptJZdLJpKRarxBMS2Ju2oANVrgbr2xWbie9b2D)  [Source](https://github.com/ipfs/archives/issues/143)
 - [textfiles.com](https://ipfs.io/ipfs/QmNoscE3kNc83dM5rZNUC5UDXChiTdDcgf16RVtFCRWYuU)  [Source](https://github.com/ipfs/archives/issues/155)
+- [WistfulBooks: LibriVox Audiobook Archive](https://wistfulbooks.com) - Free public domain audiobooks from LibriVox.org packaged into a single page that lets you listen to audiobooks in your browser. [Source](https://github.com/smwa/wistfulbooks)
 - [World Wide Web History Project](https://ipfs.io/ipfs/QmRTSA1UFHSx3z7taNRwUVM8AjB2EQwKvyZu3BfJg9QRtZ)  [Source](https://github.com/ipfs/archives/issues/159)
 - [xkcd](https://ipfs.io/ipns/xkcd.hacdias.com)  [Source](https://github.com/ipfs/archives/issues/21)
 - [yarchive.net](https://ipfs.io/ipfs/QmdA5WkDNALetBn4iFeSepHjdLGJdxPBwZyY47ir1bZGAK)  [Source](https://github.com/ipfs/archives/issues/76)
