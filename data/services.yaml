@@ -19,6 +19,14 @@ content:
     picture: /images/eternum.png
     description: >
       Paid pinning service with an easy-to-use API.
+  - title: NodeFort.io
+    website: https://www.nodefort.io
+    picture: /images/nodefort.png
+    description: Web-based IPFS node hosting service.
+  - title: Robonomics Network
+    website: https://robonomics.network/en/
+    picture: /images/1_Robonomics_logo_color.png
+    description: Ethereum network infrastructure for cyber-physical systems' integration into Smart Cities and Industry 4.0
   - title: Boom.FYI
     website: https://www.boom.fyi
     picture: /images/boom-fyi.svg
