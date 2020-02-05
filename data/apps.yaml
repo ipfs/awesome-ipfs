@@ -3,6 +3,12 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: Cyber
+    website: https://cybercongress.ai/
+    source: https://github.com/cybercongress
+    picture: /images/cybercongress.png
+    description: >
+      A consensus computer on top of IPFS that uses IPFS hashes to create cyberlinks.
   - title: SimpleID
     website: https://simpleid.xyz/
     source: https://github.com/simplesecure/
@@ -123,7 +129,6 @@ content:
     description: >
       An app that allows for improved visualization of ipfs events.
   - title: IPFS Drive
-    website: http://ipfs-drive.ydns.eu
     source: https://github.com/fazo96/ipfs-drive
     description: >
       In browser file manager for IPFS.
@@ -151,6 +156,14 @@ content:
     source: https://github.com/victorbjelkholm/ipfsbin
     description: >
       Pastebin clone build.
+  - title: IpJot
+    website: https://ipjot.herokuapp.com/
+    description: >
+      Creates short notes, stories, books, poems, conversations on IPFS.
+  - title: IPSE
+    website: https://www.ipse.io/
+    description: >
+      A search engine for the IPFS network.
   - title: markup.rocks
     website: https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u
     source: https://github.com/davidar/markup.rocks
@@ -186,7 +199,7 @@ content:
     description: >
       A blockchain marketplace for musicians.
   - title: uport
-    website: https://uport.me/#home
+    website: https://www.uport.me
     description: >
       Uport is a mobile, self-sovereign identity and key management system,
       built on the Ethereum blockchain.
@@ -301,11 +314,6 @@ content:
       Run your IPFS node on your machine without having to bother with command line tools.
       Manage your node, add your files, easily change the settings... everything from
       just one interface.
-  - title: IpfsCloud
-    source: https://github.com/cluster-labs/ipfscloud-web
-    website: https://ipfscloud.store
-    description: >
-       A Decentralized, Anonymous Cloud Storage Platform on IPFS.
   - title: 3Box
     website: https://3box.io
     source: https://github.com/uport-project/3box
@@ -361,3 +369,7 @@ content:
     source: https://github.com/bdchain/Minerva
     description: >
       Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.
+  - title: IPFS with TiddlyWiki
+    source: https://github.com/xmaysonnave/tiddlywiki-ipfs
+    description: >
+      IPFS with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over IPFS.
