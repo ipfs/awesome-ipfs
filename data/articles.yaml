@@ -3,7 +3,10 @@ color: navy
 icon: stroke_pencil
 description: Articles about the decentralized web and IPFS.
 content:
-  - title: Hands-on IPLD Tutorial in Golang
+  - title: Building a Twitter Bot using IPFS Cluster
+    date: "2020-01-22"
+    website: https://simpleaswater.com/ipfs-cluster-twitter-pinbot/?ref=awesomeipfs
+  - title: Hands-on IPLD Tutorial in Golang Series
     date: "2020-01-04"
     website: https://simpleaswater.com/hands-on-ipld-tutorial-in-golang?ref=awesomeipfs
   - title: InterPlanetary Chat Application using Libp2p

@@ -110,7 +110,8 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 
 ## Articles
 
-- 2020-01-04: [Hands-on IPLD Tutorial in Golang](https://simpleaswater.com/hands-on-ipld-tutorial-in-golang?ref=awesomeipfs) 
+- 2020-01-22: [Building a Twitter Bot using IPFS Cluster](https://simpleaswater.com/ipfs-cluster-twitter-pinbot/?ref=awesomeipfs) 
+- 2020-01-04: [Hands-on IPLD Tutorial in Golang Series](https://simpleaswater.com/hands-on-ipld-tutorial-in-golang?ref=awesomeipfs) 
 - 2019-10-01: [InterPlanetary Chat Application using Libp2p](http://simpleaswater.com/libp2p/tutorials/nodejs/getting_started?ref=awesomeipfs) 
 - 2019-08-14: [Managing storage in a Java application with IPFS](https://kauri.io/article/3e8494f4f56f48c4bb77f1f925c6d926) 
 - 2019-07-22: [10+ Resources Every IPFS Developer Should Know About](https://medium.com/@vaibhavsaini_67863/10-resources-to-get-started-with-ipfs-5f429dc8a841) 
@@ -156,6 +157,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 
 - [Boom.FYI](https://www.boom.fyi) - An IPFS link shortening and access control service.
 - [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
+- [NodeFort.io](https://www.nodefort.io) - Web-based IPFS node hosting service.
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [Robonomics Network](https://robonomics.network/en/) - Ethereum network infrastructure for cyber-physical systems' integration into Smart Cities and Industry 4.0
