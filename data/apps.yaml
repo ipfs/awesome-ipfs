@@ -379,3 +379,8 @@ content:
     source: https://github.com/xmaysonnave/tiddlywiki-ipfs
     description: >
       IPFS with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over IPFS.
+  - title: Kauri
+    source: https://kauri.io
+    picture: /images/kauri_io.png
+    description: >
+      A community-based knowledge platform for web3 technologies built on top of IPFS and Ethereum. Learn, share and curate on up-to-date and high-quality technical articles and series.
