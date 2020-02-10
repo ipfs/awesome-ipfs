@@ -373,8 +373,3 @@ content:
     source: https://github.com/xmaysonnave/tiddlywiki-ipfs
     description: >
       IPFS with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over IPFS.
-  - title: Unstoppable Domains
-    website: https://unstoppabledomains.com
-    picture: /images/unstoppable-domains-app.png
-    description: >
-      Domains on blockchains
