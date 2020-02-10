@@ -350,10 +350,9 @@ content:
     description: >
       Decentralized two factor authentication app built on Textile & IPFS.
   - title: DtinyUrl
-    website: http://t.bdaily.club
     source: https://github.com/facert/dtinyurl
     description: >
-      Dcentralized URL shortening service based on IPFS.
+      Decentralized URL shortening service based on IPFS.
   - title: Wistful Books
     website: https://wistfulbooks.com/
     source: https://github.com/smwa/wistfulbooks
