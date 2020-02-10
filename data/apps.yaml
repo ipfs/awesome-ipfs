@@ -3,6 +3,12 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: SimpleAsWater Bot
+    website: https://simpleaswater.com/ipfs-cluster-twitter-pinbot/
+    source: https://github.com/simpleaswater/twitter-pinbot
+    picture: /images/twitter-bot.png
+    description: >
+      A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster.
   - title: Cyber
     website: https://cybercongress.ai/
     source: https://github.com/cybercongress
@@ -364,7 +370,7 @@ content:
     source: https://github.com/Peergos/Peergos
     picture: /images/peergos.png
     description: >
-        End-to-end encrypted, peer-to-peer file storage and sharing.
+      End-to-end encrypted, peer-to-peer file storage and sharing.
   - title: Minerva
     source: https://github.com/bdchain/Minerva
     description: >

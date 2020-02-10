@@ -99,6 +99,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [qri](https://qri.io) - Dataset verion control, discovery and collaboration tools (free, open-source). [Source](https://github.com/qri-io/qri)
 - [Request](https://request.network/) - Decentralized network for financial transactions. [Source](https://github.com/RequestNetwork/requestNetwork)
+- [SimpleAsWater Bot](https://simpleaswater.com/ipfs-cluster-twitter-pinbot/) - A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster. [Source](https://github.com/simpleaswater/twitter-pinbot)
 - [SimpleID](https://simpleid.xyz/) - Developer tools for adding Ethereum authentication and content pinning to your app. [Source](https://github.com/simplesecure/)
 - [TallyLab](https://tallylab.com/) - Local-first, end-to-end encrypted data diary app for capturing, analyzing, and sharing data about any and everything.
 - [Temporal](https://github.com/RTradeLtd/Temporal) - Temporal is an easy to use API and platform for integrating IPFS and other distributed/decentralized storage technologies into enterprise applications
@@ -111,7 +112,8 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 
 ## Articles
 
-- 2020-01-04: [Hands-on IPLD Tutorial in Golang](https://simpleaswater.com/hands-on-ipld-tutorial-in-golang?ref=awesomeipfs) 
+- 2020-01-22: [Building a Twitter Bot using IPFS Cluster](https://simpleaswater.com/ipfs-cluster-twitter-pinbot/?ref=awesomeipfs) 
+- 2020-01-04: [Hands-on IPLD Tutorial in Golang Series](https://simpleaswater.com/hands-on-ipld-tutorial-in-golang?ref=awesomeipfs) 
 - 2019-10-01: [InterPlanetary Chat Application using Libp2p](http://simpleaswater.com/libp2p/tutorials/nodejs/getting_started?ref=awesomeipfs) 
 - 2019-08-14: [Managing storage in a Java application with IPFS](https://kauri.io/article/3e8494f4f56f48c4bb77f1f925c6d926) 
 - 2019-07-22: [10+ Resources Every IPFS Developer Should Know About](https://medium.com/@vaibhavsaini_67863/10-resources-to-get-started-with-ipfs-5f429dc8a841) 
