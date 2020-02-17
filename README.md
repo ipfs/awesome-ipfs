@@ -46,7 +46,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [brig](https://brig.readthedocs.io/en/latest) - File synchronization with git like interface and FUSE filesystem. [Source](https://github.com/sahib/brig)
 - [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
 - [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
-- [Cyber](https://cybercongress.ai/) - A consensus computer on top of IPFS that uses IPFS hashes to create cyberlinks. [Source](https://github.com/cybercongress)
+- [Cyber](https://cyber.page/) - A decentralized Google, built with IPFS, that uses semantically enriched IPFS hashes to build web3. [Source](https://github.com/cybercongress)
 - [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 - [Diffuse](https://diffuse.sh) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
 - [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
