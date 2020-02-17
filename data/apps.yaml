@@ -14,7 +14,7 @@ content:
     source: https://github.com/cybercongress
     picture: /images/cybercongress.png
     description: >
-      A decentralized google alternative, built with the help of IPFS.
+      A decentralized Google alternative, built with the help of IPFS.
   - title: SimpleID
     website: https://simpleid.xyz/
     source: https://github.com/simplesecure/
