@@ -10,11 +10,11 @@ content:
     description: >
       A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster.
   - title: Cyber
-    website: https://cybercongress.ai/
+    website: https://cyber.page
     source: https://github.com/cybercongress
     picture: /images/cybercongress.png
     description: >
-      A consensus computer on top of IPFS that uses IPFS hashes to create cyberlinks.
+      A decentralized Google alternative, built with the help of IPFS.
   - title: SimpleID
     website: https://simpleid.xyz/
     source: https://github.com/simplesecure/
