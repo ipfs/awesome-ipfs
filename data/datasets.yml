@@ -53,7 +53,7 @@ content:
     source: https://github.com/ipfs/archives/issues/2
     description:
     size: 25GB
-  - title: Presidental Daily Briefs
+  - title: Presidential Daily Briefs
     hash: /ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89
     website: https://ipfs.io/ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89
     source: https://github.com/ipfs/archives/issues/23
