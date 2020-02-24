@@ -95,6 +95,13 @@ content:
     description: >
       Distributed video sharing with steem.it intergrations, using ipfs for
       backend storage.
+  - title: edChain
+    website: https://www.edchain.io/
+    source: https://github.com/edchainio/edchain-client-gui
+    picture: /images/edchain.png
+    description: >
+      EdChain is a global network for education and careers. It uses blockchain 
+      and distributed web technologies to deliver educational content, even to those without broadband internet.
   - title: Ethlance
     website: http://ethlance.com
     source: https://github.com/madvas/ethlance
