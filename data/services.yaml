@@ -40,3 +40,8 @@ content:
     picture: /images/unstoppable-domains-app.png
     description: >
       Domains on blockchains    
+  - title: Fission
+    website: https://fission.codes
+    picture: /images/fission500px.png
+    description: >
+      App and website hosting powered by IPFS, including DNS automation, identity, and end-to-end encryption.
