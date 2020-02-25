@@ -9,7 +9,7 @@
 <!-- If your change is not listed above, please remove the checklist bellow. -->
 
 ## Pre-submit checklist
-**Please confirm all of the following** before submitting your PR.
+**Please confirm ALL of the following** before submitting your PR.
 
 - [ ] This PR includes only one addition, removal, or edit.
 - [ ] I edited the `/data` directory instead of the [README.md](https://github.com/ipfs/awesome-ipfs/blob/master/README.md).
