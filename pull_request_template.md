@@ -48,4 +48,4 @@
 - [ ] Platforms that utilize consensus, reputation, or incentivization
 
 ### Is anything about IPFS blocking your project?
-*If aspects of IPFS are hindering your project's progress, please elaborate here.*
+<!--If aspects of IPFS are hindering your project's progress, please elaborate here.-->
