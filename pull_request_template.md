@@ -35,7 +35,7 @@
 - [ ] Useful, but not critical
 
 ### For new additions: What core goal(s) does your project address?
-*Choose as many as apply. If your PR isn't for a new addition to awesome-ipfs, you can leave this out.*
+<!--Choose as many as apply. If your PR isn't for a new addition to awesome-ipfs, you can leave this out.-->
 - [ ] Big-data solutions
 - [ ] Freedom from corporate/government interference
 - [ ] Data integrity
