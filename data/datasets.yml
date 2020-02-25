@@ -53,7 +53,7 @@ content:
     source: https://github.com/ipfs/archives/issues/2
     description:
     size: 25GB
-  - title: Presidental Daily Briefs
+  - title: Presidential Daily Briefs
     hash: /ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89
     website: https://ipfs.io/ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89
     source: https://github.com/ipfs/archives/issues/23
@@ -100,7 +100,7 @@ content:
     website: https://ipfs.io/ipfs/QmVCjhoEFC9vwvaa8bKyJgwAByP4MXSogcyDGoz4Lkc3ox
     source: https://github.com/ipfs/archives/issues/182
     description:
-    size: 641TiB
+    size: 641GiB
   - title: KinoKabaret Caen, 2018 - Shortfilms
     hash: /ipfs/QmajLDwZLH6bKTzd8jkq913ZbxaB2nFGRrkDAuygYNNv39
     website: https://ipfs.io/ipfs/QmajLDwZLH6bKTzd8jkq913ZbxaB2nFGRrkDAuygYNNv39
@@ -119,5 +119,9 @@ content:
     source: http://www.crowdhuman.org/download.html
     description: CrowdHuman dataset. A Benchmark for Detecting Human in a Crowd
     size: 13GB
-
-
+  - title:  'WistfulBooks: LibriVox Audiobook Archive'
+    hash: /ipfs/QmXyNMhV8bQFp6wzoVpkz3NqDi7Fj72Deg7KphAuew3RYU
+    website: https://wistfulbooks.com
+    source: https://github.com/smwa/wistfulbooks
+    description: Free public domain audiobooks from LibriVox.org packaged into a single page that lets you listen to audiobooks in your browser.
+    size: 2.0 TiB
