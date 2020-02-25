@@ -26,7 +26,7 @@
 *This could be number of users, number of integrations, frequency of use, or any other key metrics. If your PR isn't for a new addition to awesome-ipfs, or you don't know these numbers, you can leave this out.*
 
 ### For new additions: What is your project's *potential* size/reach?
-*This could be number of users, number of integrations, frequency of use, or any other key metrics. If your PR isn't for a new addition to awesome-ipfs, or you don't know these numbers, you can leave this out.*
+<!--This could be number of users, number of integrations, frequency of use, or any other key metrics. If your PR isn't for a new addition to awesome-ipfs, or you don't know these numbers, you can leave this out.-->
 
 ### For new additions: How critical is IPFS to your project?
 *Choose one. If your PR isn't for a new addition to awesome-ipfs, you can leave this out.*
