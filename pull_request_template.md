@@ -46,6 +46,7 @@
 - [ ] Permanent archiving
 - [ ] Self-sovereign idenity
 - [ ] Platforms that utilize consensus, reputation, or incentivization
+- [ ] Other *(please list)*
 
 ### Is anything about IPFS blocking your project?
 <!--If aspects of IPFS are hindering your project's progress, please elaborate here.-->
