@@ -20,7 +20,7 @@
 ## Additional details
 
 ### Is there anything else we should know about this PR?
-*If you've checked "Something else" above, or just want to provide additional info or clarification, please do so here.*
+<!-- If you've checked "Something else" above, or just want to provide additional info or clarification, please do so here. -->
 
 ### For new additions: What is your project's *current* size/reach?
 *This could be number of users, number of integrations, frequency of use, or any other key metrics. If your PR isn't for a new addition to awesome-ipfs, or you don't know these numbers, you can leave this out.*
