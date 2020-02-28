@@ -188,6 +188,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [http2ipfs](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
 - [ipcat](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
 - [IPDR](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry
+- [ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for delivery of static websites.
 - [ipfs-add-from-encrypted](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - Encrypt a file or directory with AES256 then add to IPFS
 - [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path
 - [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
