@@ -138,3 +138,7 @@ content:
   website: https://github.com/berty/go-orbit-db
   source: https://github.com/berty/go-orbit-db
   description: This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
+- title: ipfs-action
+  picture: /images/ipfs-action.png
+  source: https://github.com/aquiladev/ipfs-action
+  description: GitHub Action for delivery of static websites.
