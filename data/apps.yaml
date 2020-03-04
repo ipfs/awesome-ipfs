@@ -237,10 +237,6 @@ content:
     description: >
       Hardbin is an encrypted pastebin, with the decryption key passed in
       the URL fragment
-  - title: hasteIPFS
-    website: https://ipfs.io/ipns/bin.ipfs.ovh/
-    description: >
-      IPFS based code bin. (Read only for now)
   - title: Gorilla REPL viewer
     source: https://github.com/keorn/ipfs-gorilla-repl
     description: >
