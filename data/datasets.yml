@@ -113,9 +113,3 @@ content:
     source: https://github.com/smwa/wistfulbooks
     description: Free public domain audiobooks from LibriVox.org packaged into a single page that lets you listen to audiobooks in your browser.
     size: 2.0 TiB
-  - title:  'Cooking Recipes'
-    hash: /ipfs/QmTXo6GforwsuGAd8behjgvKCsMMBdG1xMZJF4qa9W7CHB
-    website: https://ipfs.io/ipfs/QmTXo6GforwsuGAd8behjgvKCsMMBdG1xMZJF4qa9W7CHB
-    source: https://old.reddit.com/r/opendirectories/comments/dsznin/50_gb_directory_of_cooking_recipes/
-    description: Around 50GB of formatted and unformatted cooking recipes. 
-    size: 52GB
