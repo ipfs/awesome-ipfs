@@ -117,5 +117,11 @@ content:
     hash: /ipfs/QmTXo6GforwsuGAd8behjgvKCsMMBdG1xMZJF4qa9W7CHB
     website: https://ipfs.io/ipfs/QmTXo6GforwsuGAd8behjgvKCsMMBdG1xMZJF4qa9W7CHB
     source: https://old.reddit.com/r/opendirectories/comments/dsznin/50_gb_directory_of_cooking_recipes/
-    description: Around 50GB of formatted and unformatted cooking recipes. 
+    description: Around 50GB of formatted and unformatted cooking recipes.
     size: 52GB
+  - title:  'Testcorpus for Image Compression Algoritms'
+    hash: /ipns/12D3KooWG55McTZWnWHP6Z6VMvcZNYodpmSBk6iLJ53XmhZTJfxW
+    website: https://twitter.com/RubenKelevra/status/1236525895000653824
+    source: Wikipedia Commons / Library Of Congress / NASA / NOAA
+    description: A testcorpus with a large variety of low or no compression artifact images and animations of high fidelity for testing image compression algorithms. The CID allows for easy access/validation of the integrity of the dataset while making sure all data is permanently available without having to rely on third-party servers. All images are either copyleft or without any copyright restrictions. This is just a CDN like cache of those data, details for the licenses for other purposes than research can be found on the source pages of those individual images.
+    size: 36GB
