@@ -70,6 +70,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [infura.io](https://infura.io) - A Infrastructure: use API and developer tools provide secure, reliable, and scalable access toEthereum and IPFS to help build decentralized application easier.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
+- [ipcoronafs](https://github.com/RTradeLtd/ipcoronafs) - A realtime service to scrape COVID-19 and SARS-CoV-2, storing on IPFS, DNSLink, and streaming over LibP2P pubsub
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - Run your IPFS node on your machine without having to bother with command line tools. Manage your node, add your files, easily change the settings... everything from just one interface.
 - [IPFS Drive](https://github.com/fazo96/ipfs-drive) - In browser file manager for IPFS.
