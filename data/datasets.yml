@@ -119,3 +119,9 @@ content:
     source: https://old.reddit.com/r/opendirectories/comments/dsznin/50_gb_directory_of_cooking_recipes/
     description: Around 50GB of formatted and unformatted cooking recipes. 
     size: 52GB
+  - title: '7-piece Syzygy tablebases'
+    hash: /ipfs/QmVgcSADsoW5w19MkL2RNKNPGtaz7UhGhU62XRm6pQmzct
+    website: https://syzygy-tables.info/
+    source: https://github.com/syzygy1/tb
+    description: Solutions for all chess endgames with up to 7 pieces.
+    size: 16.9 TiB
