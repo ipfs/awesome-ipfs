@@ -71,11 +71,6 @@ content:
     description: >
       A golang app to preset a threejs interface and get all of its assets
       out of IPFS.
-  - title: Computes
-    website: https://computes.io
-    picture: /images/computes.svg
-    description: >
-      Computes.io is a distributed supercomputer powered by IPFS.
   - title: dapple
     source: https://github.com/nexusdev/dapple
     description: >
@@ -382,7 +377,7 @@ content:
     website: https://tree3.network/
     source: https://github.com/tree3network/tree3
     description: >
-       A decentralized platform for micropayments, offchain data and blogging powered by Stellar and IPFS. 
+      A decentralized platform for micropayments, offchain data and blogging powered by Stellar and IPFS.
   - title: Peergos
     website: https://peergos.org
     source: https://github.com/Peergos/Peergos
