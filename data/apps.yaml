@@ -387,6 +387,12 @@ content:
   - title: Minerva
     source: https://github.com/bdchain/Minerva
     description: >
+      Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine. 
+  - title: IPFS Image Uploader
+    website: https://ipfs.talaikis.com/
+    source: https://github.com/TalaikisInc/ipfs-uploader
+    description: >
+      IPFS image uploader and viewer.
       Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.
   - title: IPFS with TiddlyWiki
     source: https://github.com/xmaysonnave/tiddlywiki-ipfs
