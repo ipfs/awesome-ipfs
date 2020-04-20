@@ -21,14 +21,11 @@ Please ensure your pull request adheres to the following guidelines:
 
 ### 3. Submitting it through a PR
 
-- Make sure to run `npm ci && npm run build:readme` before submitting the Pull Request.
 - The pull request should have a useful title and include a link to the package and why it should be included.
 - Submit products when they are useable, or at a state which has something to show which is awesome in itself. This cuts down on half-finished implementations.
 
 Thank you for your suggestions!
 
-
-
 -----
 
-**NOTE**: If you want to edit the README file directly (not the items/links) you need to modify the [`scripts/readme-template.md`](https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md) instead and run `make build` again. Thank you!
+**NOTE**: If you want to edit the README file directly (not the items/links) you need to modify the [`scripts/readme-template.md`](https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md) instead. Thank you!
