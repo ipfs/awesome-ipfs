@@ -28,10 +28,10 @@ function update (display) {
   cards.forEach((c) => {
     if (display.indexOf(c.dataset.ref) >= 0) {
       c.classList.remove('dn')
-      c.classList.add('flex')
+      c.classList.add('dib')
     } else {
       c.classList.add('dn')
-      c.classList.remove('flex')
+      c.classList.remove('dib')
     }
   })
 }
