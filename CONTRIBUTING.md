@@ -10,13 +10,16 @@ Please ensure your pull request adheres to the following guidelines:
 
 ### 2. Creating a submission
 
-- Make an individual pull request for each suggestion.
+Make an individual pull request for each suggestion:
+- **Do not edit README directly!**
+- Add the idea to the corresponding file in [`data`](./data) and make sure it matches the format.
+
+Style tips:
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
 - Don't mention `IPFS` in the description as it's implied.
 - Start the description with a capital and end with a full stop/period.
 - Check your spelling and grammar.
-- Add the idea to the corresponding file in [`data`](./data) and make sure it matches the format.
 - You can add a picture to describe your idea in [`./src/static/images`](./src/static/images).
 
 ### 3. Submitting it through a PR
