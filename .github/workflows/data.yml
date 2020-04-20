@@ -13,7 +13,7 @@ jobs:
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - uses: actions/checkout@master
-      - uses: actions/setup-node@master
+      - uses: actions/setup-node@v1.4.1
         with:
           node-version: 13
       - name: build
