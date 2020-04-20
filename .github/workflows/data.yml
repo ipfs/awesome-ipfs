@@ -26,6 +26,6 @@ jobs:
           npm run build
       - name: Push changes
         if: success()
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.5.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
