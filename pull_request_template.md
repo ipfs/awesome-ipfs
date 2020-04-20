@@ -13,7 +13,6 @@
 
 - [ ] This PR includes only one addition, removal, or edit.
 - [ ] I edited the `/data` directory instead of the [README.md](https://github.com/ipfs/awesome-ipfs/blob/master/README.md).
-- [ ] I ran the `make build` command following my edits to the `/data` directory.
 - [ ] I reviewed the [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md) and the and the [IPFS Community Code of Conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md) to ensure my submission meets the requirements.
 - [ ] I have followed the [CONTRIBUTING.md guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md).
 
