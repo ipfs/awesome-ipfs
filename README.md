@@ -6,11 +6,12 @@
 
 > Useful resources for using [IPFS](https://ipfs.io) and building things on top of it
 
-_This list is for projects, tools, or pretty much any things related to IPFS that are totally_ **awesome**_. This is for products which are already awesome - if you have plans for cool stuff to do with IPFS, you should build it, and then link it here. If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [ipfs/apps](https://github.com/ipfs/apps) or [ipfs/notes](https://github.com/ipfs/notes)._
+_This list is for projects, tools, or pretty much any things related to IPFS that are totally_ **awesome**_. This is for products which are already awesome - if you have plans for cool stuff to do with IPFS, you should build it, and then link it here. If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [our IPFS Discuss Forums](https://discuss.ipfs.io)._
 
 ## Table of Contents
 
 - [Contribute](#contribute-to-this-list)
+- [Collab-Cluster](#collab-cluster)
 - [Apps](#apps)
 - [Articles](#articles)
 - [Datasets](#datasets)
@@ -23,9 +24,13 @@ _This list is for projects, tools, or pretty much any things related to IPFS tha
 
 ## Contribute to this list!
 
-Everyone is welcome to submit their new awesome-ipfs item. In order to add an element to this list, you need to modify the files in `/data` and then run a simple `make build` before publishing your pull request as the Readme and the website are automatically generated. Check the [CONTRIBUTING.md guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) to learn how to do so.
+Everyone is welcome to submit their new awesome-ipfs item, but it will be accepted only if it meets our [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).
 
-**NOTE**: If you want to edit the README file directly (not the items/links) you need to modify the [README template](https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md) instead and run `make build` again. Thank you!
+Readme and the website are automatically generated. In order to add an element to this list, you need to modify the files in `/data` and then run  `make build` before publishing your pull request. Read [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) to learn how to do so.
+
+## Collab-Cluster
+
+[Collaborative clusters](https://collab.ipfscluster.io/) are public IPFS Clusters that anyone can join to help replicating and re-distributing content on the IPFS network. Instead of datasets cluster content is usually updated.
 
 ## Apps
 
@@ -36,7 +41,7 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [a qr-code renderer](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/qr-render) - [Demo](https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here)
 - [AirSecure](https://github.com/airsecure/airsecure) - Decentralized two factor authentication app built on Textile & IPFS.
 - [akasha](http://akasha.world/) - A Next-Generation Social Media Network, powered by Ethereum and embedded into IPFS.
-- [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - Decentralized content publishing / monetization platform.
+- [Alexandria](http://www.alexandria.io/) - Decentralized content publishing / monetization platform.
 - [Arbore](http://arbo.re) - A friend-to-friend file-sharing app build on top of IPFS.
 - [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 - [beets](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
@@ -44,13 +49,14 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [Source](https://github.com/fazo96/ipfs-boards)
 - [brig](https://brig.readthedocs.io/en/latest) - File synchronization with git like interface and FUSE filesystem. [Source](https://github.com/sahib/brig)
 - [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
-- [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
+- [Cyber](https://cyber.page) - A decentralized Google alternative, built with the help of IPFS. [Source](https://github.com/cybercongress)
 - [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 - [Diffuse](https://diffuse.sh) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
 - [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 - [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) - Discussify provides a real-time, peer to peer, and permanent discussion platform for anyone to join and participate.
-- [DtinyUrl](http://t.bdaily.club) - Dcentralized URL shortening service based on IPFS. [Source](https://github.com/facert/dtinyurl)
+- [DtinyUrl](https://github.com/facert/dtinyurl) - Decentralized URL shortening service based on IPFS.
 - [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage.
+- [edChain](https://www.edchain.io/) - EdChain is a global network for education and careers. It uses blockchain  and distributed web technologies to deliver educational content, even to those without broadband internet. [Source](https://github.com/edchainio/edchain-client-gui)
 - [enzypt.io](https://enzypt.io/) - A website to buy and sell files through Ethereum and IPFS. [Source](https://github.com/flex-dapps/enzypt)
 - [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Source](https://github.com/madvas/ethlance)
 - [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
@@ -58,17 +64,18 @@ Everyone is welcome to submit their new awesome-ipfs item. In order to add an el
 - [gogo.tattoo](http://gogo.tattoo) - Gogo Tattoo Project uses IPFS, DLTs and other modern technologies to offer tattoo artists and wearers an unbreakable lifetime record of their portfolios. gogo.tattoo app already has a feature to share works directly to IPFS.
 - [Gorilla REPL viewer](https://github.com/keorn/ipfs-gorilla-repl) - Gorilla is a rich REPL for Clojure in the notebook style.
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
-- [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/) - IPFS based code bin. (Read only for now)
 - [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
+- [InfiniteBooru](https://infinitebooru.com) - A booru-style media tagging application and content aggregator with all media backed by IPFS.
 - [infura.io](https://infura.io) - A Infrastructure: use API and developer tools provide secure, reliable, and scalable access toEthereum and IPFS to help build decentralized application easier.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - Run your IPFS node on your machine without having to bother with command line tools. Manage your node, add your files, easily change the settings... everything from just one interface.
-- [IPFS Drive](http://ipfs-drive.ydns.eu) - In browser file manager for IPFS. [Source](https://github.com/fazo96/ipfs-drive)
+- [IPFS Drive](https://github.com/fazo96/ipfs-drive) - In browser file manager for IPFS.
 - [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events.
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - A demo app that uses windows.ipfs to show you a QR Code of your IPNS Link and of your Public Key. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
 - [IPFS Image Uploader](https://ipfs.talaikis.com/) - IPFS image uploader and viewer. [Source](https://github.com/TalaikisInc/ipfs-uploader)
+- [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over IPFS.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) - Build your wiki system base on ipfs and markdown.
 - [ipfs-search](https://ipfs-search.com) - Searching the universe since 2016.
 Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search API's available. [Source](https://github.com/ipfs-search/ipfs-search)
@@ -76,7 +83,9 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [Source](https://github.com/kpcyrd/ipfs.ink)
 - [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
 - [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
-- [IpfsCloud](https://ipfscloud.store) - A Decentralized, Anonymous Cloud Storage Platform on IPFS. [Source](https://github.com/cluster-labs/ipfscloud-web)
+- [IpJot](https://ipjot.herokuapp.com/) - Creates short notes, stories, books, poems, conversations on IPFS.
+- [IPSE](https://www.ipse.io/) - A search engine for the IPFS network.
+- [Kauri](https://kauri.io) - A community-based knowledge platform for web3 technologies built on top of IPFS and Ethereum. Learn, share and curate on up-to-date and high-quality technical articles and series.
 - [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) - Service Menu for Dolphin File Manager to upload files to IPFS The open network for transaction requests.
 - [killcord](https://killcord.io/) - A censorship resistant deadman's switch [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Source](https://github.com/davidar/markup.rocks)
@@ -92,21 +101,27 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Philes](https://philes.co) - A simple browser-based IPFS notepad app. [Source](https://github.com/chrismatthieu/philes)
 - [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
 - [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - A ~76KB demo chat app that uses window.ipfs, provided by the IPFS Companion web extension [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
+- [Pugdit](https://github.com/zbyte64/pugdit) - A bulletin board service that discovers and distributes over IPFS
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
-- [qri](https://qri.io) - Dataset verion control, discovery and collaboration tools (free, open-source). [Source](https://github.com/qri-io/qri)
+- [qri](https://qri.io) - Dataset version control, discovery and collaboration tools (free, open-source). [Source](https://github.com/qri-io/qri)
 - [Request](https://request.network/) - Decentralized network for financial transactions. [Source](https://github.com/RequestNetwork/requestNetwork)
+- [SimpleAsWater Bot](https://simpleaswater.com/ipfs-cluster-twitter-pinbot/) - A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster. [Source](https://github.com/simpleaswater/twitter-pinbot)
 - [SimpleID](https://simpleid.xyz/) - Developer tools for adding Ethereum authentication and content pinning to your app. [Source](https://github.com/simplesecure/)
 - [TallyLab](https://tallylab.com/) - Local-first, end-to-end encrypted data diary app for capturing, analyzing, and sharing data about any and everything.
 - [Temporal](https://github.com/RTradeLtd/Temporal) - Temporal is an easy to use API and platform for integrating IPFS and other distributed/decentralized storage technologies into enterprise applications
 - [Textile Photos](https://www.textile.photos) - Textile Photos is a secure, mobile digital wallet for your photos. [Source](https://github.com/textileio/textile-mobile)
 - [ToDo List Demo](https://ipfs.io/ipfs/QmSGQrmvHe6fFiWdV2H8YnhLaoX4qe5nYEmJfUFx6LdUYa/) - A ToDo List demo app that uses windows.ipfs. [Source](https://github.com/ipfs-shipyard/demo-ipfs-todo)
+- [Tree3 Network](https://tree3.network/) - A decentralized platform for micropayments, offchain data and blogging powered by Stellar and IPFS. [Source](https://github.com/tree3network/tree3)
 - [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
-- [uport](https://uport.me/#home) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
+- [uport](https://www.uport.me) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
 - [Wistful Books](https://wistfulbooks.com/) - Single page offline application for enjoying librivox.org audio books. [Source](https://github.com/smwa/wistfulbooks)
 - [xfce-screenshooter-ipfs-support](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) - A fork of xfce-screenshooter with IPFS support!
 
 ## Articles
 
+- 2020-01-22: [Building a Twitter Bot using IPFS Cluster](https://simpleaswater.com/ipfs-cluster-twitter-pinbot/?ref=awesomeipfs) 
+- 2020-01-04: [Hands-on IPLD Tutorial in Golang Series](https://simpleaswater.com/hands-on-ipld-tutorial-in-golang?ref=awesomeipfs) 
+- 2019-10-01: [InterPlanetary Chat Application using Libp2p](http://simpleaswater.com/libp2p/tutorials/nodejs/getting_started?ref=awesomeipfs) 
 - 2019-08-14: [Managing storage in a Java application with IPFS](https://kauri.io/article/3e8494f4f56f48c4bb77f1f925c6d926) 
 - 2019-07-22: [10+ Resources Every IPFS Developer Should Know About](https://medium.com/@vaibhavsaini_67863/10-resources-to-get-started-with-ipfs-5f429dc8a841) 
 - 2019-05-12: [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://dev.to/agentofuser/the-complete-beginner-s-guide-to-deploying-your-first-static-website-to-ipfs-33po) 
@@ -129,10 +144,12 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 
 ## Datasets
 
+- [7-piece Syzygy tablebases](https://syzygy-tables.info/) - Solutions for all chess endgames with up to 7 pieces. [Source](https://github.com/syzygy1/tb)
 - [alpine-linux 3.4 packages](https://ipfs.io/ipfs/QmRsvEpJggeu4HhoafzRFobV4sbwVVTXMrdb2p8XWv7bCS)  [Source](https://github.com/ipfs/archives/issues/83)
 - [arXiv](https://ipfs.io/ipfs/QmfXH9XtP7xmoTH8WAp4HNSduqWMwLTH8B8TvbTkdgzNAa)  [Source](https://github.com/ipfs/archives/issues/2)
 - [cdn.media.ccc.de](https://ipfs.io/ipfs/QmW84mqTYnCkRTy6VeRJebPWuuk8b27PJ4bWm2bL4nrEWb)  [Source](https://github.com/ipfs/archives/issues/52)
 - [cdnjs](https://ipfs.io/ipfs/QmRrnfFUgx81KZR9ibEcxDXgevoj9e5DydB5v168yembnX)  [Source](https://github.com/ipfs/archives/issues/35)
+- [Cooking Recipes](https://ipfs.io/ipfs/QmTXo6GforwsuGAd8behjgvKCsMMBdG1xMZJF4qa9W7CHB) - Around 50GB of formatted and unformatted cooking recipes. [Source](https://old.reddit.com/r/opendirectories/comments/dsznin/50_gb_directory_of_cooking_recipes/)
 - [Geocities by Archive Team](https://ipfs.io/ipfs/QmVCjhoEFC9vwvaa8bKyJgwAByP4MXSogcyDGoz4Lkc3ox)  [Source](https://github.com/ipfs/archives/issues/182)
 - [haveibeenpwnd.com passwords](https://ipfs.io/ipfs/QmSRBDMksX7c5dfheGsYDdWrLdve5hBvXDQm7Yrov7KMJv)  [Source](https://github.com/ipfs/archives/issues/157)
 - [IETF RFC Archive](https://ipfs.io/ipfs/QmNvTjdqEPjZVWCvRWsFJA1vK7TTw1g9JP6we1WBJTRADM)  [Source](https://github.com/ipfs/archives/issues/18)
@@ -140,19 +157,25 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [MDSConnect](https://ipfs.io/ipfs/QmcvfB6pAqUfTnuAK8zFKVxbdhopnBPveJrDcy1JAA7HX5)  [Source](https://github.com/ipfs/archives/issues/152)
 - [No-Intro Collection](https://ipfs.io/ipfs/QmPFj6iAxUwxVyEtDJBJHXVp4SX9dkV91Mh5mjqGxTctHy)  [Source](https://github.com/ipfs/archives/issues/163)
 - [Old Internet Files](https://ipfs.io/ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp)  [Source](https://github.com/ipfs/archives/issues/176)
-- [Presidental Daily Briefs](https://ipfs.io/ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89)  [Source](https://github.com/ipfs/archives/issues/23)
+- [Presidential Daily Briefs](https://ipfs.io/ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89)  [Source](https://github.com/ipfs/archives/issues/23)
 - [Project Apollo Archives](https://ipfs.io/ipfs/QmSnuWmxptJZdLJpKRarxBMS2Ju2oANVrgbr2xWbie9b2D)  [Source](https://github.com/ipfs/archives/issues/143)
 - [textfiles.com](https://ipfs.io/ipfs/QmNoscE3kNc83dM5rZNUC5UDXChiTdDcgf16RVtFCRWYuU)  [Source](https://github.com/ipfs/archives/issues/155)
+- [WistfulBooks: LibriVox Audiobook Archive](https://wistfulbooks.com) - Free public domain audiobooks from LibriVox.org packaged into a single page that lets you listen to audiobooks in your browser. [Source](https://github.com/smwa/wistfulbooks)
 - [World Wide Web History Project](https://ipfs.io/ipfs/QmRTSA1UFHSx3z7taNRwUVM8AjB2EQwKvyZu3BfJg9QRtZ)  [Source](https://github.com/ipfs/archives/issues/159)
 - [xkcd](https://ipfs.io/ipns/xkcd.hacdias.com)  [Source](https://github.com/ipfs/archives/issues/21)
 - [yarchive.net](https://ipfs.io/ipfs/QmdA5WkDNALetBn4iFeSepHjdLGJdxPBwZyY47ir1bZGAK)  [Source](https://github.com/ipfs/archives/issues/76)
 
 ## Services
 
+- [Boom.FYI](https://www.boom.fyi) - An IPFS link shortening and access control service.
 - [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
+- [Fission](https://fission.codes) - App and website hosting powered by IPFS, including DNS automation, identity, and end-to-end encryption.
 - [NodeFort.io](https://www.nodefort.io) - Web-based IPFS node hosting service.
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
+- [Robonomics Network](https://robonomics.network/en/) - Ethereum network infrastructure for cyber-physical systems' integration into Smart Cities and Industry 4.0
+- [Temporal](https://temporal.cloud) - Scalable IPFS Infrastructure with free starter package featuring turnkey APIs, toolkits and storage.
+- [Unstoppable Domains](https://unstoppabledomains.com) - Domains on blockchains
 
 ## Tools
 
@@ -161,10 +184,12 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) - IPFS integration for the Dillo web browser.
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
 - [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
+- [go-orbit-db](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 - [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) - go-stellar-ipfs is a library that is a bridge between Stellar and IPFS.
 - [http2ipfs](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
 - [ipcat](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
 - [IPDR](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry
+- [ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for delivery of static websites.
 - [ipfs-add-from-encrypted](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - Encrypt a file or directory with AES256 then add to IPFS
 - [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path
 - [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
@@ -179,10 +204,11 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [ipfs-publish](https://ipfs-publish.uhlir.dev) - Continuous Delivery tool for delivery of static websites from Git providers to IPFS. [Source](https://github.com/AuHau/ipfs-publish)
 - [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
 - [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
-- [ipfsecret](https://github.com/c2fo-lab/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase
+- [ipfsecret](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase
 - [ipget](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
 - [IPLD Explorer](https://explore.ipld.io) - Explore the Merkle Forest from the comfort of your browser [Source](https://github.com/ipfs-shipyard/ipld-explorer)
 - [IPRedirect](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn't had an extension written for it yet and has support for userscripts.
+- [iprfc](https://github.com/RTradeLtd/iprfc) - IETF RFC downloader which stores RFCs on IPFS and indexes them with RTradeLtd/Lens.
 - [ipscend](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS
 - [mahuta](https://github.com/ConsenSys/Mahuta) - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
 - [orbit-db](https://github.com/orbitdb/orbit-db) - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
@@ -190,6 +216,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Public gateway status checker](https://ipfs.fooock.com/) - Web app to check public states of IPFS gateways, including latency and gateway writable state. [Source](https://github.com/fooock/ipfs-gateway-checker)
 - [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux [Source](https://github.com/Siderus/Orion)
 - [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) - Full node for Android
+- [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase
 
 ## Videos
 

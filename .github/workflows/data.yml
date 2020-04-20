@@ -1,0 +1,31 @@
+name: auto build data
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - data/**
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - uses: actions/checkout@v2.1.0
+      - uses: actions/setup-node@v1.4.1
+        with:
+          node-version: 13
+      - name: build
+#        env:
+        run: |
+          npm --version
+          node --version
+          npm ci
+          npm run lint
+          npm run build
+      - name: Push changes
+        if: success()
+        uses: ad-m/github-push-action@v0.5.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

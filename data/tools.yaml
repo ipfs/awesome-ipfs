@@ -3,6 +3,9 @@ color: yellow
 icon: stroke_code
 description: Tools built on the top of IPFS.
 content:
+- title: Tellit
+  source: https://gitlab.com/terceranexus6/tellit
+  description: Encrypt files before uploading them using a keypair or a passphrase
 - title: Sweet IPFS
   source: https://github.com/RHazDev/Sweet-IPFS
   description: Full node for Android
@@ -67,6 +70,10 @@ content:
   description: Browser userscript for redirecting IPFS/IPNS addresses to your local
     gateway. This should work on any browser that hasn't had an extension written
     for it yet and has support for userscripts.
+- title: iprfc
+  source: https://github.com/RTradeLtd/iprfc
+  description: IETF RFC downloader which stores RFCs on IPFS and indexes
+    them with RTradeLtd/Lens.
 - title: ipscend
   source: https://github.com/diasdavid/ipscend
   description: Tool for hosting web apps and static websites in IPFS
@@ -88,7 +95,7 @@ content:
   source: https://github.com/Siderus/Orion
   description: Easy to use IPFS desktop client for macOS, Windows and Linux
 - title: ipfsecret
-  source: https://github.com/c2fo-lab/ipfsecret
+  source: https://github.com/shlemph/ipfsecret
   description: Encrypt and decrypt IPFS files with a secret passphrase
 - title: ipfs-add-from-encrypted
   source: https://github.com/TroyWilson1/ipfs-add-from-encrypted
@@ -131,3 +138,11 @@ content:
   source: https://github.com/orbitdb/orbit-db
   description: OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
   picture: /images/orbit-db.png
+- title: go-orbit-db
+  website: https://github.com/berty/go-orbit-db
+  source: https://github.com/berty/go-orbit-db
+  description: This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
+- title: ipfs-action
+  picture: /images/ipfs-action.png
+  source: https://github.com/aquiladev/ipfs-action
+  description: GitHub Action for delivery of static websites.
