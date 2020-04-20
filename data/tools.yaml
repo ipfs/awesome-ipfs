@@ -133,6 +133,10 @@ content:
   source: https://github.com/agentofuser/ipfs-deploy
   description: 'Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy'
   picture: /images/ipfs-deploy.png
+- title: ipfs-video-gateway
+  website: https://ipfs.video
+  source: https://github.com/bneijt/ipfs-video-gateway
+  description: Cloud-init your own IPFS gateway on a cloud provider and easily pin content through a simple web interface.
 - title: orbit-db
   website: https://github.com/orbitdb/orbit-db
   source: https://github.com/orbitdb/orbit-db
