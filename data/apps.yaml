@@ -88,7 +88,7 @@ content:
     website: https://d.tube
     picture: /images/dtube.png
     description: >
-      Distributed video sharing with steem.it intergrations, using ipfs for
+      Distributed video sharing with steem.it integrations, using ipfs for
       backend storage.
   - title: edChain
     website: https://www.edchain.io/
@@ -280,8 +280,8 @@ content:
     website: https://infura.io
     picture: /images/infura.png
     description: >
-      A Infrastructure: use API and developer tools provide secure, reliable, and
-      scalable access toEthereum and IPFS to help build decentralized application easier.
+      An Infrastructure: use API and developer tools provide secure, reliable, and
+      scalable access to Ethereum and IPFS to help build decentralized application easier.
   - title: OpenBazaar
     website: https://www.openbazaar.org/
     description: >

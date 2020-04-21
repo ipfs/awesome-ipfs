@@ -66,7 +66,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
 - [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
 - [InfiniteBooru](https://infinitebooru.com) - A booru-style media tagging application and content aggregator with all media backed by IPFS.
-- [infura.io](https://infura.io) - A Infrastructure: use API and developer tools provide secure, reliable, and scalable access toEthereum and IPFS to help build decentralized application easier.
+- [infura.io](https://infura.io) - A Infrastructure: use API and developer tools provide secure, reliable, and scalable access to Ethereum and IPFS to help build decentralized application easier.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
