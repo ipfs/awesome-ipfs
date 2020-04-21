@@ -43,7 +43,7 @@
 - [ ] File storage/retrieval
 - [ ] File streaming
 - [ ] Permanent archiving
-- [ ] Self-sovereign idenity
+- [ ] Self-sovereign identity
 - [ ] Platforms that utilize consensus, reputation, or incentivization
 - [ ] Other *(please list)*
 
