@@ -45,3 +45,9 @@ content:
     picture: /images/fission500px.png
     description: >
       App and website hosting powered by IPFS, including DNS automation, identity, and end-to-end encryption.
+  - title: DWS
+    website: https://dws.datochain.com/
+    picture: /images/dws500px.png
+    description: >
+      Deploy modern static websites with DWS and Enjoy secure and decentralized storage on IPFS.
+

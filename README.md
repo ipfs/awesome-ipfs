@@ -55,7 +55,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 - [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) - Discussify provides a real-time, peer to peer, and permanent discussion platform for anyone to join and participate.
 - [DtinyUrl](https://github.com/facert/dtinyurl) - Decentralized URL shortening service based on IPFS.
-- [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage.
+- [dtube](https://d.tube) - Distributed video sharing with steem.it integrations, using ipfs for backend storage.
 - [edChain](https://www.edchain.io/) - EdChain is a global network for education and careers. It uses blockchain  and distributed web technologies to deliver educational content, even to those without broadband internet. [Source](https://github.com/edchainio/edchain-client-gui)
 - [enzypt.io](https://enzypt.io/) - A website to buy and sell files through Ethereum and IPFS. [Source](https://github.com/flex-dapps/enzypt)
 - [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Source](https://github.com/madvas/ethlance)
@@ -66,7 +66,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
 - [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
 - [InfiniteBooru](https://infinitebooru.com) - A booru-style media tagging application and content aggregator with all media backed by IPFS.
-- [infura.io](https://infura.io) - A Infrastructure: use API and developer tools provide secure, reliable, and scalable access to Ethereum and IPFS to help build decentralized application easier.
+- [infura.io](https://infura.io) - An Infrastructure: use API and developer tools provide secure, reliable, and scalable access to Ethereum and IPFS to help build decentralized application easier.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
@@ -74,7 +74,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [IPFS Drive](https://github.com/fazo96/ipfs-drive) - In browser file manager for IPFS.
 - [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events.
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - A demo app that uses windows.ipfs to show you a QR Code of your IPNS Link and of your Public Key. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
-- [IPFS Image Uploader](https://ipfs.talaikis.com/) - IPFS image uploader and viewer. [Source](https://github.com/TalaikisInc/ipfs-uploader)
+- [IPFS Image Uploader](https://ipfs.talaikis.com/) - IPFS image uploader and viewer. Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over IPFS.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) - Build your wiki system base on ipfs and markdown.
 - [ipfs-search](https://ipfs-search.com) - Searching the universe since 2016.
@@ -168,6 +168,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 ## Services
 
 - [Boom.FYI](https://www.boom.fyi) - An IPFS link shortening and access control service.
+- [DWS](https://dws.datochain.com/) - Deploy modern static websites with DWS and Enjoy secure and decentralized storage on IPFS.
 - [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
 - [Fission](https://fission.codes) - App and website hosting powered by IPFS, including DNS automation, identity, and end-to-end encryption.
 - [NodeFort.io](https://www.nodefort.io) - Web-based IPFS node hosting service.
