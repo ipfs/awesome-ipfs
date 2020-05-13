@@ -24,6 +24,11 @@ jobs:
           npm ci
           npm run lint
           npm run build
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Rebuild" -a
       - name: Push changes
         if: success()
         uses: ad-m/github-push-action@v0.5.0
