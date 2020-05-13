@@ -69,6 +69,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [infura.io](https://infura.io) - An Infrastructure: use API and developer tools provide secure, reliable, and scalable access to Ethereum and IPFS to help build decentralized application easier.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
+- [ipcoronafs](https://github.com/RTradeLtd/ipcoronafs) - A realtime service to scrape COVID-19 and SARS-CoV-2, storing on IPFS, DNSLink, and streaming over LibP2P pubsub
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - Run your IPFS node on your machine without having to bother with command line tools. Manage your node, add your files, easily change the settings... everything from just one interface.
 - [IPFS Drive](https://github.com/fazo96/ipfs-drive) - In browser file manager for IPFS.
@@ -171,7 +172,6 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [DWS](https://dws.datochain.com/) - Deploy modern static websites with DWS and Enjoy secure and decentralized storage on IPFS.
 - [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
 - [Fission](https://fission.codes) - App and website hosting powered by IPFS, including DNS automation, identity, and end-to-end encryption.
-- [NodeFort.io](https://www.nodefort.io) - Web-based IPFS node hosting service.
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [Robonomics Network](https://robonomics.network/en/) - Ethereum network infrastructure for cyber-physical systems' integration into Smart Cities and Industry 4.0
