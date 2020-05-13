@@ -138,6 +138,10 @@ content:
     source: https://github.com/jamescarlyle/ipfs-wiki
     description: >
       Wiki built on top of IPFS
+  - title: ipcoronafs
+    source: https://github.com/RTradeLtd/ipcoronafs
+    description: >
+      A realtime service to scrape COVID-19 and SARS-CoV-2, storing on IPFS, DNSLink, and streaming over LibP2P pubsub
   - title: IPFS Event Drop
     source: https://github.com/travisperson/ipfs-event-drops
     description: >
