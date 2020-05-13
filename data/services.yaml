@@ -19,10 +19,6 @@ content:
     picture: /images/eternum.png
     description: >
       Paid pinning service with an easy-to-use API.
-  - title: NodeFort.io
-    website: https://www.nodefort.io
-    picture: /images/nodefort.png
-    description: Web-based IPFS node hosting service.
   - title: Robonomics Network
     website: https://robonomics.network/en/
     picture: /images/1_Robonomics_logo_color.png
@@ -39,7 +35,7 @@ content:
     website: https://unstoppabledomains.com
     picture: /images/unstoppable-domains-app.png
     description: >
-      Domains on blockchains    
+      Domains on blockchains
   - title: Fission
     website: https://fission.codes
     picture: /images/fission500px.png
@@ -50,4 +46,3 @@ content:
     picture: /images/dws500px.png
     description: >
       Deploy modern static websites with DWS and Enjoy secure and decentralized storage on IPFS.
-
