@@ -23,6 +23,10 @@ content:
   website: https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256
   description: IPFS integration for the Dillo web browser.
   picture: /images/dillo-ipfs.png
+- title: galacteek
+  website: https://galacteek.github.io
+  source: https://github.com/pinnaculum/galacteek
+  description: A multi-platform Qt5-based browser for the distributed web
 - title: git-remote-ipfs
   source: https://github.com/cryptix/git-remote-ipfs
   description: push/pull repositories from/to IPFS
