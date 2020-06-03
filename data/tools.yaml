@@ -154,3 +154,7 @@ content:
   picture: /images/ipfs-action.png
   source: https://github.com/aquiladev/ipfs-action
   description: GitHub Action for delivery of static websites.
+- title: ShareX integration
+  website: https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu
+  source: https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu
+  description: ShareX is a file upload and manipulation tool that has a custom integration with IPFS
