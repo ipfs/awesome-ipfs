@@ -217,6 +217,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [orbit-db](https://github.com/orbitdb/orbit-db) - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
 - [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
 - [Public gateway status checker](https://ipfs.fooock.com/) - Web app to check public states of IPFS gateways, including latency and gateway writable state. [Source](https://github.com/fooock/ipfs-gateway-checker)
+- [ShareX integration](https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu) - ShareX is a file upload and manipulation tool that has a custom integration with IPFS
 - [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux [Source](https://github.com/Siderus/Orion)
 - [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) - Full node for Android
 - [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase
