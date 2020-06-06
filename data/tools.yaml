@@ -158,3 +158,7 @@ content:
   website: https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu
   source: https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu
   description: ShareX is a file upload and manipulation tool that has a custom integration with IPFS
+- title: gomobile-ipfs
+  website: https://github.com/ipfs-shipyard/gomobile-ipfs
+  source: https://github.com/ipfs-shipyard/gomobile-ipfs
+  description: IPFS and libp2p on Mobile, with Gomobile
