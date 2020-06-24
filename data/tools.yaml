@@ -157,7 +157,7 @@ content:
 - title: IPFS Setup Action
   website: https://github.com/marketplace/actions/ipfs-setup-action
   source: https://github.com/ibnesayeed/setup-ipfs
-  description: A GitHub Action to install and initialize go-ipfs to provision a cross-platform test environment for DApps.
+  description: A GitHub Action to install and initialize go-ipfs to provision a cross-platform test environment on GitHub's CI platform.
 - title: ShareX integration
   website: https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu
   source: https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu
