@@ -139,7 +139,6 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - 2016-05-20: [Changelog Podcast](https://changelog.com/204/) 
 - 2015-09-18: [The InterPlanetary File System Wants to Create a Permanent Web](http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web) 
 - 2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example) 
-- 2015-09-10: [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) 
 - 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html) 
 - [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 
@@ -174,7 +173,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Fission](https://fission.codes) - App and website hosting powered by IPFS, including DNS automation, identity, and end-to-end encryption.
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
-- [Robonomics Network](https://robonomics.network/en/) - Ethereum network infrastructure for cyber-physical systems' integration into Smart Cities and Industry 4.0
+- [Robonomics Network](https://robonomics.network/) - Ethereum network infrastructure for cyber-physical systems' integration into Smart Cities and Industry 4.0
 - [Temporal](https://temporal.cloud) - Scalable IPFS Infrastructure with free starter package featuring turnkey APIs, toolkits and storage.
 - [Unstoppable Domains](https://unstoppabledomains.com) - Domains on blockchains
 

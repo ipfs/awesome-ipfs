@@ -6,7 +6,7 @@ jobs:
     steps:
       - checkout
       - run: gem install awesome_bot
-      - run: awesome_bot --allow-redirect --allow-dupe --allow-ssl -w ipfs.io README.md
+      - run: awesome_bot --allow 429 --allow-redirect --allow-dupe --allow-ssl -w ipfs.io README.md
 
   build:
     docker:
