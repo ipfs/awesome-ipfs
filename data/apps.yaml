@@ -407,3 +407,7 @@ content:
     picture: /images/kauri_io.png
     description: >
       A community-based knowledge platform for web3 technologies built on top of IPFS and Ethereum. Learn, share and curate on up-to-date and high-quality technical articles and series.
+  - title: Skyhook
+    source: https://github.com/deedeecx330/skyhook
+    description: >
+      Send and receive files securely
