@@ -411,3 +411,7 @@ content:
     source: https://github.com/deedeecx330/skyhook
     description: >
       Send and receive files securely
+  - title: Everforo
+    website: https://www.everforo.com
+    description: >
+      Everforo is the next generation of online community groups build on top of IPFS.
