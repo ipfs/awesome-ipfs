@@ -59,6 +59,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [edChain](https://www.edchain.io/) - EdChain is a global network for education and careers. It uses blockchain  and distributed web technologies to deliver educational content, even to those without broadband internet. [Source](https://github.com/edchainio/edchain-client-gui)
 - [enzypt.io](https://enzypt.io/) - A website to buy and sell files through Ethereum and IPFS. [Source](https://github.com/flex-dapps/enzypt)
 - [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Source](https://github.com/madvas/ethlance)
+- [Everforo](https://www.everforo.com) - Everforo is the next generation of online community groups build on top of IPFS.
 - [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
 - [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
 - [gogo.tattoo](http://gogo.tattoo) - Gogo Tattoo Project uses IPFS, DLTs and other modern technologies to offer tattoo artists and wearers an unbreakable lifetime record of their portfolios. gogo.tattoo app already has a feature to share works directly to IPFS.
