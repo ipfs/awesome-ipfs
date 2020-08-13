@@ -3,6 +3,13 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: Peer Web Site
+    website: https://peerweb.site/
+    source: https://github.com/Weedshaker/PeerWebSite
+    picture: /images/peerWebSite.png
+    description: >
+      Peer to Peer Web Site hosting at your fingertips!
+      Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
   - title: SimpleAsWater Bot
     website: https://simpleaswater.com/ipfs-cluster-twitter-pinbot/
     source: https://github.com/simpleaswater/twitter-pinbot
