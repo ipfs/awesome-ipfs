@@ -3,6 +3,13 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: IPFS-FPS
+    website: http://ipfs-fps.zil.sh/
+    source: https://github.com/IPFS-FPS
+    picture: /images/ipfs-fps.png
+    description: >
+      A completely decentralized first person shooter.
+      Built with Unity, Fleek, Unstoppable Domans and Pinata.
   - title: Peer Web Site
     website: https://peerweb.site/
     source: https://github.com/Weedshaker/PeerWebSite

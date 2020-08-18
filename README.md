@@ -78,6 +78,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - A demo app that uses windows.ipfs to show you a QR Code of your IPNS Link and of your Public Key. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
 - [IPFS Image Uploader](https://ipfs.talaikis.com/) - IPFS image uploader and viewer. Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over IPFS.
+- [IPFS-FPS](http://ipfs-fps.zil.sh/) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata. [Source](https://github.com/IPFS-FPS)
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) - Build your wiki system base on ipfs and markdown.
 - [ipfs-search](https://ipfs-search.com) - Searching the universe since 2016.
 Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search API's available. [Source](https://github.com/ipfs-search/ipfs-search)
@@ -123,12 +124,14 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 
 ## Articles
 
+- 2020-08-03: [How to Create a Unity Game on IPFS using Pinata](https://medium.com/pinata/how-to-create-a-unity-game-on-ipfs-using-pinata-d0af18a5bd44) 
 - 2020-01-22: [Building a Twitter Bot using IPFS Cluster](https://simpleaswater.com/ipfs-cluster-twitter-pinbot/?ref=awesomeipfs) 
 - 2020-01-04: [Hands-on IPLD Tutorial in Golang Series](https://simpleaswater.com/hands-on-ipld-tutorial-in-golang?ref=awesomeipfs) 
 - 2019-10-01: [InterPlanetary Chat Application using Libp2p](http://simpleaswater.com/libp2p/tutorials/nodejs/getting_started?ref=awesomeipfs) 
 - 2019-08-14: [Managing storage in a Java application with IPFS](https://kauri.io/article/3e8494f4f56f48c4bb77f1f925c6d926) 
 - 2019-07-22: [10+ Resources Every IPFS Developer Should Know About](https://medium.com/@vaibhavsaini_67863/10-resources-to-get-started-with-ipfs-5f429dc8a841) 
 - 2019-05-12: [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://dev.to/agentofuser/the-complete-beginner-s-guide-to-deploying-your-first-static-website-to-ipfs-33po) 
+- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 - 2019-03-10: [The Case for a Decentralized Social Network](https://medium.com/npfoss/the-case-for-a-decentralized-social-network-2683b727abf5) 
 - 2019-01-30: [Ultimate Guide to Filecoin Breaking Down Filecoin Whitepaper & Economics](https://medium.com/swlh/ultimate-guide-to-filecoin-breaking-down-filecoin-whitepaper-economics-9212541a5895) 
 - 2018-08-06: [Content Identifiers in IPFS](https://pascalprecht.github.io/posts/content-identifiers-in-ipfs/) 
@@ -143,7 +146,6 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - 2015-09-18: [The InterPlanetary File System Wants to Create a Permanent Web](http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web) 
 - 2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example) 
 - 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html) 
-- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 
 ## Datasets
 
