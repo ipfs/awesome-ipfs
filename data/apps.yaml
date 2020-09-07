@@ -109,7 +109,7 @@ content:
     source: https://github.com/edchainio/edchain-client-gui
     picture: /images/edchain.png
     description: >
-      EdChain is a global network for education and careers. It uses blockchain 
+      EdChain is a global network for education and careers. It uses blockchain
       and distributed web technologies to deliver educational content, even to those without broadband internet.
   - title: Ethlance
     website: http://ethlance.com
@@ -226,6 +226,11 @@ content:
     source: https://github.com/qri-io/qri
     description: >
       Dataset version control, discovery and collaboration tools (free, open-source).
+  - title: QuestNetwork Messenger
+    website: https://github.com/QuestNetwork/quest-messenger-js
+    source: https://github.com/QuestNetwork/quest-messenger-js
+    description: >
+      Multi-Platform End-To-End Encrypted Messenger on IPFS PubSub. Emulates Servers/Community with folders that can be shared using invitation codes. It's free and open source. On track to become the most comprehensive and user-friendly messenger on IPFS.
   - title: ujo
     website: http://ujomusic.com/
     description: >
@@ -405,7 +410,7 @@ content:
   - title: Minerva
     source: https://github.com/bdchain/Minerva
     description: >
-      Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine. 
+      Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.
   - title: IPFS Image Uploader
     website: https://ipfs.talaikis.com/
     source: https://github.com/TalaikisInc/ipfs-uploader
