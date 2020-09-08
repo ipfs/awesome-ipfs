@@ -56,7 +56,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) - Discussify provides a real-time, peer to peer, and permanent discussion platform for anyone to join and participate.
 - [DtinyUrl](https://github.com/facert/dtinyurl) - Decentralized URL shortening service based on IPFS.
 - [dtube](https://d.tube) - Distributed video sharing with steem.it integrations, using ipfs for backend storage.
-- [edChain](https://www.edchain.io/) - EdChain is a global network for education and careers. It uses blockchain  and distributed web technologies to deliver educational content, even to those without broadband internet. [Source](https://github.com/edchainio/edchain-client-gui)
+- [edChain](https://www.edchain.io/) - EdChain is a global network for education and careers. It uses blockchain and distributed web technologies to deliver educational content, even to those without broadband internet. [Source](https://github.com/edchainio/edchain-client-gui)
 - [enzypt.io](https://enzypt.io/) - A website to buy and sell files through Ethereum and IPFS. [Source](https://github.com/flex-dapps/enzypt)
 - [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Source](https://github.com/madvas/ethlance)
 - [Everforo](https://www.everforo.com) - Everforo is the next generation of online community groups build on top of IPFS.
@@ -108,6 +108,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Pugdit](https://github.com/zbyte64/pugdit) - A bulletin board service that discovers and distributes over IPFS
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [qri](https://qri.io) - Dataset version control, discovery and collaboration tools (free, open-source). [Source](https://github.com/qri-io/qri)
+- [QuestNetwork Messenger](https://github.com/QuestNetwork/quest-messenger-js) - Multi-Platform End-To-End Encrypted Messenger on IPFS PubSub. Emulates Servers/Community with folders that can be shared using invitation codes. It's free and open source. On track to become the most comprehensive and user-friendly messenger on IPFS.
 - [Request](https://request.network/) - Decentralized network for financial transactions. [Source](https://github.com/RequestNetwork/requestNetwork)
 - [SimpleAsWater Bot](https://simpleaswater.com/ipfs-cluster-twitter-pinbot/) - A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster. [Source](https://github.com/simpleaswater/twitter-pinbot)
 - [SimpleID](https://simpleid.xyz/) - Developer tools for adding Ethereum authentication and content pinning to your app. [Source](https://github.com/simplesecure/)
