@@ -3,6 +3,13 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: Agregore
+    website: https://github.com/AgregoreWeb/agregore-browser
+    source: https://github.com/AgregoreWeb/agregore-browser
+    picture: /images/agregore.svg
+    description: >
+      A minimal web browser for the distributed web.
+      Supports downloading/uploading data from IPFS using the browser's `fetch()` API
   - title: IPFS-FPS
     website: http://ipfs-fps.zil.sh/
     source: https://github.com/IPFS-FPS
