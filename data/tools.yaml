@@ -171,3 +171,6 @@ content:
   source: https://github.com/ekumahost/ImageServer
   description: Upload Images via JSON HTTP API; URI, URL, File and Base64
   picture: /images/image-server.png
+- title: Multiverse
+  source: https://github.com/multiverse-vcs/go-multiverse
+  description: Multiverse is a decentralized version control system that enables peer-to-peer software development.
