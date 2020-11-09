@@ -195,6 +195,9 @@ content:
     source: https://github.com/victorbjelkholm/ipfsbin
     description: >
       Pastebin clone build.
+  - title: IPGit
+    source: https://github.com/meyer1994/ipgit
+    description: Remote Git repository that mirrors your code to IPFS
   - title: IpJot
     website: https://ipjot.herokuapp.com/
     description: >
