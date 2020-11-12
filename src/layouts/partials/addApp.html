@@ -1,0 +1,40 @@
+<div class="mv2 dn" id="addApp">
+    <h1>Submit a new awesome app</h1>
+    <form id="addAppForm">
+      <select name="category" id="AddAppFormCategory" form="addAppForm">
+        {{ range (where .Site.Pages "Type" "category") }}
+          <option value="{{ .Title }}">{{ .Title }}</option>
+        {{ end }}
+      </select>
+      <input
+        required
+        id="AddAppFormName"
+        placeholder="Name..."
+        class="input-reset outline-0 bn pa3 mb2 db w-100 center focus-outline dn"
+        type="text" />
+      <input
+        required
+        id="AddAppFormDescription"
+        placeholder="Description..."
+        class="input-reset outline-0 bn pa3 mb2 db w-100 center focus-outline dn"
+        type="text" />
+      <input
+        id="AddAppFormCode"
+        placeholder="Code link..."
+        class="input-reset outline-0 bn pa3 mb2 db w-100 center focus-outline dn"
+        type="url" />
+      <input
+        id="AddAppFormWebsite"
+        placeholder="Website link..."
+        class="input-reset outline-0 bn pa3 mb2 db w-100 center focus-outline dn"
+        type="url" />
+      <input
+        id="AddAppFormPicture"
+        label="Picture"
+        class="input-reset outline-0 bn pa3 mb2 db w-100 center focus-outline dn"
+        accept="image/x-png,image/gif,image/jpeg"
+        type="file" />
+      <p id="AddAppFormError" class="red dn">error</p>
+      <input type="submit" />
+    </form>
+  </div>
