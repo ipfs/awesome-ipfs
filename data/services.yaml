@@ -46,3 +46,8 @@ content:
     picture: /images/dws500px.png
     description: >
       Deploy modern static websites with DWS and Enjoy secure and decentralized storage on IPFS.
+  - title: Monaparty
+    website: https://www.monaparty.me/
+    picture: /images/monaparty.png
+    description: >
+      Token assets platform based on Monacoin and Counterparty. Contents bound to user assets are hosted by IPFS.
