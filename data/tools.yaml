@@ -174,3 +174,9 @@ content:
 - title: Multiverse
   source: https://github.com/multiverse-vcs/go-multiverse
   description: Multiverse is a decentralized version control system that enables peer-to-peer software development.
+- title: ipfs-pinner
+  source: https://github.com/wabarc/ipfs-pinner
+  description: A toolkit help upload files to IPFS pinning services.
+- title: wbipfs
+  source: https://github.com/wabarc/wbipfs
+  description: A command-line tool and Go package interface for wayback webpage to IPFS.
