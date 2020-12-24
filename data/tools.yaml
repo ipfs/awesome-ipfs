@@ -3,6 +3,11 @@ color: yellow
 icon: stroke_code
 description: Tools built on the top of IPFS.
 content:
+- title: Almonit Browser Extension
+  website: https://almonit.com/#/extension/
+  source: https://github.com/almonit/almonit-plugin
+  picture: /images/almonit.jpg
+  description: Resolves ENS domains, this let users access .eth websites while offering maximum decentralization.
 - title: Tellit
   source: https://gitlab.com/terceranexus6/tellit
   description: Encrypt files before uploading them using a keypair or a passphrase
