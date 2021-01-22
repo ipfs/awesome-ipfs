@@ -445,3 +445,8 @@ content:
     website: https://www.everforo.com
     description: >
       Everforo is the next generation of online community groups build on top of IPFS.
+  - title: IPFS-forum
+    website: https://hub.textile.io/ipns/bafzbeib2jvsythibag52rncf56qflqye6iekponbt3u7txcbv2oz45sy5e/index.html
+    source: https://github.com/ReForum-ipfs/ReForum-ipfs
+    description: >
+      A web3 forum.You can get new ideas,reports,dicussions from this forum ,though you maybe are in a network-restricted area,all the contents will be updated qucikly by ipfs.
