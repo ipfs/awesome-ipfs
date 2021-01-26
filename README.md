@@ -124,7 +124,6 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
 - [uport](https://www.uport.me) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
 - [Wistful Books](https://wistfulbooks.com/) - Single page offline application for enjoying librivox.org audio books. [Source](https://github.com/smwa/wistfulbooks)
-- [Watchit](https://github.com/ZorrillosDev/watchit-desktop) - A movie platform with a decentralized network approach. [Source](https://github.com/ZorrillosDev/watchit-desktop)
 - [xfce-screenshooter-ipfs-support](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) - A fork of xfce-screenshooter with IPFS support!
 
 ## Articles
