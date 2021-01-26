@@ -450,3 +450,9 @@ content:
     source: https://github.com/ReForum-ipfs/ReForum-ipfs
     description: >
       A web3 forum.You can get new ideas,reports,dicussions from this forum ,though you maybe are in a network-restricted area,all the contents will be updated qucikly by ipfs.
+  - title: Watchit
+    website: https://github.com/ZorrillosDev/watchit-desktop
+    source: https://github.com/ZorrillosDev/watchit-desktop
+    picture: /images/watchit.svg
+    description: >
+      A movie platform with a decentralized network approach.
