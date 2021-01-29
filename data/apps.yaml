@@ -12,7 +12,6 @@ content:
       Supports downloading/uploading data from IPFS using the browser's `fetch()` API
   - title: IPFS-FPS
     website: http://ipfs-fps.zil.sh/
-    source: https://github.com/IPFS-FPS
     picture: /images/ipfs-fps.png
     description: >
       A completely decentralized first person shooter.
@@ -172,7 +171,6 @@ content:
     description: >
       In browser file manager for IPFS.
   - title: ipfs.ink
-    website: https://ipfs.ink
     source: https://github.com/kpcyrd/ipfs.ink
     description: >
       Publish and render markdown essays to and from ipfs.
