@@ -453,6 +453,6 @@ content:
   - title: Watchit
     website: https://github.com/ZorrillosDev/watchit-desktop
     source: https://github.com/ZorrillosDev/watchit-desktop
-    picture: /images/watchit.svg
+    picture: /images/watchit.png
     description: >
       A movie platform with a decentralized network approach.
