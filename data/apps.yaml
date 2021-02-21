@@ -454,3 +454,9 @@ content:
     picture: /images/watchit.png
     description: >
       A movie platform with a decentralized network approach.
+  - title: RocketPad
+    website: https://rocketpad.aboutdavid.me/
+    picture: /images/rocketpad.png
+    source: https://github.com/aboutDavid/rocketpad
+    description: >
+      Create mini essays/documents using a WYSIWYG editor and publish them to the distributed web via IPFS.
