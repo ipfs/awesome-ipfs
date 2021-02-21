@@ -113,6 +113,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [qri](https://qri.io) - Dataset version control, discovery and collaboration tools (free, open-source). [Source](https://github.com/qri-io/qri)
 - [QuestNetwork Messenger](https://github.com/QuestNetwork/quest-messenger-js) - Multi-Platform End-To-End Encrypted Messenger on IPFS PubSub. Emulates Servers/Community with folders that can be shared using invitation codes. It's free and open source. On track to become the most comprehensive and user-friendly messenger on IPFS.
 - [Request](https://request.network/) - Decentralized network for financial transactions. [Source](https://github.com/RequestNetwork/requestNetwork)
+- [RocketPad](https://rocketpad.aboutdavid.me/) - Create mini essays/documents using a WYSIWYG editor and publish them to the distributed web via IPFS. [Source](https://github.com/aboutDavid/rocketpad)
 - [SimpleAsWater Bot](https://simpleaswater.com/ipfs-cluster-twitter-pinbot/) - A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster. [Source](https://github.com/simpleaswater/twitter-pinbot)
 - [SimpleID](https://simpleid.xyz/) - Developer tools for adding Ethereum authentication and content pinning to your app. [Source](https://github.com/simplesecure/)
 - [Skyhook](https://github.com/deedeecx330/skyhook) - Send and receive files securely
