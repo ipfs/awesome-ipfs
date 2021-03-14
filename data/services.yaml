@@ -27,6 +27,10 @@ content:
     website: https://www.boom.fyi
     picture: /images/boom-fyi.svg
     description: An IPFS link shortening and access control service.
+  - title: Sharp Photos
+    website: https://www.sharpphotos.io/
+    picture: /images/sharp-photos.png
+    description: Private end-to-end encrypted cloud photo storage.
   - title: Temporal
     website: https://temporal.cloud
     picture: /images/temporal.png
