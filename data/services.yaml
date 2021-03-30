@@ -61,3 +61,9 @@ content:
     picture: /images/darkfleek.png
     description: >
       Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer.
+  - title: Space
+    website: https://space.storage/
+    source: https://github.com/FleekHQ/space-web
+    picture: /images/spacedark.png
+    description: >
+      User-owned, encrypted, and open source personal file storage and sharing on IPFS and Textile, with decentralized backups in Filecoin.
