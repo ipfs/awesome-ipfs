@@ -55,3 +55,9 @@ content:
     picture: /images/monaparty.png
     description: >
       Token assets platform based on Monacoin and Counterparty. Contents bound to user assets are hosted by IPFS.
+  - title: Fleek
+    website: http://fleek.co/
+    source: https://github.com/FleekHQ
+    picture: /images/darkfleek.png
+    description: >
+      Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer.
