@@ -188,6 +188,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [Robonomics Network](https://robonomics.network/) - Ethereum network infrastructure for cyber-physical systems' integration into Smart Cities and Industry 4.0
 - [Sharp Photos](https://www.sharpphotos.io/) - Private end-to-end encrypted cloud photo storage.
+- [Space](https://space.storage/) - User-owned, encrypted, and open source personal file storage and sharing on IPFS and Textile, with decentralized backups in Filecoin. [Source](https://github.com/FleekHQ/space-web)
 - [Temporal](https://temporal.cloud) - Scalable IPFS Infrastructure with free starter package featuring turnkey APIs, toolkits and storage.
 - [Unstoppable Domains](https://unstoppabledomains.com) - Domains on blockchains
 
