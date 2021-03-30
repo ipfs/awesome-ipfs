@@ -182,6 +182,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [DWS](https://dws.datochain.com/) - Deploy modern static websites with DWS and Enjoy secure and decentralized storage on IPFS.
 - [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
 - [Fission](https://fission.codes) - App and website hosting powered by IPFS, including DNS automation, identity, and end-to-end encryption.
+- [Fleek](http://fleek.co/) - Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer. [Source](https://github.com/FleekHQ)
 - [Monaparty](https://www.monaparty.me/) - Token assets platform based on Monacoin and Counterparty. Contents bound to user assets are hosted by IPFS.
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
