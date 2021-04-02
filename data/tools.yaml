@@ -185,3 +185,6 @@ content:
 - title: wbipfs
   source: https://github.com/wabarc/wbipfs
   description: A command-line tool and Go package interface for wayback webpage to IPFS.
+- title: ipns-pin
+  source: https://github.com/justicenode/node-ipns-pin
+  description: A command-line tool to pin stuff via ipns.
