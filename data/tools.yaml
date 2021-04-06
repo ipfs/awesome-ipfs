@@ -185,3 +185,6 @@ content:
 - title: wbipfs
   source: https://github.com/wabarc/wbipfs
   description: A command-line tool and Go package interface for wayback webpage to IPFS.
+- title: Bubble IPFS From URL Plugin
+  source: https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500
+  description: Bubble (no code platform) plugin for IPFS From URL integration
