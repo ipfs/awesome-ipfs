@@ -188,3 +188,6 @@ content:
 - title: Bubble IPFS From URL Plugin
   source: https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500
   description: Bubble (no code platform) plugin for IPFS From URL integration
+- title: ipns-pin
+  source: https://github.com/justicenode/node-ipns-pin
+  description: A command-line tool to pin stuff via ipns.
