@@ -196,6 +196,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 
 - [Almonit Browser Extension](https://almonit.com/#/extension/) - Resolves ENS domains, this let users access .eth websites while offering maximum decentralization. [Source](https://github.com/almonit/almonit-plugin)
 - [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) - Monitor the current block number of the Ethereum blockchain, and set alerts (stored locally using PouchDB in your browser) for when certain block heights are passed. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
+- [Bubble IPFS From URL Plugin](https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500) - Bubble (no code platform) plugin for IPFS From URL integration
 - [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) - IPFS integration for the Dillo web browser.
 - [galacteek](https://galacteek.github.io) - A multi-platform Qt5-based browser for the distributed web [Source](https://github.com/pinnaculum/galacteek)
