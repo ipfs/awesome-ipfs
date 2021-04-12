@@ -460,3 +460,8 @@ content:
     source: https://github.com/aboutDavid/rocketpad
     description: >
       Create mini essays/documents using a WYSIWYG editor and publish them to the distributed web via IPFS.
+  - title: La Marque
+    website: https://marque.la/
+    picture: /images/lamarque.png
+    description: >
+      Generate & pin content from your phone. Validate "La Marque" assets by verifying received images from others.
