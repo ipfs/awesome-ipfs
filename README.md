@@ -124,6 +124,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [ToDo List Demo](https://ipfs.io/ipfs/QmSGQrmvHe6fFiWdV2H8YnhLaoX4qe5nYEmJfUFx6LdUYa/) - A ToDo List demo app that uses windows.ipfs. [Source](https://github.com/ipfs-shipyard/demo-ipfs-todo)
 - [Tree3 Network](https://tree3.network/) - A decentralized platform for micropayments, offchain data and blogging powered by Stellar and IPFS. [Source](https://github.com/tree3network/tree3)
 - [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
+- [Uniswap](https://uniswap.org/) - Decentralized Trading Protocol built on Ethereum. [Source](https://github.com/Uniswap)
 - [uport](https://www.uport.me) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
 - [Watchit](https://github.com/ZorrillosDev/watchit-desktop) - A movie platform with a decentralized network approach.
 - [Wistful Books](https://wistfulbooks.com/) - Single page offline application for enjoying librivox.org audio books. [Source](https://github.com/smwa/wistfulbooks)
