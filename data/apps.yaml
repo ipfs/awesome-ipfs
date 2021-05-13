@@ -465,3 +465,9 @@ content:
     picture: /images/lamarque.png
     description: >
       Generate & pin content from your phone. Validate "La Marque" assets by verifying received images from others.
+  - title: Uniswap
+    website: https://uniswap.org/
+    source: https://github.com/Uniswap
+    picture: /images/UniswapCard.png
+    description: >
+      Decentralized Trading Protocol built on Ethereum.
