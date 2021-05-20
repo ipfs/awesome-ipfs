@@ -11,7 +11,7 @@ content:
       A minimal web browser for the distributed web.
       Supports downloading/uploading data from IPFS using the browser's `fetch()` API
   - title: IPFS-FPS
-    website: http://ipfs-fps.zil.sh/
+    website: https://ipfs-fps.com/
     picture: /images/ipfs-fps.png
     description: >
       A completely decentralized first person shooter.
