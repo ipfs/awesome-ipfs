@@ -471,3 +471,9 @@ content:
     picture: /images/UniswapCard.png
     description: >
       Decentralized Trading Protocol built on Ethereum.
+  - title: P2Pdoc
+    website: https://p2pdoc.glitch.me/
+    source: https://github.com/aboutDavid/p2pdoc
+    picture: /images/p2pdoc.png
+    description: >
+      P2Pdoc allows you to create a document and then upload it to the distributed web.
