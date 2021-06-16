@@ -55,6 +55,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [Diffuse](https://diffuse.sh) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
 - [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 - [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) - Discussify provides a real-time, peer to peer, and permanent discussion platform for anyone to join and participate.
+- [DreamLink](https://www.dreamlink.cloud/) - Share files easily and quickly on the decentralized network. [Source](https://github.com/opendreamnet/dreamlink.cloud)
 - [DtinyUrl](https://github.com/facert/dtinyurl) - Decentralized URL shortening service based on IPFS.
 - [dtube](https://d.tube) - Distributed video sharing with steem.it integrations, using ipfs for backend storage.
 - [edChain](https://www.edchain.io/) - EdChain is a global network for education and careers. It uses blockchain and distributed web technologies to deliver educational content, even to those without broadband internet. [Source](https://github.com/edchainio/edchain-client-gui)
@@ -80,7 +81,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [IPFS Image Uploader](https://ipfs.talaikis.com/) - IPFS image uploader and viewer. Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over IPFS.
 - [IPFS-forum](https://hub.textile.io/ipns/bafzbeib2jvsythibag52rncf56qflqye6iekponbt3u7txcbv2oz45sy5e/index.html) - A web3 forum.You can get new ideas,reports,dicussions from this forum ,though you maybe are in a network-restricted area,all the contents will be updated qucikly by ipfs. [Source](https://github.com/ReForum-ipfs/ReForum-ipfs)
-- [IPFS-FPS](http://ipfs-fps.zil.sh/) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
+- [IPFS-FPS](https://ipfs-fps.com/) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) - Build your wiki system base on ipfs and markdown.
 - [ipfs-search](https://ipfs-search.com) - Searching the universe since 2016.
 Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search API's available. [Source](https://github.com/ipfs-search/ipfs-search)
@@ -100,6 +101,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [OpenBazaar](https://www.openbazaar.org/) - This new version(v2.0) is built on IPFS, Openbazaar stores can now be accessible to buyers even when they are offline.
 - [Orbit](https://orbit.chat) - Distributed, peer-to-peer chat application on IPFS. [Source](https://github.com/haadcode/orbit)
 - [Origin Protocol](https://demo.originprotocol.com/) - Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS. [Source](https://github.com/OriginProtocol/demo-dapp)
+- [P2Pdoc](https://p2pdoc.glitch.me/) - P2Pdoc allows you to create a document and then upload it to the distributed web. [Source](https://github.com/aboutDavid/p2pdoc)
 - [Partyshare](https://busterlabs.github.io/Partyshare) - A simple file sharing desktop app. [Source](https://github.com/BusterLabs/Partyshare)
 - [Pathephone](https://pathephone.github.io) - Distributed music streaming app.
 - [Peer Bandwidth Demo](https://ipfs.io/ipfs/QmVaVXbLdw4R5NqAiiQoTWtitxo5g7FS31PQmCLbH9p8Fu/) - An demo app that uses window.ipfs, provided by the IPFS Companion web extension to get and graph bandwidth info for your IPFS node [Source](https://github.com/tableflip/ipfs-peer-bw-example)

@@ -11,7 +11,7 @@ content:
       A minimal web browser for the distributed web.
       Supports downloading/uploading data from IPFS using the browser's `fetch()` API
   - title: IPFS-FPS
-    website: http://ipfs-fps.zil.sh/
+    website: https://ipfs-fps.com/
     picture: /images/ipfs-fps.png
     description: >
       A completely decentralized first person shooter.
@@ -476,3 +476,14 @@ content:
     source: https://github.com/dokterbob/youtube2ipfs
     description: >
       Download videos from YouTube (and similar video platforms) and add them to IPFS.
+  - title: P2Pdoc
+    website: https://p2pdoc.glitch.me/
+    source: https://github.com/aboutDavid/p2pdoc
+    picture: /images/p2pdoc.png
+    description: >
+      P2Pdoc allows you to create a document and then upload it to the distributed web.
+  - title: DreamLink
+    website: https://www.dreamlink.cloud/
+    source: https://github.com/opendreamnet/dreamlink.cloud
+    description: >
+      Share files easily and quickly on the decentralized network.
