@@ -471,6 +471,11 @@ content:
     picture: /images/UniswapCard.png
     description: >
       Decentralized Trading Protocol built on Ethereum.
+  - title: youtube2ipfs
+    website: https://pypi.org/project/youtube2ipfs/
+    source: https://github.com/dokterbob/youtube2ipfs
+    description: >
+      Download videos from YouTube (and similar video platforms) and add them to IPFS.
   - title: P2Pdoc
     website: https://p2pdoc.glitch.me/
     source: https://github.com/aboutDavid/p2pdoc
