@@ -487,3 +487,9 @@ content:
     source: https://github.com/opendreamnet/dreamlink.cloud
     description: >
       Share files easily and quickly on the decentralized network.
+  - title: Valist
+    website: https://valist.io
+    source: https://github.com/valist-io/valist
+    picture: /images/valist.png
+    description: >
+      A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps.
