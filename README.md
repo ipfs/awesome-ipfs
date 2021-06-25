@@ -128,6 +128,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
 - [Uniswap](https://uniswap.org/) - Decentralized Trading Protocol built on Ethereum. [Source](https://github.com/Uniswap)
 - [uport](https://www.uport.me) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
+- [Valist](https://valist.io) - A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps. [Source](https://github.com/valist-io/valist)
 - [Watchit](https://github.com/ZorrillosDev/watchit-desktop) - A movie platform with a decentralized network approach.
 - [Wistful Books](https://wistfulbooks.com/) - Single page offline application for enjoying librivox.org audio books. [Source](https://github.com/smwa/wistfulbooks)
 - [xfce-screenshooter-ipfs-support](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) - A fork of xfce-screenshooter with IPFS support!
