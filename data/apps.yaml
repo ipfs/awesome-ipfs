@@ -493,3 +493,9 @@ content:
     picture: /images/valist.png
     description: >
       A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps.
+ -  title: Terrive
+    website: https://ipfs.io/ipns/terrive.one
+    source: https://github.com/appukuttan66/terrive
+    picture: /images/terrive.png
+    description: >
+      A Photo and Video Sharing Platform that uses the HIVE blockchain as a database and Immutable Image/Video Hosting.
