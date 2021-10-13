@@ -504,3 +504,9 @@ content:
     picture: /images/terrive.png
     description: >
       A Photo and Video Sharing Platform that uses the HIVE blockchain as a database and Immutable Image/Video Hosting.
+  - title: musicForProgramming("IPFS!");
+    website: https://ipfs.io/ipns/mfp.jillejr.tech
+    source: https://github.com/jilleJr/musicforprogramming.ipfs
+    picture: /images/musicforprogramming.jpg
+    description: >
+      Inofficial port of musicforprogramming.net.
