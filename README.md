@@ -199,6 +199,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Space](https://space.storage/) - User-owned, encrypted, and open source personal file storage and sharing on IPFS and Textile, with decentralized backups in Filecoin. [Source](https://github.com/FleekHQ/space-web)
 - [Temporal](https://temporal.cloud) - Scalable IPFS Infrastructure with free starter package featuring turnkey APIs, toolkits and storage.
 - [Unstoppable Domains](https://unstoppabledomains.com) - Domains on blockchains
+- [Meson Network](https://meson.network/) - Bandwidth Marketplace
 
 ## Tools
 
