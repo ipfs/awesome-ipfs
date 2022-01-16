@@ -191,3 +191,6 @@ content:
 - title: ipns-pin
   source: https://github.com/justicenode/node-ipns-pin
   description: A command-line tool to pin stuff via ipns.
+- title: rivet
+  source: https://github.com/wabarc/rivet
+  description: A toolkit makes it easier to archive webpages to IPFS.
