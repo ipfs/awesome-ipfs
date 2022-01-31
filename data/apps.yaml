@@ -149,6 +149,11 @@ content:
     description: >
       A booru-style media tagging application and content aggregator
       with all media backed by IPFS.
+  - title: InfinitumX
+    source: https://infinitumx.io
+    picture: /images/infinitumx.png
+    description: >
+      A decentralized "Reddit Place" like board with Harberger's tax as an economical concept & censorship resistance built in.
   - title: InterPlanetary Wayback
     source: https://github.com/oduwsdl/ipwb
     picture: /images/interplanetarywayback.png
