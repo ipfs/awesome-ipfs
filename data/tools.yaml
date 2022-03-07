@@ -28,6 +28,11 @@ content:
   website: https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256
   description: IPFS integration for the Dillo web browser.
   picture: /images/dillo-ipfs.png
+- title: Filebase
+  website: https://filebase.com
+  source: https://github.com/filebase
+  description: >
+    The first S3-compatible object storage platform that allows you to store data across multiple decentralized storage networks including IPFS, Sia, Skynet, and Storj.
 - title: galacteek
   website: https://galacteek.github.io
   source: https://github.com/pinnaculum/galacteek
