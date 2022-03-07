@@ -3,6 +3,9 @@ color: navy
 icon: stroke_pencil
 description: Articles about the decentralized web and IPFS.
 content:
+  - title: "Using Tableland SQL To Track Object Name, Type, and IPFS CID of Objects Stored in an Filebase Bucket"
+    date: "2022-03-02"
+    website: https://filebase.com/blog/using-tableland-sql-to-track-object-name-type-and-ipfs-cid-of-objects-stored-in-an-ipfs-filebase-bucket/
   - title: "How to Create a Unity Game on IPFS using Pinata"
     date: "2020-08-03"
     website: https://medium.com/pinata/how-to-create-a-unity-game-on-ipfs-using-pinata-d0af18a5bd44
