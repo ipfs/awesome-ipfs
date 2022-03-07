@@ -133,11 +133,6 @@ content:
     source: https://github.com/whyrusleeping/git-ipfs-rehost
     description: >
       A script to rehost your git repos in ipfs.
-  - title: Filebase
-    website: https://filebase.com
-    source: https://github.com/filebase
-    description: >
-      The first S3-compatible object storage platform that allows you to store data across multiple decentralized storage networks including IPFS, Sia, Skynet, and Storj.
   - title: Global Upload
     website: https://globalupload.io/
     description: >
