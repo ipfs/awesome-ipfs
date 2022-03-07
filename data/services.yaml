@@ -67,8 +67,3 @@ content:
     picture: /images/spacedark.png
     description: >
       User-owned, encrypted, and open source personal file storage and sharing on IPFS and Textile, with decentralized backups in Filecoin.
-  - title: Filebase
-    website: https://filebase.com
-    source: https://github.com/filebase
-    description: >
-      The first S3-compatible object storage platform that allows you to store data across multiple decentralized storage networks including IPFS, Sia, Skynet, and Storj.
