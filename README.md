@@ -135,6 +135,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Wistful Books](https://wistfulbooks.com/) - Single page offline application for enjoying librivox.org audio books. [Source](https://github.com/smwa/wistfulbooks)
 - [xfce-screenshooter-ipfs-support](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) - A fork of xfce-screenshooter with IPFS support!
 - [youtube2ipfs](https://pypi.org/project/youtube2ipfs/) - Download videos from YouTube (and similar video platforms) and add them to IPFS. [Source](https://github.com/dokterbob/youtube2ipfs)
+- [Meson Network](https://meson.network/) - Bandwidth trading platform built on Blockchain. support ipfs dCDN. [Source](https://github.com/daqnext)
 
 ## Articles
 
