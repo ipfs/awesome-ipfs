@@ -191,3 +191,6 @@ content:
 - title: ipns-pin
   source: https://github.com/justicenode/node-ipns-pin
   description: A command-line tool to pin stuff via ipns.
+- title: Pin with Pinata GitHub Action
+  source: https://github.com/marketplace/actions/pin-with-pinata
+  description: A GitHub Action that uses Pinata to pin files.
