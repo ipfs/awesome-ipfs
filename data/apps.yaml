@@ -3,6 +3,11 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+   - title: Auguron
+    website: https://auguron.com
+    description: >
+      A flutter based app for storing/pinning end to end encrypted files on IPFS. 
+      Cross platform app available on iOS, MacOS, Android, Linux, & Windows.
   - title: Agregore
     website: https://github.com/AgregoreWeb/agregore-browser
     source: https://github.com/AgregoreWeb/agregore-browser
