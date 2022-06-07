@@ -131,3 +131,9 @@ content:
     source: https://github.com/fleschutz/awesome-ipfs
     description: Mirror and archive of 29 established operating systems with 192 releases.
     size: 643GB
+  - title: 'Haiku (Operating System) package repositories'
+    hash: /ipns/hpkg.haiku-os.org
+    website: https://www.haiku-os.org
+    source: https://eu.hpkg.haiku-os.org
+    description: Continiously updated mirror of Haiku and Haikuports package repositories
+    size: 280GiB
