@@ -504,3 +504,9 @@ content:
     picture: /images/terrive.png
     description: >
       A Photo and Video Sharing Platform that uses the HIVE blockchain as a database and Immutable Image/Video Hosting.
+  - title: DScan
+    website: https://chrome.google.com/webstore/detail/dscan-decentralized-qr-co/idpfgkgogjjgklefnkjdpghkifbjenap
+    source: https://github.com/buidltools/dscan
+    picture: /images/dscan.png
+    description: >
+      A chrome extension that uploads the content to IPFS and generates decentralized QR codes.
