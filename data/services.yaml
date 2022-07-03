@@ -27,10 +27,6 @@ content:
     website: https://www.boom.fyi
     picture: /images/boom-fyi.svg
     description: An IPFS link shortening and access control service.
-  - title: Sharp Photos
-    website: https://www.sharpphotos.io/
-    picture: /images/sharp-photos.png
-    description: Private end-to-end encrypted cloud photo storage.
   - title: Temporal
     website: https://temporal.cloud
     picture: /images/temporal.png
@@ -67,8 +63,8 @@ content:
     picture: /images/spacedark.png
     description: >
       User-owned, encrypted, and open source personal file storage and sharing on IPFS and Textile, with decentralized backups in Filecoin. 
-   - title: IPFSBay
+  - title: IPFSBay
     website: https://www.ipfsbay.com
     picture: /images/ipfsbay.png
     description: >
-     Unstoppable marketplace in the IPFS network.
+      Unstoppable marketplace in the IPFS network.

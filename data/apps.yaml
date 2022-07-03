@@ -24,7 +24,7 @@ content:
       Peer to Peer Web Site hosting at your fingertips!
       Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
   - title: SimpleAsWater Bot
-    website: https://simpleaswater.com/ipfs-cluster-twitter-pinbot/
+    website: https://github.com/simpleaswater/twitter-pinbot
     source: https://github.com/simpleaswater/twitter-pinbot
     picture: /images/twitter-bot.png
     description: >
@@ -35,12 +35,6 @@ content:
     picture: /images/cybercongress.png
     description: >
       A decentralized Google alternative, built with the help of IPFS.
-  - title: SimpleID
-    website: https://simpleid.xyz/
-    source: https://github.com/simplesecure/
-    picture: /images/simpleid.svg
-    description: >
-      Developer tools for adding Ethereum authentication and content pinning to your app.
   - title: 2read
     website: https://2read.net/
     source: https://github.com/meehow/2read
@@ -100,10 +94,6 @@ content:
     source: https://diffuse.sh
     description: >
       Play music from your IPFS node, or any other cloud/distributed storage service you use.
-  - title: digx
-    website: https://www.dgx.io/
-    description: >
-      Digix is an asset-tokenisation platform built on Ethereum and IPFS.
   - title: dtube
     website: https://d.tube
     picture: /images/dtube.png
@@ -254,12 +244,6 @@ content:
     description: >
       Uport is a mobile, self-sovereign identity and key management system,
       built on the Ethereum blockchain.
-  - title: gogo.tattoo
-    website: http://gogo.tattoo
-    description: >
-      Gogo Tattoo Project uses IPFS, DLTs and other modern technologies to
-      offer tattoo artists and wearers an unbreakable lifetime record of their portfolios.
-      gogo.tattoo app already has a feature to share works directly to IPFS.
   - title: IPFessay
     website: https://gitlab.com/stavros/IPFessay
     description: >
@@ -306,10 +290,6 @@ content:
     source: https://github.com/OriginProtocol/demo-dapp
     description: >
       Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS.
-  - title: Philes
-    website: https://philes.co
-    source: https://github.com/chrismatthieu/philes
-    description: A simple browser-based IPFS notepad app.
   - title: ipfs-md-wiki
     source: https://github.com/daijiale/ipfs-md-wiki
     description: Build your wiki system base on ipfs and markdown.
@@ -320,10 +300,11 @@ content:
       An Infrastructure: use API and developer tools provide secure, reliable, and
       scalable access to Ethereum and IPFS to help build decentralized application easier.
   - title: OpenBazaar
-    website: https://www.openbazaar.org/
+    website: https://github.com/OpenBazaar
+    source: https://github.com/OpenBazaar
     description: >
-      This new version(v2.0) is built on IPFS, Openbazaar stores can now be accessible
-      to buyers even when they are offline.
+      OpenBazaar was an open source project developing a protocol for
+      e-commerce transactions in a fully decentralized marketplace.
   - title: Peer Bandwidth Demo
     website: https://ipfs.io/ipfs/QmVaVXbLdw4R5NqAiiQoTWtitxo5g7FS31PQmCLbH9p8Fu/
     source: https://github.com/tableflip/ipfs-peer-bw-example
@@ -410,11 +391,6 @@ content:
     source: https://github.com/smwa/wistfulbooks
     description: >
       Single page offline application for enjoying librivox.org audio books.
-  - title: Tree3 Network
-    website: https://tree3.network/
-    source: https://github.com/tree3network/tree3
-    description: >
-      A decentralized platform for micropayments, offchain data and blogging powered by Stellar and IPFS.
   - title: Peergos
     website: https://peergos.org
     source: https://github.com/Peergos/Peergos
@@ -449,8 +425,8 @@ content:
     description: >
       Everforo is the next generation of online community groups build on top of IPFS.
   - title: IPFS-forum
-    website: https://hub.textile.io/ipns/bafzbeib2jvsythibag52rncf56qflqye6iekponbt3u7txcbv2oz45sy5e/index.html
-    source: https://github.com/ReForum-ipfs/ReForum-ipfs
+    website: https://github.com/ReForum-ipfs/ReForum#readme
+    source: https://github.com/ReForum-ipfs/ReForum
     description: >
       A web3 forum.You can get new ideas,reports,dicussions from this forum ,though you maybe are in a network-restricted area,all the contents will be updated qucikly by ipfs.
   - title: Watchit

@@ -125,9 +125,3 @@ content:
     source: https://github.com/syzygy1/tb
     description: Solutions for all chess endgames with up to 7 pieces.
     size: 16.9 TiB
-  - title: 'Operating Systems Mirror & Archive (OSMA)'
-    hash: /ipns/QmRdZ6apYBTXHJ43y3NBKe5GJqdc8q58Pnu3RHSQntXQNP
-    website: http://www.fleschutz.de/Service/OSMA.html
-    source: https://github.com/fleschutz/awesome-ipfs
-    description: Mirror and archive of 29 established operating systems with 192 releases.
-    size: 643GB
