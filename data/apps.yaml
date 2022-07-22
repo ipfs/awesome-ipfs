@@ -480,3 +480,9 @@ content:
     picture: /images/terrive.png
     description: >
       A Photo and Video Sharing Platform that uses the HIVE blockchain as a database and Immutable Image/Video Hosting.
+  - title: AAVE Liquidity Protocol
+    website: https://aave.com/
+    source: https://github.com/aave
+    picture: /images/aave.png
+    description: >
+      Decentralized non-custodial liquidity protocol where users can participate as depositors or borrowers. Available on Ethereum, Avalanche, Polygon, Fantom, Harmony, Optimism, Arbitrum.
