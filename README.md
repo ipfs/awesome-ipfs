@@ -116,6 +116,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Request](https://request.network/) - Decentralized network for financial transactions. [Source](https://github.com/RequestNetwork/requestNetwork)
 - [RocketPad](https://rocketpad.aboutdavid.me/) - Create mini essays/documents using a WYSIWYG editor and publish them to the distributed web via IPFS. [Source](https://github.com/aboutDavid/rocketpad)
 - [SimpleAsWater Bot](https://github.com/simpleaswater/twitter-pinbot) - A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster.
+- [Skiff](https://www.skiff.com) - Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage. [Source](https://github.com/skiff-org/skiff-mail)
 - [Skyhook](https://github.com/deedeecx330/skyhook) - Send and receive files securely
 - [TallyLab](https://tallylab.com/) - Local-first, end-to-end encrypted data diary app for capturing, analyzing, and sharing data about any and everything.
 - [Temporal](https://github.com/RTradeLtd/Temporal) - Temporal is an easy to use API and platform for integrating IPFS and other distributed/decentralized storage technologies into enterprise applications
