@@ -233,6 +233,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [mahuta](https://github.com/ConsenSys/Mahuta) - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
 - [Multiverse](https://github.com/multiverse-vcs/go-multiverse) - Multiverse is a decentralized version control system that enables peer-to-peer software development.
 - [orbit-db](https://github.com/orbitdb/orbit-db) - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
+- [Pin with Pinata GitHub Action](https://github.com/marketplace/actions/pin-with-pinata) - A GitHub Action that uses Pinata to pin files.
 - [pinbot](https://github.com/whyrusleeping/pinbot) - Pin content via IRC
 - [Public gateway status checker](https://ipfs.fooock.com/) - Web app to check public states of IPFS gateways, including latency and gateway writable state. [Source](https://github.com/fooock/ipfs-gateway-checker)
 - [ShareX integration](https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu) - ShareX is a file upload and manipulation tool that has a custom integration with IPFS
