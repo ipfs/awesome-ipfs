@@ -7,8 +7,27 @@ on:
     branches: [ master, main ]
 
 jobs:
+  # Run linting and tests
+  build-and-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 13
+      - uses: ipfs/aegir/actions/cache-node-modules@master
+        with:
+          directories: |
+            README.md
+          build: |
+            npm run build:readme
+          cache_name: readme
+      # aegir/actions/cache-node-modules runs build. We don't need to run it again.
+      - run: npm run lint
+
   update-readme:
     runs-on: ubuntu-latest
+    needs: build-and-lint
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - name: Checkout
@@ -19,10 +38,13 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 13
-      - name: Build the readme
-        run: |
-          npm install
-          npm run build:readme
+      - uses: ipfs/aegir/actions/cache-node-modules@master
+        with:
+          directories: |
+            README.md
+          build: |
+            npm run build:readme
+          cache_name: readme
       - name: Commit updates to README.md
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -35,6 +57,7 @@ jobs:
         with:
           branch: ${{ github.event.pull_request.head.ref }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
   run-danger:
     runs-on: ubuntu-latest
     needs: update-readme
