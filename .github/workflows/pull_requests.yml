@@ -47,8 +47,8 @@ jobs:
           cache_name: readme
       - name: Commit updates to README.md
         run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "108953096+ipfs-gui-bot@users.noreply.github.com"
+          git config --local user.name "ipfs-gui-bot"
           git add README.md
           git commit -m "chore: update README.md" || echo "No changes, skipping commit"
       - name: Push changes
