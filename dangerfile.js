@@ -15,10 +15,10 @@ if (yamlData.edited) {
   /**
    * Only display awesomeBot results if the data yaml used to generate the readme have been modified.
    */
-  if (awesomeBotResults.error) {
-    fail(awesomeBotResults.title)
-    markdown(awesomeBotResults.message)
-  }
+}
+if (awesomeBotResults.error) {
+  fail(awesomeBotResults.title)
+  markdown(awesomeBotResults.message)
 }
 
 if (scripts.edited) {
