@@ -6,17 +6,19 @@ _This list is for projects, tools, or pretty much any things related to IPFS tha
 
 ## Table of Contents
 
-- [Contribute](#contribute-to-this-list)
-- [Collab-Cluster](#collab-cluster)
-- [Apps](#apps)
-- [Articles](#articles)
-- [Datasets](#datasets)
-- [Services](#services)
-- [Tools](#tools)
-- [Videos](#videos)
-- [Discussions](#discussions)
-- [Want to hack on IPFS?](#want-to-hack-on-ipfs)
-- [License](#license)
+- [Awesome IPFS ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-ipfs-)
+  - [Table of Contents](#table-of-contents)
+  - [Contribute to this list!](#contribute-to-this-list)
+  - [Collab-Cluster](#collab-cluster)
+  - [Apps](#apps)
+  - [Articles](#articles)
+  - [Datasets](#datasets)
+  - [Services](#services)
+  - [Tools](#tools)
+  - [Videos](#videos)
+  - [Discussions](#discussions)
+  - [Want to hack on IPFS?](#want-to-hack-on-ipfs)
+  - [License](#license)
 
 ## Contribute to this list!
 
@@ -183,7 +185,6 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [Robonomics Network](https://robonomics.network/) - Ethereum network infrastructure for cyber-physical systems' integration into Smart Cities and Industry 4.0
-- [Space](https://space.storage/) - User-owned, encrypted, and open source personal file storage and sharing on IPFS and Textile, with decentralized backups in Filecoin. [Source](https://github.com/FleekHQ/space-web)
 - [Temporal](https://temporal.cloud) - Scalable IPFS Infrastructure with free starter package featuring turnkey APIs, toolkits and storage.
 - [Unstoppable Domains](https://unstoppabledomains.com) - Domains on blockchains
 
