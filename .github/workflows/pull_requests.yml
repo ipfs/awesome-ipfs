@@ -1,5 +1,5 @@
 
-name: Update README.md when PR is opened, reopened, or on sync
+name: Pull request workflow
 
 on:
   pull_request:
