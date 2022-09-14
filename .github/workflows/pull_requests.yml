@@ -30,3 +30,24 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+  run-danger:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 13
+      - name: Set up Ruby 3.1.2
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1.2
+      - name: Install and run awesome_bot
+        # It's okay for awesome_bot to fail. Danger will post a comment on the PR if it fails.
+        run: |
+          gem install awesome_bot
+          awesome_bot --allow 429 --allow-redirect --allow-dupe --allow-ssl -w ipfs.io README.md || echo
+      - name: Run danger
+        run: npx --yes danger ci
+        env:
+          DANGER_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
