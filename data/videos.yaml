@@ -32,3 +32,7 @@ content:
       A full Training Program to teach devs on how to build for the
       Decentralized Web. The series covers a ton of content, touch multiple
       parts of the IPFS stack and guides devs through building a simple DApp.
+  - title: Fake video for testing
+    website: https://fake.youtube.com/
+    description: >
+      A completely fake entry in order to see if danger and awesome_bot are working properly.
