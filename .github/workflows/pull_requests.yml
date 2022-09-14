@@ -11,8 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: 13
       - name: Build the readme
@@ -34,12 +36,14 @@ jobs:
     runs-on: ubuntu-latest
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: 13
       - name: Set up Ruby 3.1.2
-      - uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.1.2
       - name: Install and run awesome_bot
