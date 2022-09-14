@@ -1,0 +1,32 @@
+
+name: Update README.md when PR is opened, reopened, or on sync
+
+on:
+  pull_request:
+    types: [ opened, synchronize, reopened ]
+    branches: [ master, main ]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 13
+      - name: Build the readme
+        run: |
+          npm install
+          npm run build:readme
+      - name: Commit updates to README.md
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "chore: update README.md" || echo "No changes, skipping commit"
+      - name: Push changes
+        if: success()
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
