@@ -6,19 +6,17 @@ _This list is for projects, tools, or pretty much any things related to IPFS tha
 
 ## Table of Contents
 
-- [Awesome IPFS ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-ipfs-)
-  - [Table of Contents](#table-of-contents)
-  - [Contribute to this list!](#contribute-to-this-list)
-  - [Collab-Cluster](#collab-cluster)
-  - [Apps](#apps)
-  - [Articles](#articles)
-  - [Datasets](#datasets)
-  - [Services](#services)
-  - [Tools](#tools)
-  - [Videos](#videos)
-  - [Discussions](#discussions)
-  - [Want to hack on IPFS?](#want-to-hack-on-ipfs)
-  - [License](#license)
+- [Contribute](#contribute-to-this-list)
+- [Collab-Cluster](#collab-cluster)
+- [Apps](#apps)
+- [Articles](#articles)
+- [Datasets](#datasets)
+- [Services](#services)
+- [Tools](#tools)
+- [Videos](#videos)
+- [Discussions](#discussions)
+- [Want to hack on IPFS?](#want-to-hack-on-ipfs)
+- [License](#license)
 
 ## Contribute to this list!
 
