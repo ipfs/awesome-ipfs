@@ -29,12 +29,6 @@ content:
     picture: /images/twitter-bot.png
     description: >
       A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster.
-  - title: Cyber
-    website: https://cyber.page
-    source: https://github.com/cybercongress
-    picture: /images/cybercongress.png
-    description: >
-      A decentralized Google alternative, built with the help of IPFS.
   - title: 2read
     website: https://2read.net/
     source: https://github.com/meehow/2read
@@ -133,12 +127,6 @@ content:
     description: >
       A booru-style media tagging application with a multitude of features,
       recently added basic ipfs support.
-  - title: InfiniteBooru
-    source: https://infinitebooru.com
-    picture: /images/infinitebooru.png
-    description: >
-      A booru-style media tagging application and content aggregator
-      with all media backed by IPFS.
   - title: InterPlanetary Wayback
     source: https://github.com/oduwsdl/ipwb
     picture: /images/interplanetarywayback.png
@@ -435,12 +423,6 @@ content:
     picture: /images/watchit.png
     description: >
       A movie platform with a decentralized network approach.
-  - title: RocketPad
-    website: https://rocketpad.aboutdavid.me/
-    picture: /images/rocketpad.png
-    source: https://github.com/aboutDavid/rocketpad
-    description: >
-      Create mini essays/documents using a WYSIWYG editor and publish them to the distributed web via IPFS.
   - title: La Marque
     website: https://marque.la/
     picture: /images/lamarque.png
@@ -463,11 +445,6 @@ content:
     picture: /images/p2pdoc.png
     description: >
       P2Pdoc allows you to create a document and then upload it to the distributed web.
-  - title: DreamLink
-    website: https://www.dreamlink.cloud/
-    source: https://github.com/opendreamnet/dreamlink.cloud
-    description: >
-      Share files easily and quickly on the decentralized network.
   - title: Valist
     website: https://valist.io
     source: https://github.com/valist-io/valist
@@ -486,4 +463,3 @@ content:
     picture: /images/skiff.png
     description: >
       Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
-  
