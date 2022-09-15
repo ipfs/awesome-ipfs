@@ -32,3 +32,8 @@ content:
       A full Training Program to teach devs on how to build for the
       Decentralized Web. The series covers a ton of content, touch multiple
       parts of the IPFS stack and guides devs through building a simple DApp.
+  - title: Demo for PR #428
+    website: https://github.com/ipfs/awesome-ipfs/pull/428
+    description: >
+      A temporary modification to a data/videos.yaml file to test danger-js
+      adding a comment to the PR https://github.com/ipfs/awesome-ipfs/pull/428
