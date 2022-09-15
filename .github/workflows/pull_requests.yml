@@ -50,13 +50,7 @@ jobs:
           git config --local user.email "108953096+ipfs-gui-bot@users.noreply.github.com"
           git config --local user.name "ipfs-gui-bot"
           git add README.md
-          git commit -m "chore: update README.md" || echo "No changes, skipping commit"
-      - name: Push changes
-        if: success()
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          branch: ${{ github.event.pull_request.head.ref }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git commit -m "chore: update README.md" && git push || echo "No changes, skipping commit"
 
   run-danger:
     runs-on: ubuntu-latest
