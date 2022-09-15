@@ -127,12 +127,6 @@ content:
     description: >
       A booru-style media tagging application with a multitude of features,
       recently added basic ipfs support.
-  - title: InfiniteBooru
-    source: https://infinitebooru.com
-    picture: /images/infinitebooru.png
-    description: >
-      A booru-style media tagging application and content aggregator
-      with all media backed by IPFS.
   - title: InterPlanetary Wayback
     source: https://github.com/oduwsdl/ipwb
     picture: /images/interplanetarywayback.png
@@ -463,3 +457,9 @@ content:
     picture: /images/terrive.png
     description: >
       A Photo and Video Sharing Platform that uses the HIVE blockchain as a database and Immutable Image/Video Hosting.
+  - title: Skiff
+    website: https://www.skiff.com
+    source: https://github.com/skiff-org/skiff-mail
+    picture: /images/skiff.png
+    description: >
+      Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
