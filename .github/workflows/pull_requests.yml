@@ -25,36 +25,9 @@ jobs:
       # aegir/actions/cache-node-modules runs build. We don't need to run it again.
       - run: npm run lint
 
-  update-readme:
-    runs-on: ubuntu-latest
-    needs: build-and-lint
-    if: "!contains(github.event.head_commit.message, '[skip ci]')"
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          ref: ${{ github.event.pull_request.head.ref }}
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 13
-      - uses: ipfs/aegir/actions/cache-node-modules@master
-        with:
-          directories: |
-            README.md
-          build: |
-            npm run build:readme
-          cache_name: readme
-      - name: Commit updates to README.md
-        run: |
-          git config --local user.email "108953096+ipfs-gui-bot@users.noreply.github.com"
-          git config --local user.name "ipfs-gui-bot"
-          git add README.md
-          git commit -m "chore: update README.md" && git push || echo "No changes, skipping commit"
-
   run-danger:
     runs-on: ubuntu-latest
-    needs: update-readme
+    needs: build-and-lint
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - name: Checkout
@@ -69,12 +42,19 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.1.2
+      - uses: ipfs/aegir/actions/cache-node-modules@master
+        with:
+          directories: |
+            README.md
+          build: |
+            npm run build:readme
+          cache_name: readme
       - name: Install and run awesome_bot
         # It's okay for awesome_bot to fail. Danger will post a comment on the PR if it fails.
         run: |
           gem install awesome_bot
           awesome_bot --allow 429 --allow-redirect --allow-dupe --allow-ssl -w ipfs.io README.md || echo
       - name: Run danger
-        run: npx --yes danger ci
+        run: npm run ci:danger
         env:
           DANGER_GITHUB_API_TOKEN: ${{ secrets.DANGER_GITHUB_API_TOKEN }}

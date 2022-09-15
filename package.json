@@ -18,7 +18,8 @@
     "build:css": "postcss --no-map --use postcss-import cssnano -o src/static/app.css src/css/*.css",
     "build:js": "browserify -g uglifyify src/js/app.js -o src/static/app.js",
     "build:data": "node ./scripts/make-data.js",
-    "build:hugo": "hugo -s src -d ../public --cleanDestinationDir --minify --gc"
+    "build:hugo": "hugo -s src -d ../public --cleanDestinationDir --minify --gc",
+    "ci:danger": "danger ci"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.2",
