@@ -1,8 +1,9 @@
-baseurl: ''
+baseurl: 'https://awesome.ipfs.tech'
 relativeurls: true
 languageCode: en
 pluralizelisttitles: false
 removePathAccents: true
+canonifyURLs: true
 title: Awesome IPFS
 
 disableKinds:
