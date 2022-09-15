@@ -243,7 +243,6 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 
 ## Videos
 
-- [Demo for PR](https://github.com/ipfs/awesome-ipfs/pull/428) - A temporary modification to a data/videos.yaml file to test danger-js adding a comment to the PR https://github.com/ipfs/awesome-ipfs/pull/428
 - [Distributed Apps with IPFS - Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w) - This talk breaks down how to build a dynamic app on top of IPFS with CRDTs, pub/sub, and slick UIs. It also delves into new models for distributed computation, and the ethical importance of distributing the web.
 - [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) 
 - [IPFS Simply Explained](https://www.youtube.com/watch?v=5Uj6uR3fp-U) - Let's take a look at how IPFS works, how it can solve issue's like censorship and if it would really work across multiple planets!
