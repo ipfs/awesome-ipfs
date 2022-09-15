@@ -1,0 +1,82 @@
+name: Open a PR to remove broken links on a schedule
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: '0 0 * * *'
+
+jobs:
+  check-for-broken-links:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 13
+
+    - uses: ipfs/aegir/actions/cache-node-modules@master
+      with:
+        directories: |
+          README.md
+        build: |
+          npm run build:readme
+        cache_name: readme
+
+    - name: Set up Ruby 3.1.2
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.1.2
+
+    - name: Install and run awesome_bot
+      run: |
+        gem install awesome_bot
+        awesome_bot --allow 429 --allow-redirect --allow-dupe --allow-ssl -w ipfs.io README.md || echo
+
+    - name: Remove broken links
+      run: |
+        node scripts/remove-broken-links.js
+
+    - uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80
+      with:
+        # Optional. Commit message for the created commit.
+        # Defaults to "Apply automatic changes"
+        commit_message: "chore: Remove broken links"
+
+        # Optional. Local and remote branch name where commit is going to be pushed
+        #  to. Defaults to the current branch.
+        #  You might need to set `create_branch: true` if the branch does not exist.
+        branch: remove-broken-links-${{ github.run_id }}
+
+        commit_options: '--no-verify --signoff'
+
+        # Optional glob pattern of files which should be added to the commit
+        # Defaults to all (.)
+        # See the `pathspec`-documentation for git
+        # - https://git-scm.com/docs/git-add#Documentation/git-add.txt-ltpathspecgt82308203
+        # - https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpathspecapathspec
+        file_pattern: data/*
+        repository: .
+        add_options: '-A'
+        push_options: '--force'
+        skip_dirty_check: true
+        skip_fetch: true
+        skip_checkout: true
+        disable_globbing: true
+        create_branch: true
+
+    - name: pull-request
+      uses: repo-sync/pull-request@65785d95a5a466e46a9d0708933a3bd51bbf9dde
+      with:
+        source_branch: "remove-broken-links-${{ github.run_id }}"
+        destination_branch: "master"
+        pr_title: "chore: Remove broken links"
+        pr_body: "Automated PR created by .github/workflows/broken_link_cron.yml"
+        pr_label: "kind/maintenance"
+        pr_draft: false
+        pr_allow_empty: false
+        github_token: ${{ secrets.GITHUB_TOKEN }}
