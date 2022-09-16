@@ -41,6 +41,8 @@ jobs:
       id: remove-broken-links
       run: |
         node scripts/remove-broken-links.js
+        git ls-files -m
+        git diff --name-only | cat
         num_changed_files=$(git ls-files -m | wc -l | tr -d ' ')
         echo "num_changed_files='$num_changed_files'"
         echo "::set-output name=changed_files::$num_changed_files"
