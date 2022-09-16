@@ -25,4 +25,6 @@ if (markdownTable.error) {
       await fs.writeFile(filePath, fileContents, 'utf8')
     }
   })()
+} else {
+  console.log('No errors reported by awesome_bot.')
 }

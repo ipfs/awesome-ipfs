@@ -38,10 +38,17 @@ jobs:
         awesome_bot --allow 429 --allow-redirect --allow-dupe --allow-ssl -w ipfs.io README.md || echo
 
     - name: Remove broken links
+      id: remove-broken-links
       run: |
         node scripts/remove-broken-links.js
+        echo "Changed files:"
+        git ls-files -m
+        changed_data_files_count=$(git ls-files -m data | wc -l | tr -d ' ')
+        echo "changed_data_files_count='$changed_data_files_count'"
+        echo "::set-output name=changed_files::$changed_data_files_count"
 
     - uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80
+      if: steps.remove-broken-links.outputs.changed_data_files_count > 0
       with:
         # Optional. Commit message for the created commit.
         # Defaults to "Apply automatic changes"
@@ -70,6 +77,7 @@ jobs:
         create_branch: true
 
     - name: pull-request
+      if: steps.remove-broken-links.outputs.changed_data_files_count > 0
       uses: repo-sync/pull-request@65785d95a5a466e46a9d0708933a3bd51bbf9dde
       with:
         source_branch: "remove-broken-links-${{ github.run_id }}"
