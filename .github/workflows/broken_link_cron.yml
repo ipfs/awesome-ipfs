@@ -88,7 +88,7 @@ jobs:
         new_branch: remove-broken-links
         message: 'chore: Remove broken links'
         push: 'origin remove-broken-links --set-upstream --force'
-        pull: '--rebase --autostash'
+        # pull: '--rebase --autostash'
         author_name: 'GitHub Action'
         author_email: 'action@github.com'
 
