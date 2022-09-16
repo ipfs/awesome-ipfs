@@ -88,6 +88,9 @@ jobs:
         new_branch: remove-broken-links
         message: 'chore: Remove broken links'
         push: 'origin remove-broken-links --set-upstream --force'
+        pull: '--rebase --autostash'
+        author_name: 'GitHub Action'
+        author_email: 'action@github.com'
 
     # - name: Create Pull Request
     #   if: steps.remove-broken-links.outputs.changed_data_files_count != 0
