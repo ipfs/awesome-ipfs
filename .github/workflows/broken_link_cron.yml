@@ -41,7 +41,7 @@ jobs:
       id: remove-broken-links
       run: |
         node scripts/remove-broken-links.js
-        changed_files=$(git ls-files -m | wc -l)
+        changed_files=$(git ls-files -m | wc -l | tr -d ' ')
         echo "::set-output name=changed_files::$changed_files"
 
     - uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80
