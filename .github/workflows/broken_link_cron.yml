@@ -41,11 +41,12 @@ jobs:
       id: remove-broken-links
       run: |
         node scripts/remove-broken-links.js
-        changed_files=$(git ls-files -m | wc -l | tr -d ' ')
-        echo "::set-output name=changed_files::$changed_files"
+        num_changed_files=$(git ls-files -m | wc -l | tr -d ' ')
+        echo "num_changed_files='$num_changed_files'"
+        echo "::set-output name=changed_files::$num_changed_files"
 
     - uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80
-      if: ${{ steps.remove-broken-links.outputs.changed_files != '0' }}
+      if: steps.remove-broken-links.outputs.changed_files != '0'
       with:
         # Optional. Commit message for the created commit.
         # Defaults to "Apply automatic changes"
@@ -74,7 +75,7 @@ jobs:
         create_branch: true
 
     - name: pull-request
-      if: ${{ steps.remove-broken-links.outputs.changed_files != '0' }}
+      if: steps.remove-broken-links.outputs.changed_files != '0'
       uses: repo-sync/pull-request@65785d95a5a466e46a9d0708933a3bd51bbf9dde
       with:
         source_branch: "remove-broken-links-${{ github.run_id }}"
