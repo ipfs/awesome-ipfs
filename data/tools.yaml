@@ -186,3 +186,7 @@ content:
 - title: ipns-pin
   source: https://github.com/justicenode/node-ipns-pin
   description: A command-line tool to pin stuff via ipns.
+- title: ipfs-encrypted-share
+  picture: /images/ipfs-encrypted-share.png
+  source: https://github.com/whs/ipfs-encrypted-share
+  description: Easy to use encrypted file uploader.
