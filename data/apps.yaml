@@ -463,8 +463,3 @@ content:
     picture: /images/skiff.png
     description: >
       Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
-  - title: Broken entry for test/broken-links-PR-creation
-    website: 
-    source: 
-    description: >
-      Testing whether .github/workflows/broken_link_cron.yml will open a PR for a broken link.
