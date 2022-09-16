@@ -5,12 +5,13 @@ on:
   schedule:
   - cron: '0 0 * * *'
 
+permissions:
+  issues: write
+  pull-requests: write
+
 jobs:
   check-for-broken-links:
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      pull-requests: write
 
     steps:
     - uses: actions/checkout@v3
