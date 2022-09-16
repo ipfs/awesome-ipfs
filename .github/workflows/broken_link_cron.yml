@@ -13,8 +13,12 @@ jobs:
   check-for-broken-links:
     runs-on: ubuntu-latest
 
+    # see https://github.com/ad-m/github-push-action#example-workflow-file
     steps:
     - uses: actions/checkout@v3
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
     - uses: actions/setup-node@v3
       with:
@@ -48,40 +52,63 @@ jobs:
         echo "changed_data_files_count='$changed_data_files_count'"
         echo "::set-output name=changed_data_files_count::$changed_data_files_count"
 
-    - uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80
+      # git checkout -b remove-broken-links || git branch remove-broken-links
+    - name: Commit changes
       if: steps.remove-broken-links.outputs.changed_data_files_count != 0
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add data
+        git commit -m "chore: Remove broken links"
+
+    - uses: peterjgrainger/action-create-branch@c2800a3a9edbba2218da6861fa46496cf8f3195a # v2.2.0 - https://github.com/peterjgrainger/action-create-branch/commit/c2800a3a9edbba2218da6861fa46496cf8f3195a
+      if: steps.remove-broken-links.outputs.changed_data_files_count != 0
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        # Optional. Commit message for the created commit.
-        # Defaults to "Apply automatic changes"
-        commit_message: "chore: Remove broken links"
+        branch: 'remove-broken-links'
+        sha: '${{ github.sha }}'
 
-        # Optional. Local and remote branch name where commit is going to be pushed
-        #  to. Defaults to the current branch.
-        #  You might need to set `create_branch: true` if the branch does not exist.
-        branch: remove-broken-links-${{ github.run_id }}
+    - name: Push changes
+      if: steps.remove-broken-links.outputs.changed_data_files_count != 0
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: remove-broken-links
+    # - uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80
+    #   if: steps.remove-broken-links.outputs.changed_data_files_count != 0
+    #   with:
+    #     # Optional. Commit message for the created commit.
+    #     # Defaults to "Apply automatic changes"
+    #     commit_message: "chore: Remove broken links"
 
-        commit_options: '--no-verify --signoff'
+    #     # Optional. Local and remote branch name where commit is going to be pushed
+    #     #  to. Defaults to the current branch.
+    #     #  You might need to set `create_branch: true` if the branch does not exist.
+    #     branch: remove-broken-links-${{ github.run_id }}
 
-        # Optional glob pattern of files which should be added to the commit
-        # Defaults to all (.)
-        # See the `pathspec`-documentation for git
-        # - https://git-scm.com/docs/git-add#Documentation/git-add.txt-ltpathspecgt82308203
-        # - https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpathspecapathspec
-        file_pattern: data/*
-        repository: .
-        add_options: '-A'
-        push_options: '--force'
-        skip_dirty_check: true
-        skip_fetch: true
-        skip_checkout: true
-        disable_globbing: true
-        create_branch: true
+    #     commit_options: '--no-verify --signoff'
+
+    #     # Optional glob pattern of files which should be added to the commit
+    #     # Defaults to all (.)
+    #     # See the `pathspec`-documentation for git
+    #     # - https://git-scm.com/docs/git-add#Documentation/git-add.txt-ltpathspecgt82308203
+    #     # - https://git-scm.com/docs/gitglossary#Documentation/gitglossary.txt-aiddefpathspecapathspec
+    #     file_pattern: data/*
+    #     repository: .
+    #     add_options: '-A'
+    #     push_options: '--force'
+    #     skip_dirty_check: true
+    #     skip_fetch: true
+    #     skip_checkout: true
+    #     disable_globbing: true
+    #     create_branch: true
 
     - name: pull-request
       if: steps.remove-broken-links.outputs.changed_data_files_count != 0
       uses: repo-sync/pull-request@65785d95a5a466e46a9d0708933a3bd51bbf9dde
       with:
-        source_branch: "remove-broken-links-${{ github.run_id }}"
+        source_branch: "remove-broken-links"
         destination_branch: "test/broken-links-PR-creation"
         pr_title: "chore: Remove broken links"
         pr_body: "Automated PR created by .github/workflows/broken_link_cron.yml"
