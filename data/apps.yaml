@@ -464,7 +464,7 @@ content:
     description: >
       Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
   - title: Broken entry for test/broken-links-PR-creation
-    website: https://broken.sgtpooki.com/
-    source: https://github.com/sgtpooki/broken
+    website: 
+    source: 
     description: >
       Testing whether .github/workflows/broken_link_cron.yml will open a PR for a broken link.
