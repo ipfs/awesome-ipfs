@@ -12,6 +12,8 @@ permissions:
 jobs:
   check-for-broken-links:
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
 
     # see https://github.com/ad-m/github-push-action#example-workflow-file
     steps:
@@ -37,7 +39,19 @@ jobs:
       with:
         ruby-version: 3.1.2
 
+    # Cache the files created by awesome_bot
+    - name: Cache awesome_bot files
+      uses: actions/cache@v3
+      id: awesome_bot_cache
+      with:
+        path: |
+          ab-results-README.md-filtered.json
+          ab-results-README.md-markdown-table.json
+          ab-results-README.md.json
+        key: ${{ runner.os }}-awesome_bot-${{ hashFiles('README.md') }}
+
     - name: Install and run awesome_bot
+      if: steps.awesome_bot_cache.outputs.cache-hit != 'true'
       run: |
         gem install awesome_bot
         awesome_bot --allow 429 --allow-redirect --allow-dupe --allow-ssl -w ipfs.io README.md || echo
