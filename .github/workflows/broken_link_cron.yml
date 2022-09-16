@@ -18,6 +18,8 @@ jobs:
     # see https://github.com/ad-m/github-push-action#example-workflow-file
     steps:
     - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.REMOVE_BROKEN_LINKS_GH_TOKEN }}
       # with:
       #   persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
       #   fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
@@ -89,8 +91,8 @@ jobs:
         message: 'chore: Remove broken links'
         push: 'origin remove-broken-links --set-upstream --force'
         # pull: '--rebase --autostash'
-        author_name: 'GitHub Action'
-        author_email: 'action@github.com'
+        author_name: 'ipfs-gui-bot'
+        author_email: '108953096+ipfs-gui-bot@users.noreply.github.com'
 
     # - name: Create Pull Request
     #   if: steps.remove-broken-links.outputs.changed_data_files_count != 0
