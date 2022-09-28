@@ -173,6 +173,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 ## Services
 
 - [Boom.FYI](https://www.boom.fyi) - An IPFS link shortening and access control service.
+- [Crust Network](https://crust.network) - Decentralized pinning and gateway service for IPFS.
 - [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
 - [Fission](https://fission.codes) - App and website hosting powered by IPFS, including DNS automation, identity, and end-to-end encryption.
 - [Fleek](http://fleek.co/) - Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer. [Source](https://github.com/FleekHQ)
