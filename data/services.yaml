@@ -57,3 +57,8 @@ content:
     picture: /images/ipfsbay.png
     description: >
       Unstoppable marketplace in the IPFS network.
+  - title: Crust Network
+    website: https://crust.network
+    picture: /images/crustnetwork.png
+    description: >
+      Decentralized pinning and gateway service for IPFS.
