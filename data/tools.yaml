@@ -23,11 +23,6 @@ content:
 - title: gatsby-plugin-ipfs
   source: https://github.com/moxystudio/gatsby-plugin-ipfs
   description: Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
-- title: dillo-ipfs
-  source: https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256
-  website: https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256
-  description: IPFS integration for the Dillo web browser.
-  picture: /images/dillo-ipfs.png
 - title: galacteek
   website: https://galacteek.github.io
   source: https://github.com/pinnaculum/galacteek
@@ -171,11 +166,6 @@ content:
   website: https://github.com/ipfs-shipyard/gomobile-ipfs
   source: https://github.com/ipfs-shipyard/gomobile-ipfs
   description: IPFS and libp2p on Mobile, with Gomobile
-- title: Image Sever
-  website: https://imageserver.link
-  source: https://github.com/ekumahost/ImageServer
-  description: Upload Images via JSON HTTP API; URI, URL, File and Base64
-  picture: /images/image-server.png
 - title: Multiverse
   source: https://github.com/multiverse-vcs/go-multiverse
   description: Multiverse is a decentralized version control system that enables peer-to-peer software development.
@@ -191,6 +181,10 @@ content:
 - title: ipns-pin
   source: https://github.com/justicenode/node-ipns-pin
   description: A command-line tool to pin stuff via ipns.
+- title: ipfs-encrypted-share
+  picture: /images/ipfs-encrypted-share.png
+  source: https://github.com/whs/ipfs-encrypted-share
+  description: Easy to use encrypted file uploader.
 - title: rivet
   source: https://github.com/wabarc/rivet
   description: A toolkit makes it easier to archive webpages to IPFS.
