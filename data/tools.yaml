@@ -185,3 +185,6 @@ content:
   picture: /images/ipfs-encrypted-share.png
   source: https://github.com/whs/ipfs-encrypted-share
   description: Easy to use encrypted file uploader.
+- title: Pin with Pinata GitHub Action
+  source: https://github.com/marketplace/actions/pin-with-pinata
+  description: A GitHub Action that uses Pinata to pin files.
