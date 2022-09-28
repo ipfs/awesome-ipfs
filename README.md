@@ -46,6 +46,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [Source](https://github.com/fazo96/ipfs-boards)
 - [brig](https://brig.readthedocs.io/en/latest) - File synchronization with git like interface and FUSE filesystem. [Source](https://github.com/sahib/brig)
 - [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
+- [CoTNetwork](http://www.cotnetwork.com) - A distributed computing network base on ipfs
 - [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 - [DeCommerce](https://www.ivyca.com/decommerce/) - Decentralized ecommerce for Web3. Allows people to transact business without middlemen.  No Middleman, no Bank, no Big Tech, no Government.
 - [Diffuse](https://diffuse.sh) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
