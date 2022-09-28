@@ -47,6 +47,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [brig](https://brig.readthedocs.io/en/latest) - File synchronization with git like interface and FUSE filesystem. [Source](https://github.com/sahib/brig)
 - [Cohort](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
 - [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
+- [DeCommerce](https://www.ivyca.com/decommerce/) - Decentralized ecommerce for Web3. Allows people to transact business without middlemen.  No Middleman, no Bank, no Big Tech, no Government.
 - [Diffuse](https://diffuse.sh) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
 - [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) - Discussify provides a real-time, peer to peer, and permanent discussion platform for anyone to join and participate.
 - [DtinyUrl](https://github.com/facert/dtinyurl) - Decentralized URL shortening service based on IPFS.
@@ -150,6 +151,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [7-piece Syzygy tablebases](https://syzygy-tables.info/) - Solutions for all chess endgames with up to 7 pieces. [Source](https://github.com/syzygy1/tb)
 - [alpine-linux 3.4 packages](https://ipfs.io/ipfs/QmRsvEpJggeu4HhoafzRFobV4sbwVVTXMrdb2p8XWv7bCS)  [Source](https://github.com/ipfs/archives/issues/83)
 - [arXiv](https://ipfs.io/ipfs/QmfXH9XtP7xmoTH8WAp4HNSduqWMwLTH8B8TvbTkdgzNAa)  [Source](https://github.com/ipfs/archives/issues/2)
+- [Brainwash Dataset](https://purl.stanford.edu/sx925dc9385) - Stewart, Russell. (2015). Brainwash dataset.
 - [cdn.media.ccc.de](https://ipfs.io/ipfs/QmW84mqTYnCkRTy6VeRJebPWuuk8b27PJ4bWm2bL4nrEWb)  [Source](https://github.com/ipfs/archives/issues/52)
 - [cdnjs](https://ipfs.io/ipfs/QmRrnfFUgx81KZR9ibEcxDXgevoj9e5DydB5v168yembnX)  [Source](https://github.com/ipfs/archives/issues/35)
 - [Cooking Recipes](https://ipfs.io/ipfs/QmTXo6GforwsuGAd8behjgvKCsMMBdG1xMZJF4qa9W7CHB) - Around 50GB of formatted and unformatted cooking recipes. [Source](https://old.reddit.com/r/opendirectories/comments/dsznin/50_gb_directory_of_cooking_recipes/)
@@ -188,7 +190,6 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) - Monitor the current block number of the Ethereum blockchain, and set alerts (stored locally using PouchDB in your browser) for when certain block heights are passed. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
 - [Bubble IPFS From URL Plugin](https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500) - Bubble (no code platform) plugin for IPFS From URL integration
 - [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
-- [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) - IPFS integration for the Dillo web browser.
 - [galacteek](https://galacteek.github.io) - A multi-platform Qt5-based browser for the distributed web [Source](https://github.com/pinnaculum/galacteek)
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
 - [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
