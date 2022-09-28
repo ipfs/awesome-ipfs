@@ -474,3 +474,9 @@ content:
     picture: /images/cotnetwork.png
     description: >
       A distributed computing network base on ipfs
+  - title: Music For Programming
+    website: https://ipfs.io/ipns/mfp.jillejr.tech
+    source: https://github.com/jilleJr/musicforprogramming.ipfs
+    picture: /images/musicforprogramming.jpg
+    description: >
+      Unofficial port of musicforprogramming.net.
