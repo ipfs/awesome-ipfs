@@ -235,6 +235,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux [Source](https://github.com/Siderus/Orion)
 - [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) - Full node for Android
 - [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase
+- [VIPFS](https://github.com/Ideea-inc/vipfs) - Publish your Vue apps easily to IPFS
 - [wbipfs](https://github.com/wabarc/wbipfs) - A command-line tool and Go package interface for wayback webpage to IPFS.
 
 ## Videos
