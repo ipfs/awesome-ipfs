@@ -107,6 +107,12 @@ content:
     source: https://github.com/ipfs/archives/issues/172
     description:
     size: 30GB
+  - title: Brainwash Dataset
+    hash: /ipfs/QmZ8BpYCtcPeA5g6uXciNXN395WeqZYNVNvz4xvBxsfxqy
+    website: https://purl.stanford.edu/sx925dc9385
+    source: https://purl.stanford.edu/sx925dc9385
+    description: Stewart, Russell. (2015). Brainwash dataset.
+    size: 4GB
   - title:  'WistfulBooks: LibriVox Audiobook Archive'
     hash: /ipfs/QmXyNMhV8bQFp6wzoVpkz3NqDi7Fj72Deg7KphAuew3RYU
     website: https://wistfulbooks.com
