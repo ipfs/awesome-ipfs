@@ -18,13 +18,15 @@
     "build:css": "postcss --no-map --use postcss-import cssnano -o src/static/app.css src/css/*.css",
     "build:js": "browserify -g uglifyify src/js/app.js -o src/static/app.js",
     "build:data": "node ./scripts/make-data.js",
-    "build:hugo": "hugo -s src -d ../public --cleanDestinationDir --minify --gc"
+    "build:hugo": "hugo -s src -d ../public --cleanDestinationDir --minify --gc",
+    "ci:danger": "danger ci"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.2",
     "browserify": "^16.3.0",
     "chokidar": "^3.0.2",
     "cssnano": "^4.1.10",
+    "danger": "^11.1.2",
     "ecstatic": "^4.1.2",
     "fs-extra": "^8.1.0",
     "hugo-bin": "^0.43.6",
