@@ -2,7 +2,7 @@
 name: Pull request workflow
 
 on:
-  pull_request:
+  pull_request_target:
     types: [ opened, synchronize, reopened ]
     branches: [ master, main ]
 
