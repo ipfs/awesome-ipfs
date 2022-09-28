@@ -92,6 +92,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [La Marque](https://marque.la/) - Generate & pin content from your phone. Validate "La Marque" assets by verifying received images from others.
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Source](https://github.com/davidar/markup.rocks)
 - [Minerva](https://github.com/bdchain/Minerva) - Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.
+- [Music For Programming](https://ipfs.io/ipns/mfp.jillejr.tech) - Unofficial port of musicforprogramming.net. [Source](https://github.com/jilleJr/musicforprogramming.ipfs)
 - [OpenBazaar](https://github.com/OpenBazaar) - OpenBazaar was an open source project developing a protocol for e-commerce transactions in a fully decentralized marketplace.
 - [Orbit](https://orbit.chat) - Distributed, peer-to-peer chat application on IPFS. [Source](https://github.com/haadcode/orbit)
 - [Origin Protocol](https://demo.originprotocol.com/) - Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS. [Source](https://github.com/OriginProtocol/demo-dapp)
