@@ -27,10 +27,6 @@ content:
     website: https://www.boom.fyi
     picture: /images/boom-fyi.svg
     description: An IPFS link shortening and access control service.
-  - title: Sharp Photos
-    website: https://www.sharpphotos.io/
-    picture: /images/sharp-photos.png
-    description: Private end-to-end encrypted cloud photo storage.
   - title: Temporal
     website: https://temporal.cloud
     picture: /images/temporal.png
@@ -45,11 +41,6 @@ content:
     picture: /images/fission500px.png
     description: >
       App and website hosting powered by IPFS, including DNS automation, identity, and end-to-end encryption.
-  - title: DWS
-    website: https://dws.datochain.com/
-    picture: /images/dws500px.png
-    description: >
-      Deploy modern static websites with DWS and Enjoy secure and decentralized storage on IPFS.
   - title: Monaparty
     website: https://www.monaparty.me/
     picture: /images/monaparty.png
@@ -61,9 +52,8 @@ content:
     picture: /images/darkfleek.png
     description: >
       Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer.
-  - title: Space
-    website: https://space.storage/
-    source: https://github.com/FleekHQ/space-web
-    picture: /images/spacedark.png
+  - title: IPFSBay
+    website: https://www.ipfsbay.com
+    picture: /images/ipfsbay.png
     description: >
-      User-owned, encrypted, and open source personal file storage and sharing on IPFS and Textile, with decentralized backups in Filecoin.
+      Unstoppable marketplace in the IPFS network.
