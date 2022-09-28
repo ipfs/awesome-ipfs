@@ -1,6 +1,6 @@
 build:
 	npm --version
 	node --version
-	npm install
+	npm ci
 	npm run lint
 	npm run build

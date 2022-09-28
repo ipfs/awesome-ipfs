@@ -1,19 +1,28 @@
 {{ define "text" }}
-<p class="f6 lh-copy mw5 mt2 mb0 mid-gray">
-  {{- . -}}
+<p class="f6 lh-copy mt2 mb0 mid-gray" style="word-break: break-word">
+  {{- markdownify . -}}
 </p>
 {{ end }}
 
-<div class="ma2 dn" id="search">
+{{ define "hash" }}
+<a href="https://ipfs.io{{ . }}" target="_blank" alt="Website" title="Website" class="aqua hover-teal">
+  <abbr title="{{ . }}">
+    {{ $length := sub (len .) 5 }}
+    <code>{{ substr . 0 10 }}...{{ substr . $length 5 }}</code>
+  </abbr>
+</a>
+{{ end }}
+
+<div class="mv2 dn" id="search">
   <input
     placeholder="Find your awesome app..."
     class="input-reset outline-0 bn pa3 mb2 db w-100 center focus-outline dn"
     type="text" />
 </div>
 
-<main class="CardContainer mv4 flex flex-wrap justify-between" >
+<main class="CardContainer mv4" >
   {{ range (sort .Params.content "index") -}}
-  <article data-ref="{{ .index }}" class="Card flex flex-column bg-white shadow-4 grow2 br1 dark-gray b--black-10 flex-grow-1 ma2">
+  <article data-ref="{{ .index }}" class="Card dib bg-white shadow-4 br1 dark-gray b--black-10 ma2">
     <div class="bg-navy ttu fw6 tracked montserrat bg-{{ .color }}-muted br1 br--top white pv1 ph2 ph3-ns f7 b w-100">
       {{ humanize .category }}
     </div>
@@ -22,7 +31,7 @@
       <div class="dt w-100 mt1">
         <div class="dtc">
           <a target="_blank" class="no-underline charcoal" href="{{ if .website }}{{ .website }}{{ else if .source }}{{ .source }}{{ else if .demo }}{{ .demo }}{{ end }}">
-            <h1 class="f5 mw5 f4-ns mv0">{{- .title -}}</h1>
+            <h1 class="f5 f4-ns mv0">{{- .title -}}</h1>
           </a>
         </div>
       </div>
@@ -40,18 +49,13 @@
       {{- end -}}
 
       {{- if isset . "hash" -}}
-        <div class="mt2 mw5">
-          <a href="https://ipfs.io{{ .hash }}" target="_blank" alt="Website" title="Website" class="aqua hover-teal">
-            <abbr title="{{ .hash }}">
-              {{ $length := sub (len .hash) 5 }}
-              <code>{{ substr .hash 0 10 }}...{{ substr .hash $length 5 }}</code>
-            </abbr>
-          </a>
+        <div class="mt2">
+          {{ template  "hash" .hash }}
         </div>
       {{- end -}}
 
       {{- if isset . "picture" -}}
-      <div class="mt2 mw5">
+      <div class="mt2">
         <a target="_blank" class="no-underline charcoal" href="{{ if .website }}{{ .website }}{{ else if .source }}{{ .source }}{{ else if .demo }}{{ .demo }}{{ end }}">
           <img class="br2" src="{{ .picture | relURL }}" >
         </a>
@@ -62,6 +66,12 @@
         {{- if isset . "website" -}}
         <a href="{{ .website }}" target="_blank" alt="Website" title="Website">
           {{ partial "icons/globe.svg" }}
+        </a>
+        {{- end -}}
+
+        {{- if isset . "snapshot" -}}
+        <a href="http://ipfs.io/{{ .snapshot.hash }}" target="_blank" alt="Snapshot as of {{ .snapshot.date }}" title="Snapshot as of {{ .snapshot.date }}">
+          {{ partial "icons/history.svg" }}
         </a>
         {{- end -}}
 
@@ -77,7 +87,6 @@
         </a>
         {{- end -}}
       </div>
-      
     </div>
   </article>
   {{ end }}

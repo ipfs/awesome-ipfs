@@ -3,6 +3,32 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: Agregore
+    website: https://github.com/AgregoreWeb/agregore-browser
+    source: https://github.com/AgregoreWeb/agregore-browser
+    picture: /images/agregore.svg
+    description: >
+      A minimal web browser for the distributed web.
+      Supports downloading/uploading data from IPFS using the browser's `fetch()` API
+  - title: IPFS-FPS
+    website: https://ipfs-fps.com/
+    picture: /images/ipfs-fps.png
+    description: >
+      A completely decentralized first person shooter.
+      Built with Unity, Fleek, Unstoppable Domans and Pinata.
+  - title: Peer Web Site
+    website: https://peerweb.site/
+    source: https://github.com/Weedshaker/PeerWebSite
+    picture: /images/peerWebSite.png
+    description: >
+      Peer to Peer Web Site hosting at your fingertips!
+      Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
+  - title: SimpleAsWater Bot
+    website: https://github.com/simpleaswater/twitter-pinbot
+    source: https://github.com/simpleaswater/twitter-pinbot
+    picture: /images/twitter-bot.png
+    description: >
+      A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster.
   - title: 2read
     website: https://2read.net/
     source: https://github.com/meehow/2read
@@ -22,7 +48,7 @@ content:
       A Next-Generation Social Media Network, powered by Ethereum and embedded
       into IPFS.
   - title: Alexandria
-    website: http://www.alexandria.io/learn/#integrated-technologies
+    website: http://www.alexandria.io/
     description: >
       Decentralized content publishing / monetization platform.
   - title: Arbore
@@ -53,31 +79,28 @@ content:
     description: >
       A golang app to preset a threejs interface and get all of its assets
       out of IPFS.
-  - title: Computes
-    website: https://computes.io
-    picture: /images/computes.svg
-    description: >
-      Computes.io is a distributed supercomputer powered by IPFS.
   - title: dapple
     source: https://github.com/nexusdev/dapple
     description: >
       Dapple is a Solidity developer multitool designed to manage the growing
       complexity of interconnected smart contract systems.
-  - title: digx
-    website: https://www.dgx.io/
+  - title: Diffuse
+    source: https://diffuse.sh
     description: >
-      Digix is an asset-tokenisation platform built on Ethereum and IPFS.
+      Play music from your IPFS node, or any other cloud/distributed storage service you use.
   - title: dtube
     website: https://d.tube
     picture: /images/dtube.png
     description: >
-      Distributed video sharing with steem.it intergrations, using ipfs for
+      Distributed video sharing with steem.it integrations, using ipfs for
       backend storage.
-  - title: Eternum
-    website: https://www.eternum.io/
-    picture: /images/eternum.png
+  - title: edChain
+    website: https://www.edchain.io/
+    source: https://github.com/edchainio/edchain-client-gui
+    picture: /images/edchain.png
     description: >
-      Paid pinning service with an easy-to-use API.
+      EdChain is a global network for education and careers. It uses blockchain
+      and distributed web technologies to deliver educational content, even to those without broadband internet.
   - title: Ethlance
     website: http://ethlance.com
     source: https://github.com/madvas/ethlance
@@ -113,20 +136,27 @@ content:
     source: https://github.com/jamescarlyle/ipfs-wiki
     description: >
       Wiki built on top of IPFS
+  - title: ipcoronafs
+    source: https://github.com/RTradeLtd/ipcoronafs
+    description: >
+      A realtime service to scrape COVID-19 and SARS-CoV-2, storing on IPFS, DNSLink, and streaming over LibP2P pubsub
   - title: IPFS Event Drop
     source: https://github.com/travisperson/ipfs-event-drops
     description: >
       An app that allows for improved visualization of ipfs events.
   - title: IPFS Drive
-    website: http://ipfs-drive.ydns.eu
     source: https://github.com/fazo96/ipfs-drive
     description: >
       In browser file manager for IPFS.
   - title: ipfs.ink
-    website: https://ipfs.ink
     source: https://github.com/kpcyrd/ipfs.ink
     description: >
       Publish and render markdown essays to and from ipfs.
+  - title: ipfs-chat
+    source: https://github.com/SomajitDey/ipfs-chat
+    description: >
+      Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing.
+      Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
   - title: ipfs-search
     website: https://ipfs-search.com
     source: https://github.com/ipfs-search/ipfs-search
@@ -146,6 +176,18 @@ content:
     source: https://github.com/victorbjelkholm/ipfsbin
     description: >
       Pastebin clone build.
+  - title: IPGit
+    source: https://github.com/meyer1994/ipgit
+    description: >
+      Remote Git repository that mirrors your code to IPFS
+  - title: IpJot
+    website: https://ipjot.herokuapp.com/
+    description: >
+      Creates short notes, stories, books, poems, conversations on IPFS.
+  - title: IPSE
+    website: https://www.ipse.io/
+    description: >
+      A search engine for the IPFS network.
   - title: markup.rocks
     website: https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u
     source: https://github.com/davidar/markup.rocks
@@ -175,22 +217,21 @@ content:
     website: https://qri.io
     source: https://github.com/qri-io/qri
     description: >
-      Dataset verion control, discovery and collaboration tools (free, open-source).
+      Dataset version control, discovery and collaboration tools (free, open-source).
+  - title: QuestNetwork Messenger
+    website: https://github.com/QuestNetwork/quest-messenger-js
+    source: https://github.com/QuestNetwork/quest-messenger-js
+    description: >
+      Multi-Platform End-To-End Encrypted Messenger on IPFS PubSub. Emulates Servers/Community with folders that can be shared using invitation codes. It's free and open source. On track to become the most comprehensive and user-friendly messenger on IPFS.
   - title: ujo
     website: http://ujomusic.com/
     description: >
       A blockchain marketplace for musicians.
   - title: uport
-    website: https://uport.me/#home
+    website: https://www.uport.me
     description: >
       Uport is a mobile, self-sovereign identity and key management system,
       built on the Ethereum blockchain.
-  - title: gogo.tattoo
-    website: http://gogo.tattoo
-    description: >
-      Gogo Tattoo Project uses IPFS, DLTs and other modern technologies to
-      offer tattoo artists and wearers an unbreakable lifetime record of their portfolios.
-      gogo.tattoo app already has a feature to share works directly to IPFS.
   - title: IPFessay
     website: https://gitlab.com/stavros/IPFessay
     description: >
@@ -200,10 +241,6 @@ content:
     description: >
       Hardbin is an encrypted pastebin, with the decryption key passed in
       the URL fragment
-  - title: hasteIPFS
-    website: https://ipfs.io/ipns/bin.ipfs.ovh/
-    description: >
-      IPFS based code bin. (Read only for now)
   - title: Gorilla REPL viewer
     source: https://github.com/keorn/ipfs-gorilla-repl
     description: >
@@ -241,10 +278,6 @@ content:
     source: https://github.com/OriginProtocol/demo-dapp
     description: >
       Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS.
-  - title: Philes
-    website: https://philes.co
-    source: https://github.com/chrismatthieu/philes
-    description: A simple browser-based IPFS notepad app.
   - title: ipfs-md-wiki
     source: https://github.com/daijiale/ipfs-md-wiki
     description: Build your wiki system base on ipfs and markdown.
@@ -252,34 +285,31 @@ content:
     website: https://infura.io
     picture: /images/infura.png
     description: >
-      A Infrastructure: use API and developer tools provide secure, reliable, and
-      scalable access toEthereum and IPFS to help build decentralized application easier.
-  - title: NodeFort.io
-    website: https://www.nodefort.io
-    picture: /images/nodefort.png
-    description: Web-based IPFS node hosting service.
+      An Infrastructure: use API and developer tools provide secure, reliable, and
+      scalable access to Ethereum and IPFS to help build decentralized application easier.
   - title: OpenBazaar
-    website: https://www.openbazaar.org/
+    website: https://github.com/OpenBazaar
+    source: https://github.com/OpenBazaar
     description: >
-      This new version(v2.0) is built on IPFS, Openbazaar stores can now be accessible
-      to buyers even when they are offline.
+      OpenBazaar was an open source project developing a protocol for
+      e-commerce transactions in a fully decentralized marketplace.
   - title: Peer Bandwidth Demo
     website: https://ipfs.io/ipfs/QmVaVXbLdw4R5NqAiiQoTWtitxo5g7FS31PQmCLbH9p8Fu/
     source: https://github.com/tableflip/ipfs-peer-bw-example
     picture: /images/peer-bandwidth-demo.jpg
     description: >
       An demo app that uses window.ipfs, provided by the IPFS Companion web extension to get and graph bandwidth info for your IPFS node
-  - title: Pinata
-    website: https://pinata.cloud
-    picture: /images/pinata.png
-    description: >
-      Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
   - title: PubSub Chat Demo
     website: https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/
     source: https://github.com/tableflip/ipfs-pubsub-chat-example
     picture: /images/pubsub-chat-demo.png
     description: >
       A ~76KB demo chat app that uses window.ipfs, provided by the IPFS Companion web extension
+  - title: Pugdit
+    website: https://github.com/zbyte64/pugdit
+    source: https://github.com/zbyte64/pugdit
+    description: >
+      A bulletin board service that discovers and distributes over IPFS
   - title: Peer Map Demo
     website: https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/
     source: https://github.com/tableflip/ipfs-peer-map-example
@@ -293,7 +323,7 @@ content:
     description: >
       A demo app that uses windows.ipfs to show you a QR Code of your IPNS Link and of your Public Key.
   - title: ToDo List Demo
-    website: https://ipfs.io/ipfs/QmfFaH6dGibQ5JwEdsujeHBzsmHUsFRB5kU9P8nzPyzMv2/
+    website: https://ipfs.io/ipfs/QmSGQrmvHe6fFiWdV2H8YnhLaoX4qe5nYEmJfUFx6LdUYa/
     source: https://github.com/ipfs-shipyard/demo-ipfs-todo
     picture: /images/todo-demo.png
     description: >
@@ -305,11 +335,6 @@ content:
       Run your IPFS node on your machine without having to bother with command line tools.
       Manage your node, add your files, easily change the settings... everything from
       just one interface.
-  - title: IpfsCloud
-    source: https://github.com/cluster-labs/ipfscloud-web
-    website: https://ipfscloud.store
-    description: >
-       A Decentralized, Anonymous Cloud Storage Platform on IPFS.
   - title: 3Box
     website: https://3box.io
     source: https://github.com/uport-project/3box
@@ -346,10 +371,98 @@ content:
     description: >
       Decentralized two factor authentication app built on Textile & IPFS.
   - title: DtinyUrl
-    website: http://t.bdaily.club
     source: https://github.com/facert/dtinyurl
     description: >
-      Dcentralized url shortening service base on ipfs
+      Decentralized URL shortening service based on IPFS.
+  - title: Wistful Books
+    website: https://wistfulbooks.com/
+    source: https://github.com/smwa/wistfulbooks
+    description: >
+      Single page offline application for enjoying librivox.org audio books.
+  - title: Peergos
+    website: https://peergos.org
+    source: https://github.com/Peergos/Peergos
+    picture: /images/peergos.png
+    description: >
+      End-to-end encrypted, peer-to-peer file storage and sharing.
+  - title: Minerva
+    source: https://github.com/bdchain/Minerva
+    description: >
+      Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.
+  - title: IPFS Image Uploader
+    website: https://ipfs.talaikis.com/
+    source: https://github.com/TalaikisInc/ipfs-uploader
+    description: >
+      IPFS image uploader and viewer.
+      Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.
+  - title: IPFS with TiddlyWiki
+    source: https://github.com/xmaysonnave/tiddlywiki-ipfs
+    description: >
+      IPFS with TiddyWiki is a TiddlyWiki plugin who aims to help developers, editors or users to save their wikis and attachments over IPFS.
+  - title: Kauri
+    source: https://kauri.io
+    picture: /images/kauri_io.png
+    description: >
+      A community-based knowledge platform for web3 technologies built on top of IPFS and Ethereum. Learn, share and curate on up-to-date and high-quality technical articles and series.
+  - title: Skyhook
+    source: https://github.com/deedeecx330/skyhook
+    description: >
+      Send and receive files securely
+  - title: Everforo
+    website: https://www.everforo.com
+    description: >
+      Everforo is the next generation of online community groups build on top of IPFS.
+  - title: IPFS-forum
+    website: https://github.com/ReForum-ipfs/ReForum#readme
+    source: https://github.com/ReForum-ipfs/ReForum
+    description: >
+      A web3 forum.You can get new ideas,reports,dicussions from this forum ,though you maybe are in a network-restricted area,all the contents will be updated qucikly by ipfs.
+  - title: Watchit
+    website: https://github.com/ZorrillosDev/watchit-desktop
+    source: https://github.com/ZorrillosDev/watchit-desktop
+    picture: /images/watchit.png
+    description: >
+      A movie platform with a decentralized network approach.
+  - title: La Marque
+    website: https://marque.la/
+    picture: /images/lamarque.png
+    description: >
+      Generate & pin content from your phone. Validate "La Marque" assets by verifying received images from others.
+  - title: Uniswap
+    website: https://uniswap.org/
+    source: https://github.com/Uniswap
+    picture: /images/UniswapCard.png
+    description: >
+      Decentralized Trading Protocol built on Ethereum.
+  - title: youtube2ipfs
+    website: https://pypi.org/project/youtube2ipfs/
+    source: https://github.com/dokterbob/youtube2ipfs
+    description: >
+      Download videos from YouTube (and similar video platforms) and add them to IPFS.
+  - title: P2Pdoc
+    website: https://p2pdoc.glitch.me/
+    source: https://github.com/aboutDavid/p2pdoc
+    picture: /images/p2pdoc.png
+    description: >
+      P2Pdoc allows you to create a document and then upload it to the distributed web.
+  - title: Valist
+    website: https://valist.io
+    source: https://github.com/valist-io/valist
+    picture: /images/valist.png
+    description: >
+      A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps.
+  - title: Terrive
+    website: https://ipfs.io/ipns/terrive.one
+    source: https://github.com/appukuttan66/terrive
+    picture: /images/terrive.png
+    description: >
+      A Photo and Video Sharing Platform that uses the HIVE blockchain as a database and Immutable Image/Video Hosting.
+  - title: Skiff
+    website: https://www.skiff.com
+    source: https://github.com/skiff-org/skiff-mail
+    picture: /images/skiff.png
+    description: >
+      Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
   - title: CoTNetwork
     website: http://www.cotnetwork.com
     picture: /images/cotnetwork.png
