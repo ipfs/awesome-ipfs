@@ -469,3 +469,8 @@ content:
     picture: /images/skiff.png
     description: >
       Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
+  - title: CoTNetwork
+    website: http://www.cotnetwork.com
+    picture: /images/cotnetwork.png
+    description: >
+      A distributed computing network base on ipfs
