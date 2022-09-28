@@ -84,6 +84,12 @@ content:
     description: >
       Dapple is a Solidity developer multitool designed to manage the growing
       complexity of interconnected smart contract systems.
+  - title: DeCommerce
+    website: https://www.ivyca.com/decommerce/
+    picture: /images/decommerce.jpg
+    description: >
+      Decentralized ecommerce for Web3. Allows people to transact business without middlemen. 
+      No Middleman, no Bank, no Big Tech, no Government.
   - title: Diffuse
     source: https://diffuse.sh
     description: >
@@ -463,6 +469,12 @@ content:
     picture: /images/skiff.png
     description: >
       Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
+  - title: Mobile Uploader
+    website: https://apps.apple.com/ru/app/ipfs-uploader/id1602486345
+    source: https://github.com/sly13/ipfs_uploader_app
+    picture: /images/app_uploader.jpeg
+    description: >
+      Easy way for upload file from mobile. Application allow upload file from gallery, camera or by URL.
   - title: Music For Programming
     website: https://ipfs.io/ipns/mfp.jillejr.tech
     source: https://github.com/jilleJr/musicforprogramming.ipfs
