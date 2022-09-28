@@ -20,16 +20,19 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 yarn.lock
-package-lock.json
 
 glyph*.svg
 stroke*.svg
 public
 dist
 /src/resources
-/src/data
 /src/content
-/src/layouts/partials/indexes
 /src/static/fonts
 /src/static/app.css
 /src/static/app.js
+
+# awesome_bot output
+ab-results-README.md-filtered.json
+ab-results-README.md.json
+ab-results-README.md-markdown-table.json
+links.txt

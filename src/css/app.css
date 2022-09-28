@@ -8,19 +8,6 @@ body {
   overflow-y: scroll;
 }
 
-.grow2 {
-  -moz-osx-font-smoothing: grayscale;
-  backface-visibility: hidden;
-  transform: translateZ(0);
-  transition: transform 0.25s ease-out;
-}
-
-.grow2:active,
-.grow2:hover,
-.grow2:focus {
-  transform: scale(1.05);
-}
-
 .focus-outline:focus {
   outline: 0;
   box-shadow: 0 0 0 .2rem rgba(201, 210, 215, .4);
@@ -36,4 +23,34 @@ body {
 
 .fill-white {
   fill: white;
+}
+
+.CardContainer {
+  column-count: 4;
+  column-gap: 1em;
+}
+
+.Card {
+  margin: 0 0 1em 0;
+  width: 100%;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+@media (max-width: 1000px) {
+  .CardContainer {
+    column-count: 3;
+  }
+}
+
+@media (max-width: 800px) {
+  .CardContainer {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 600px) {
+  .CardContainer {
+    column-count: 1;
+  }
 }
