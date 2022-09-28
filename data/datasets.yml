@@ -113,12 +113,6 @@ content:
     source: https://purl.stanford.edu/sx925dc9385
     description: Stewart, Russell. (2015). Brainwash dataset.
     size: 4GB
-  - title: CrowdHuman Dataset
-    hash: /ipfs/QmTgBpFRM1K4gGyLKSv7tJnEkZZcEQcswnGDdBYkCRu6Vw
-    website: http://www.crowdhuman.org/
-    source: http://www.crowdhuman.org/download.html
-    description: CrowdHuman dataset. A Benchmark for Detecting Human in a Crowd
-    size: 13GB
   - title:  'WistfulBooks: LibriVox Audiobook Archive'
     hash: /ipfs/QmXyNMhV8bQFp6wzoVpkz3NqDi7Fj72Deg7KphAuew3RYU
     website: https://wistfulbooks.com
