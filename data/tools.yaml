@@ -11,6 +11,9 @@ content:
 - title: Tellit
   source: https://gitlab.com/terceranexus6/tellit
   description: Encrypt files before uploading them using a keypair or a passphrase
+- title: VIPFS
+  source: https://github.com/Ideea-inc/vipfs
+  description: Publish your Vue apps easily to IPFS
 - title: Sweet IPFS
   source: https://github.com/RHazDev/Sweet-IPFS
   description: Full node for Android
@@ -23,11 +26,6 @@ content:
 - title: gatsby-plugin-ipfs
   source: https://github.com/moxystudio/gatsby-plugin-ipfs
   description: Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
-- title: dillo-ipfs
-  source: https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256
-  website: https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256
-  description: IPFS integration for the Dillo web browser.
-  picture: /images/dillo-ipfs.png
 - title: galacteek
   website: https://galacteek.github.io
   source: https://github.com/pinnaculum/galacteek
