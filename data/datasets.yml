@@ -107,6 +107,12 @@ content:
     source: https://github.com/ipfs/archives/issues/172
     description:
     size: 30GB
+  - title: Brainwash Dataset
+    hash: /ipfs/QmZ8BpYCtcPeA5g6uXciNXN395WeqZYNVNvz4xvBxsfxqy
+    website: https://purl.stanford.edu/sx925dc9385
+    source: https://purl.stanford.edu/sx925dc9385
+    description: Stewart, Russell. (2015). Brainwash dataset.
+    size: 4GB
   - title:  'WistfulBooks: LibriVox Audiobook Archive'
     hash: /ipfs/QmXyNMhV8bQFp6wzoVpkz3NqDi7Fj72Deg7KphAuew3RYU
     website: https://wistfulbooks.com
@@ -119,9 +125,15 @@ content:
     source: https://old.reddit.com/r/opendirectories/comments/dsznin/50_gb_directory_of_cooking_recipes/
     description: Around 50GB of formatted and unformatted cooking recipes.
     size: 52GB
+  - title: '7-piece Syzygy tablebases'
+    hash: /ipfs/QmVgcSADsoW5w19MkL2RNKNPGtaz7UhGhU62XRm6pQmzct
+    website: https://syzygy-tables.info/
+    source: https://github.com/syzygy1/tb
+    description: Solutions for all chess endgames with up to 7 pieces.
+    size: 16.9 TiB
   - title:  'Testcorpus for Image Compression Algoritms'
     hash: /ipns/12D3KooWG55McTZWnWHP6Z6VMvcZNYodpmSBk6iLJ53XmhZTJfxW
-    website: https://twitter.com/RubenKelevra/status/1236525895000653824
+    website: https://github.com/RubenKelevra/rk_image_set
     source: Wikipedia Commons / Library Of Congress / NASA / NOAA
     description: A testcorpus with a large variety of low or no compression artifact images and animations of high fidelity for testing image compression algorithms. The CID allows for easy access/validation of the integrity of the dataset while making sure all data is permanently available without having to rely on third-party servers. All images are either copyleft or without any copyright restrictions. This is just a CDN like cache of those data, details for the licenses for other purposes than research can be found on the source pages of those individual images.
     size: 36GB

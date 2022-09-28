@@ -1,5 +1,5 @@
 {{ define "text" }}
-<p class="f6 lh-copy mw5 mt2 mb0 mid-gray" style="word-break: break-all">
+<p class="f6 lh-copy mt2 mb0 mid-gray" style="word-break: break-word">
   {{- markdownify . -}}
 </p>
 {{ end }}
@@ -31,7 +31,7 @@
       <div class="dt w-100 mt1">
         <div class="dtc">
           <a target="_blank" class="no-underline charcoal" href="{{ if .website }}{{ .website }}{{ else if .source }}{{ .source }}{{ else if .demo }}{{ .demo }}{{ end }}">
-            <h1 class="f5 mw5 f4-ns mv0">{{- .title -}}</h1>
+            <h1 class="f5 f4-ns mv0">{{- .title -}}</h1>
           </a>
         </div>
       </div>
@@ -49,13 +49,13 @@
       {{- end -}}
 
       {{- if isset . "hash" -}}
-        <div class="mt2 mw5">
+        <div class="mt2">
           {{ template  "hash" .hash }}
         </div>
       {{- end -}}
 
       {{- if isset . "picture" -}}
-      <div class="mt2 mw5">
+      <div class="mt2">
         <a target="_blank" class="no-underline charcoal" href="{{ if .website }}{{ .website }}{{ else if .source }}{{ .source }}{{ else if .demo }}{{ .demo }}{{ end }}">
           <img class="br2" src="{{ .picture | relURL }}" >
         </a>
