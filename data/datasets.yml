@@ -107,6 +107,12 @@ content:
     source: https://github.com/ipfs/archives/issues/172
     description:
     size: 30GB
+  - title: Brainwash Dataset
+    hash: /ipfs/QmZ8BpYCtcPeA5g6uXciNXN395WeqZYNVNvz4xvBxsfxqy
+    website: https://purl.stanford.edu/sx925dc9385
+    source: https://purl.stanford.edu/sx925dc9385
+    description: Stewart, Russell. (2015). Brainwash dataset.
+    size: 4GB
   - title:  'WistfulBooks: LibriVox Audiobook Archive'
     hash: /ipfs/QmXyNMhV8bQFp6wzoVpkz3NqDi7Fj72Deg7KphAuew3RYU
     website: https://wistfulbooks.com
@@ -125,9 +131,3 @@ content:
     source: https://github.com/syzygy1/tb
     description: Solutions for all chess endgames with up to 7 pieces.
     size: 16.9 TiB
-  - title: 'Operating Systems Mirror & Archive (OSMA)'
-    hash: /ipns/QmRdZ6apYBTXHJ43y3NBKe5GJqdc8q58Pnu3RHSQntXQNP
-    website: http://www.fleschutz.de/Service/OSMA.html
-    source: https://github.com/fleschutz/awesome-ipfs
-    description: Mirror and archive of 29 established operating systems with 192 releases.
-    size: 643GB
