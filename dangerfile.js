@@ -5,6 +5,11 @@ const githubMetadata = danger.git.fileMatch('.github/**')
 const yamlData = danger.git.fileMatch('data/**')
 const scripts = danger.git.fileMatch('scripts/**')
 const src = danger.git.fileMatch('src/**')
+const readme = danger.git.fileMatch('README.md')
+
+if (readme.edited) {
+  fail('Please do not edit the README directly. It is generated from the data in the data/ directory.')
+}
 
 if (githubMetadata.edited) {
   message('Changes were made within the .github folder.')
