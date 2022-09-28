@@ -173,6 +173,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 ## Services
 
 - [Boom.FYI](https://www.boom.fyi) - An IPFS link shortening and access control service.
+- [Crust Network](https://crust.network) - Decentralized pinning and gateway service for IPFS.
 - [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
 - [Fission](https://fission.codes) - App and website hosting powered by IPFS, including DNS automation, identity, and end-to-end encryption.
 - [Fleek](http://fleek.co/) - Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer. [Source](https://github.com/FleekHQ)
@@ -232,6 +233,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Public gateway status checker](https://ipfs.fooock.com/) - Web app to check public states of IPFS gateways, including latency and gateway writable state. [Source](https://github.com/fooock/ipfs-gateway-checker)
 - [ShareX integration](https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu) - ShareX is a file upload and manipulation tool that has a custom integration with IPFS
 - [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux [Source](https://github.com/Siderus/Orion)
+- [solid-ipfs](https://github.com/Eximua/solid-ipfs) - Using Solid to store IPFS Hash privately or publicly.
 - [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) - Full node for Android
 - [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase
 - [VIPFS](https://github.com/Ideea-inc/vipfs) - Publish your Vue apps easily to IPFS
