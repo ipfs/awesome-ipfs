@@ -234,8 +234,6 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) - Full node for Android
 - [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase
 - [wbipfs](https://github.com/wabarc/wbipfs) - A command-line tool and Go package interface for wayback webpage to IPFS.
-- [solid-ipfs](https://github.com/Eximua/solid-ipfs) - Using Solid to store IPFS Hash privately or publicly.
-
 
 ## Videos
 
