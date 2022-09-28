@@ -23,11 +23,6 @@ content:
 - title: gatsby-plugin-ipfs
   source: https://github.com/moxystudio/gatsby-plugin-ipfs
   description: Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
-- title: dillo-ipfs
-  source: 
-  website: 
-  description: IPFS integration for the Dillo web browser.
-  picture: /images/dillo-ipfs.png
 - title: galacteek
   website: https://galacteek.github.io
   source: https://github.com/pinnaculum/galacteek
