@@ -23,6 +23,9 @@ content:
 - title: cachewarmer
   source: https://github.com/BrendanBenshoof/cachewarmer
   description: Donate ipfs gateways to cache other people's content
+- title: create-ipfs-app
+  source: https://github.com/alexbakers/create-ipfs-app
+  description: Set up a decentralized web3 app by running one command.
 - title: gatsby-plugin-ipfs
   source: https://github.com/moxystudio/gatsby-plugin-ipfs
   description: Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
