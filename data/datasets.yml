@@ -131,6 +131,12 @@ content:
     source: https://github.com/syzygy1/tb
     description: Solutions for all chess endgames with up to 7 pieces.
     size: 16.9 TiB
+  - title: CrowdHuman Dataset
+    hash: /ipfs/QmTgBpFRM1K4gGyLKSv7tJnEkZZcEQcswnGDdBYkCRu6Vw
+    website: http://www.crowdhuman.org/
+    source: http://www.crowdhuman.org/download.html
+    description: CrowdHuman dataset. A Benchmark for Detecting Human in a Crowd
+    size: 13GB
   - title:  'Testcorpus for Image Compression Algoritms'
     hash: /ipns/12D3KooWG55McTZWnWHP6Z6VMvcZNYodpmSBk6iLJ53XmhZTJfxW
     website: https://github.com/RubenKelevra/rk_image_set
