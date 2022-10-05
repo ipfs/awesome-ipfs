@@ -480,3 +480,14 @@ content:
     picture: /images/musicforprogramming.jpg
     description: >
       Unofficial port of musicforprogramming.net.
+  - title: InfiniteBooru
+    source: https://infinitebooru.com
+    picture: /images/infinitebooru.png
+    description: >
+      A booru-style media tagging application and content aggregator
+      with all media backed by IPFS.
+  - title: InfinitumX
+    source: https://infinitumx.io
+    picture: /images/infinitumx.png
+    description: >
+      A decentralized "Reddit Place" like board with Harberger's tax as an economical concept & censorship resistance built in.
