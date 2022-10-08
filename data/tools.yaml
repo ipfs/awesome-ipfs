@@ -11,6 +11,9 @@ content:
 - title: Tellit
   source: https://gitlab.com/terceranexus6/tellit
   description: Encrypt files before uploading them using a keypair or a passphrase
+- title: VIPFS
+  source: https://github.com/Ideea-inc/vipfs
+  description: Publish your Vue apps easily to IPFS
 - title: Sweet IPFS
   source: https://github.com/RHazDev/Sweet-IPFS
   description: Full node for Android
@@ -20,6 +23,9 @@ content:
 - title: cachewarmer
   source: https://github.com/BrendanBenshoof/cachewarmer
   description: Donate ipfs gateways to cache other people's content
+- title: create-ipfs-app
+  source: https://github.com/alexbakers/create-ipfs-app
+  description: Set up a decentralized web3 app by running one command.
 - title: gatsby-plugin-ipfs
   source: https://github.com/moxystudio/gatsby-plugin-ipfs
   description: Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
@@ -185,3 +191,9 @@ content:
   picture: /images/ipfs-encrypted-share.png
   source: https://github.com/whs/ipfs-encrypted-share
   description: Easy to use encrypted file uploader.
+- title: solid-ipfs
+  source: https://github.com/Eximua/solid-ipfs
+  description: Using Solid to store IPFS Hash privately or publicly.
+- title: rivet
+  source: https://github.com/wabarc/rivet
+  description: A toolkit makes it easier to archive webpages to IPFS.
