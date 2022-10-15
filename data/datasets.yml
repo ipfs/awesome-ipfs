@@ -137,3 +137,9 @@ content:
     source: http://www.crowdhuman.org/download.html
     description: CrowdHuman dataset. A Benchmark for Detecting Human in a Crowd
     size: 13GB
+  - title: 'Freeread.org Library'
+    hash: /ipfs/bafykbzaceaeofefgje22l7rhgtcgs22m32f4ysw5nqa3ty5zawfovqam7pj2c
+    website: https://freeread.org/
+    source: https://freeread.org/ipfs.html
+    description: The Library Genesis collection (PDFs) from Freeread.org
+    size: 6GB
