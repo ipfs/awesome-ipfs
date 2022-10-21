@@ -223,7 +223,7 @@ content:
     website: https://qri.io
     source: https://github.com/qri-io/qri
     description: >
-      Dataset version control, discovery and collaboration tools (free, open-source).
+      Dataset version control, discovery and collaboration tools (free, open-source). [Project is winding down]
   - title: QuestNetwork Messenger
     website: https://github.com/QuestNetwork/quest-messenger-js
     source: https://github.com/QuestNetwork/quest-messenger-js
@@ -469,13 +469,25 @@ content:
     picture: /images/skiff.png
     description: >
       Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
-  - title: Mobile Uploader
-    website: https://apps.apple.com/ru/app/ipfs-uploader/id1602486345
-    source: https://github.com/sly13/ipfs_uploader_app
-    picture: /images/app_uploader.jpeg
+  - title: CoTNetwork
+    website: http://www.cotnetwork.com
+    picture: /images/cotnetwork.png
     description: >
-      Easy way for upload file from mobile. Application allow upload file from gallery, camera or by URL.
-  - title: Identia
-    source: https://github.com/iohzrd/identia
+      A distributed computing network base on ipfs
+  - title: Music For Programming
+    website: https://ipfs.io/ipns/mfp.jillejr.tech
+    source: https://github.com/jilleJr/musicforprogramming.ipfs
+    picture: /images/musicforprogramming.jpg
     description: >
-      Decentralized social media.
+      Unofficial port of musicforprogramming.net.
+  - title: InfiniteBooru
+    source: https://infinitebooru.com
+    picture: /images/infinitebooru.png
+    description: >
+      A booru-style media tagging application and content aggregator
+      with all media backed by IPFS.
+  - title: InfinitumX
+    source: https://infinitumx.io
+    picture: /images/infinitumx.png
+    description: >
+      A decentralized "Reddit Place" like board with Harberger's tax as an economical concept & censorship resistance built in.
