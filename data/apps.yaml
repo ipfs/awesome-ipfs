@@ -491,3 +491,9 @@ content:
     picture: /images/infinitumx.png
     description: >
       A decentralized "Reddit Place" like board with Harberger's tax as an economical concept & censorship resistance built in.
+  - title: Meson Network
+    website: https://meson.network/
+    source: https://github.com/daqnext
+    picture: /images/mesonnetwork.png
+    description: >
+      Bandwidth trading platform built on Blockchain. support ipfs dCDN.
