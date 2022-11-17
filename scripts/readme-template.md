@@ -6,12 +6,17 @@ _This list is for projects, tools, or pretty much any things related to IPFS tha
 
 ## Table of Contents
 
+- [Maintainers](#maintainers)
 - [Contribute](#contribute-to-this-list)
 - [Collab-Cluster](#collab-cluster)
 #PLACEHOLDER_TOC#
 - [Discussions](#discussions)
 - [Want to hack on IPFS?](#want-to-hack-on-ipfs)
 - [License](#license)
+
+## Maintainers
+
+Maintainers requested! This repo is not currently under active development nor maintenance and requires more support from the community.
 
 ## Contribute to this list!
 
