@@ -95,6 +95,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Source](https://github.com/davidar/markup.rocks)
 - [Minerva](https://github.com/bdchain/Minerva) - Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.
 - [Music For Programming](https://ipfs.io/ipns/mfp.jillejr.tech) - Unofficial port of musicforprogramming.net. [Source](https://github.com/jilleJr/musicforprogramming.ipfs)
+- [Nodereal.io](https://nodereal.io) - An Infrastructure tool: use API and developer tools provide secure, reliable, and scalable access to Ethereum and IPFS to help build decentralized application easier.
 - [OpenBazaar](https://github.com/OpenBazaar) - OpenBazaar was an open source project developing a protocol for e-commerce transactions in a fully decentralized marketplace.
 - [Orbit](https://orbit.chat) - Distributed, peer-to-peer chat application on IPFS. [Source](https://github.com/haadcode/orbit)
 - [Origin Protocol](https://demo.originprotocol.com/) - Distributed sharing economy marketplace with images, metadata, and ERC 725 data stored on IPFS. [Source](https://github.com/OriginProtocol/demo-dapp)
@@ -172,7 +173,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [textfiles.com](https://ipfs.io/ipfs/QmNoscE3kNc83dM5rZNUC5UDXChiTdDcgf16RVtFCRWYuU)  [Source](https://github.com/ipfs/archives/issues/155)
 - [WistfulBooks: LibriVox Audiobook Archive](https://wistfulbooks.com) - Free public domain audiobooks from LibriVox.org packaged into a single page that lets you listen to audiobooks in your browser. [Source](https://github.com/smwa/wistfulbooks)
 - [World Wide Web History Project](https://ipfs.io/ipfs/QmRTSA1UFHSx3z7taNRwUVM8AjB2EQwKvyZu3BfJg9QRtZ)  [Source](https://github.com/ipfs/archives/issues/159)
-- [xkcd](https://ipfs.io/ipns/xkcd.hacdias.com)  [Source](https://github.com/ipfs/archives/issues/21)
+- [xkcd](https://i\pfs.io/ipns/xkcd.hacdias.com)  [Source](https://github.com/ipfs/archives/issues/21)
 - [yarchive.net](https://ipfs.io/ipfs/QmdA5WkDNALetBn4iFeSepHjdLGJdxPBwZyY47ir1bZGAK)  [Source](https://github.com/ipfs/archives/issues/76)
 
 ## Services
