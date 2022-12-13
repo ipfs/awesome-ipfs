@@ -5,7 +5,7 @@ description: Articles about the decentralized web and IPFS.
 content:
   - title: "Internet on Mars and Interplanetary File System"
     date: "2022-12-13"
-    website: "https://blog.2read.net/posts/internet-on-mars-and-interplanetary-file-system/"
+    website: https://blog.2read.net/posts/internet-on-mars-and-interplanetary-file-system/
   - title: "How to Create a Unity Game on IPFS using Pinata"
     date: "2020-08-03"
     website: https://medium.com/pinata/how-to-create-a-unity-game-on-ipfs-using-pinata-d0af18a5bd44
