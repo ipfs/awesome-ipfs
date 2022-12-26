@@ -62,3 +62,10 @@ content:
     picture: /images/crustnetwork.png
     description: >
       Decentralized pinning and gateway service for IPFS.
+  - title: IPFSGate
+    website: https://ipfsgate.com
+    picture: /images/ipfsgate.png
+    description: >
+      Advanced IPFS gateway and IPFS hosting services
+      
+      
