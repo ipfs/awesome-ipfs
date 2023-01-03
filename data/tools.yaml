@@ -168,6 +168,11 @@ content:
   website: https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu
   source: https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu
   description: ShareX is a file upload and manipulation tool that has a custom integration with IPFS
+- title: strapi-provider-upload-ipfs-storage
+  website: https://market.strapi.io/providers/strapi-provider-upload-ipfs-storage
+  source: https://github.com/alexbakers/strapi-provider-upload-ipfs-storage
+  description: Filebase, Pinata, Fleek, Web3 provider for Strapi uploads.
+  picture: /images/strapi-provider-upload-ipfs-storage.png
 - title: gomobile-ipfs
   website: https://github.com/ipfs-shipyard/gomobile-ipfs
   source: https://github.com/ipfs-shipyard/gomobile-ipfs
