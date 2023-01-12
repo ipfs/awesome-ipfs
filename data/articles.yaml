@@ -33,12 +33,6 @@ content:
     website: https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
   - title: Downloading nodejs versions with nvm/n over IPFS
     website: https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc
-  - title: On future-proof cryptographic hashes
-    date: "2018-07-11"
-    website: https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/
-  - title: Content Identifiers in IPFS
-    date: "2018-08-06"
-    website: https://pascalprecht.github.io/posts/content-identifiers-in-ipfs/
   - title: Decentralized indexes for public genomic data
     date: "2017-05-05"
     website: https://github.com/luizirber/2017-recomb
