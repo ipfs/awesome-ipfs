@@ -107,12 +107,6 @@ content:
     description: >
       EdChain is a global network for education and careers. It uses blockchain
       and distributed web technologies to deliver educational content, even to those without broadband internet.
-  - title: Ethlance
-    website: http://ethlance.com
-    source: https://github.com/madvas/ethlance
-    description: >
-      First completely decentralised job market platform built on Ethereum
-      and IPFS.
   - title: enzypt.io
     website: https://enzypt.io/
     source: https://github.com/flex-dapps/enzypt
@@ -186,10 +180,6 @@ content:
     source: https://github.com/meyer1994/ipgit
     description: >
       Remote Git repository that mirrors your code to IPFS
-  - title: IpJot
-    website: https://ipjot.herokuapp.com/
-    description: >
-      Creates short notes, stories, books, poems, conversations on IPFS.
   - title: IPSE
     website: https://www.ipse.io/
     description: >
@@ -480,14 +470,13 @@ content:
     picture: /images/musicforprogramming.jpg
     description: >
       Unofficial port of musicforprogramming.net.
-  - title: InfiniteBooru
-    source: https://infinitebooru.com
-    picture: /images/infinitebooru.png
-    description: >
-      A booru-style media tagging application and content aggregator
-      with all media backed by IPFS.
   - title: InfinitumX
     source: https://infinitumx.io
     picture: /images/infinitumx.png
     description: >
       A decentralized "Reddit Place" like board with Harberger's tax as an economical concept & censorship resistance built in.
+  - title: Identia
+    source: https://github.com/iohzrd/identia
+    picture: /images/identia.png
+    description: >
+      Decentralized social media.

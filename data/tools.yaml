@@ -3,197 +3,192 @@ color: yellow
 icon: stroke_code
 description: Tools built on the top of IPFS.
 content:
-- title: Almonit Browser Extension
-  website: https://almonit.com/#/extension/
-  source: https://github.com/almonit/almonit-plugin
-  picture: /images/almonit.jpg
-  description: Resolves ENS domains, this let users access .eth websites while offering maximum decentralization.
-- title: Tellit
-  source: https://gitlab.com/terceranexus6/tellit
-  description: Encrypt files before uploading them using a keypair or a passphrase
-- title: VIPFS
-  source: https://github.com/Ideea-inc/vipfs
-  description: Publish your Vue apps easily to IPFS
-- title: Sweet IPFS
-  source: https://github.com/RHazDev/Sweet-IPFS
-  description: Full node for Android
-- title: go-stellar-ipfs
-  source: https://github.com/aanupam23/go-stellar-ipfs
-  description: go-stellar-ipfs is a library that is a bridge between Stellar and IPFS.
-- title: cachewarmer
-  source: https://github.com/BrendanBenshoof/cachewarmer
-  description: Donate ipfs gateways to cache other people's content
-- title: create-ipfs-app
-  source: https://github.com/alexbakers/create-ipfs-app
-  description: Set up a decentralized web3 app by running one command.
-- title: gatsby-plugin-ipfs
-  source: https://github.com/moxystudio/gatsby-plugin-ipfs
-  description: Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
-- title: galacteek
-  website: https://galacteek.github.io
-  source: https://github.com/pinnaculum/galacteek
-  description: A multi-platform Qt5-based browser for the distributed web
-- title: git-remote-ipfs
-  source: https://github.com/cryptix/git-remote-ipfs
-  description: push/pull repositories from/to IPFS
-- title: http2ipfs
-  source: https://github.com/jbenet/http2ipfs-web
-  description: This is a simple webtool to add URLs to an IPFS node.
-- title: IPLD Explorer
-  website: https://explore.ipld.io
-  source: https://github.com/ipfs-shipyard/ipld-explorer
-  picture: /images/ipld-explorer.png
-  description: >
-    Explore the Merkle Forest from the comfort of your browser
-- title: ipcat
-  source: https://github.com/noffle/ipcat
-  description: ":cat2: Retrieve IPFS object data and send it to stdout."
-- title: ipfs-chrome-station
-  source: https://github.com/fbaiodias/ipfs-chrome-station
-  description: Chrome extension to redirect ipfs.io traffic to local gateway
-- title: ipfs-chrome-extension
-  source: https://github.com/dylanPowers/ipfs-chrome-extension
-  description: Chrome extension to redirect ipfs.io traffic to local gateway
-- title: ipfs-companion
-  source: https://github.com/ipfs/ipfs-companion
-  picture: /images/companion.png
-  description: Browser extension that simplifies access to IPFS resources.
-- title: ipfs-gui
-  source: https://github.com/marcin212/ipfs-gui
-  description: Windows UI integration and IPFS installer
-- title: ipfs-paste
-  source: https://github.com/jbenet/ipfs-paste
-  description: Paste stdin and clipboard to IPFS
-- title: ipfs-screencap
-  source: https://github.com/jbenet/ipfs-screencap
-  description: Capture screenshots, publish them to IPFS, and copy the link to the
-    clipboard.
-- title: ipfscrape
-  source: https://github.com/victorbjelkholm/ipfscrape
-  description: Scrape a webpage with all assets and put it in IPFS
-- title: ipget
-  source: https://github.com/ipfs/ipget
-  description: ":satellite: wget for IPFS: retrieve files over IPFS and save them
-    locally."
-- title: IPRedirect
-  source: https://github.com/JayBrown/IPRedirect
-  description: Browser userscript for redirecting IPFS/IPNS addresses to your local
-    gateway. This should work on any browser that hasn't had an extension written
-    for it yet and has support for userscripts.
-- title: iprfc
-  source: https://github.com/RTradeLtd/iprfc
-  description: IETF RFC downloader which stores RFCs on IPFS and indexes
-    them with RTradeLtd/Lens.
-- title: ipscend
-  source: https://github.com/diasdavid/ipscend
-  description: Tool for hosting web apps and static websites in IPFS
-- title: pinbot
-  source: https://github.com/whyrusleeping/pinbot
-  description: Pin content via IRC
-- title: ipfs-mount
-  source: https://github.com/richardschneider/net-ipfs-mount
-  description: Mount IPFS as a mapped drive on Windows
-- title: ipfs-add-from-url
-  source: https://github.com/maxlath/ipfs-add-from-url
-  description: Add a file to IPFS from a URL instead of a file path
-- title: ipfs-linux-service
-  source: https://github.com/dylanPowers/ipfs-linux-service
-  description: IPFS Linux Init Daemon
-- title: Siderus Orion
-  picture: /images/orion.png
-  website: https://orion.siderus.io
-  source: https://github.com/Siderus/Orion
-  description: Easy to use IPFS desktop client for macOS, Windows and Linux
-- title: ipfsecret
-  source: https://github.com/shlemph/ipfsecret
-  description: Encrypt and decrypt IPFS files with a secret passphrase
-- title: ipfs-add-from-encrypted
-  source: https://github.com/TroyWilson1/ipfs-add-from-encrypted
-  description: Encrypt a file or directory with AES256 then add to IPFS
-- title: Blockwatch
-  website: https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html
-  source: https://github.com/MidnightLightning/ethereum-blockwatch
-  description: >
-    Monitor the current block number of the Ethereum blockchain, and set alerts (stored locally using
-    PouchDB in your browser) for when certain block heights are passed.
-- title: ipfs-common
-  website: https://github.com/arsyun
-  source: https://github.com/arsyun/ipfs-common
-  description: >
+  - title: Almonit Browser Extension
+    website: https://almonit.com/#/extension/
+    source: https://github.com/almonit/almonit-plugin
+    picture: /images/almonit.jpg
+    description: Resolves ENS domains, this let users access .eth websites while offering maximum decentralization.
+  - title: Tellit
+    source: https://gitlab.com/terceranexus6/tellit
+    description: Encrypt files before uploading them using a keypair or a passphrase
+  - title: VIPFS
+    source: https://github.com/Ideea-inc/vipfs
+    description: Publish your Vue apps easily to IPFS
+  - title: Sweet IPFS
+    source: https://github.com/RHazDev/Sweet-IPFS
+    description: Full node for Android
+  - title: cachewarmer
+    source: https://github.com/BrendanBenshoof/cachewarmer
+    description: Donate ipfs gateways to cache other people's content
+  - title: create-ipfs-app
+    source: https://github.com/alexbakers/create-ipfs-app
+    description: Set up a decentralized web3 app by running one command.
+  - title: gatsby-plugin-ipfs
+    source: https://github.com/moxystudio/gatsby-plugin-ipfs
+    description: Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
+  - title: galacteek
+    website: https://galacteek.github.io
+    source: https://github.com/pinnaculum/galacteek
+    description: A multi-platform Qt5-based browser for the distributed web
+  - title: git-remote-ipfs
+    source: https://github.com/cryptix/git-remote-ipfs
+    description: push/pull repositories from/to IPFS
+  - title: http2ipfs
+    source: https://github.com/jbenet/http2ipfs-web
+    description: This is a simple webtool to add URLs to an IPFS node.
+  - title: IPLD Explorer
+    website: https://explore.ipld.io
+    source: https://github.com/ipfs-shipyard/ipld-explorer
+    picture: /images/ipld-explorer.png
+    description: >
+      Explore the Merkle Forest from the comfort of your browser
+  - title: ipcat
+    source: https://github.com/noffle/ipcat
+    description: ":cat2: Retrieve IPFS object data and send it to stdout."
+  - title: ipfs-chrome-station
+    source: https://github.com/fbaiodias/ipfs-chrome-station
+    description: Chrome extension to redirect ipfs.io traffic to local gateway
+  - title: ipfs-chrome-extension
+    source: https://github.com/dylanPowers/ipfs-chrome-extension
+    description: Chrome extension to redirect ipfs.io traffic to local gateway
+  - title: ipfs-companion
+    source: https://github.com/ipfs/ipfs-companion
+    picture: /images/companion.png
+    description: Browser extension that simplifies access to IPFS resources.
+  - title: ipfs-gui
+    source: https://github.com/marcin212/ipfs-gui
+    description: Windows UI integration and IPFS installer
+  - title: ipfs-paste
+    source: https://github.com/jbenet/ipfs-paste
+    description: Paste stdin and clipboard to IPFS
+  - title: ipfs-screencap
+    source: https://github.com/jbenet/ipfs-screencap
+    description:
+      Capture screenshots, publish them to IPFS, and copy the link to the
+      clipboard.
+  - title: ipfscrape
+    source: https://github.com/victorbjelkholm/ipfscrape
+    description: Scrape a webpage with all assets and put it in IPFS
+  - title: ipget
+    source: https://github.com/ipfs/ipget
+    description:
+      ":satellite: wget for IPFS: retrieve files over IPFS and save them
+      locally."
+  - title: IPRedirect
+    source: https://github.com/JayBrown/IPRedirect
+    description:
+      Browser userscript for redirecting IPFS/IPNS addresses to your local
+      gateway. This should work on any browser that hasn't had an extension written
+      for it yet and has support for userscripts.
+  - title: iprfc
+    source: https://github.com/RTradeLtd/iprfc
+    description: IETF RFC downloader which stores RFCs on IPFS and indexes
+      them with RTradeLtd/Lens.
+  - title: ipscend
+    source: https://github.com/diasdavid/ipscend
+    description: Tool for hosting web apps and static websites in IPFS
+  - title: pinbot
+    source: https://github.com/whyrusleeping/pinbot
+    description: Pin content via IRC
+  - title: ipfs-mount
+    source: https://github.com/richardschneider/net-ipfs-mount
+    description: Mount IPFS as a mapped drive on Windows
+  - title: ipfs-add-from-url
+    source: https://github.com/maxlath/ipfs-add-from-url
+    description: Add a file to IPFS from a URL instead of a file path
+  - title: ipfs-linux-service
+    source: https://github.com/dylanPowers/ipfs-linux-service
+    description: IPFS Linux Init Daemon
+  - title: ipfsecret
+    source: https://github.com/shlemph/ipfsecret
+    description: Encrypt and decrypt IPFS files with a secret passphrase
+  - title: ipfs-add-from-encrypted
+    source: https://github.com/TroyWilson1/ipfs-add-from-encrypted
+    description: Encrypt a file or directory with AES256 then add to IPFS
+  - title: Blockwatch
+    website: https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html
+    source: https://github.com/MidnightLightning/ethereum-blockwatch
+    description: >
+      Monitor the current block number of the Ethereum blockchain, and set alerts (stored locally using
+      PouchDB in your browser) for when certain block heights are passed.
+  - title: ipfs-common
+    website: https://github.com/arsyun
+    source: https://github.com/arsyun/ipfs-common
+    description: >
       Some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools.
-- title: ipfs-publish
-  picture: /images/ipfs-publish.png
-  website: https://ipfs-publish.uhlir.dev
-  source: https://github.com/AuHau/ipfs-publish
-  description: Continuous Delivery tool for delivery of static websites from Git providers to IPFS.
-- title: mahuta
-  website: https://github.com/ConsenSys/Mahuta
-  source: https://github.com/ConsenSys/Mahuta
-  description: >
-    Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
-- title: Public gateway status checker
-  website: https://ipfs.fooock.com/
-  source: https://github.com/fooock/ipfs-gateway-checker
-  description: Web app to check public states of IPFS gateways, including latency and gateway writable state.
-- title: IPDR
-  website: https://github.com/miguelmota/ipdr
-  description: IPFS-backed Docker Registry
-- title: 'ipfs-deploy'
-  website: https://github.com/agentofuser/ipfs-deploy
-  source: https://github.com/agentofuser/ipfs-deploy
-  description: 'Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy'
-  picture: /images/ipfs-deploy.png
-- title: ipfs-video-gateway
-  website: https://ipfs.video
-  source: https://github.com/bneijt/ipfs-video-gateway
-  description: Cloud-init your own IPFS gateway on a cloud provider and easily pin content through a simple web interface.
-- title: orbit-db
-  website: https://github.com/orbitdb/orbit-db
-  source: https://github.com/orbitdb/orbit-db
-  description: OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
-  picture: /images/orbit-db.png
-- title: go-orbit-db
-  website: https://github.com/berty/go-orbit-db
-  source: https://github.com/berty/go-orbit-db
-  description: This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
-- title: ipfs-action
-  picture: /images/ipfs-action.png
-  source: https://github.com/aquiladev/ipfs-action
-  description: GitHub Action for delivery of static websites.
-- title: IPFS Setup Action
-  website: https://github.com/marketplace/actions/ipfs-setup-action
-  source: https://github.com/ibnesayeed/setup-ipfs
-  description: A GitHub Action to install and initialize go-ipfs to provision a cross-platform test environment on GitHub's CI platform.
-- title: ShareX integration
-  website: https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu
-  source: https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu
-  description: ShareX is a file upload and manipulation tool that has a custom integration with IPFS
-- title: gomobile-ipfs
-  website: https://github.com/ipfs-shipyard/gomobile-ipfs
-  source: https://github.com/ipfs-shipyard/gomobile-ipfs
-  description: IPFS and libp2p on Mobile, with Gomobile
-- title: Multiverse
-  source: https://github.com/multiverse-vcs/go-multiverse
-  description: Multiverse is a decentralized version control system that enables peer-to-peer software development.
-- title: ipfs-pinner
-  source: https://github.com/wabarc/ipfs-pinner
-  description: A toolkit help upload files to IPFS pinning services.
-- title: wbipfs
-  source: https://github.com/wabarc/wbipfs
-  description: A command-line tool and Go package interface for wayback webpage to IPFS.
-- title: Bubble IPFS From URL Plugin
-  source: https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500
-  description: Bubble (no code platform) plugin for IPFS From URL integration
-- title: ipns-pin
-  source: https://github.com/justicenode/node-ipns-pin
-  description: A command-line tool to pin stuff via ipns.
-- title: ipfs-encrypted-share
-  picture: /images/ipfs-encrypted-share.png
-  source: https://github.com/whs/ipfs-encrypted-share
-  description: Easy to use encrypted file uploader.
-- title: solid-ipfs
-  source: https://github.com/Eximua/solid-ipfs
-  description: Using Solid to store IPFS Hash privately or publicly.
-- title: rivet
-  source: https://github.com/wabarc/rivet
-  description: A toolkit makes it easier to archive webpages to IPFS.
+  - title: ipfs-publish
+    picture: /images/ipfs-publish.png
+    website: https://ipfs-publish.uhlir.dev
+    source: https://github.com/AuHau/ipfs-publish
+    description: Continuous Delivery tool for delivery of static websites from Git providers to IPFS.
+  - title: mahuta
+    website: https://github.com/ConsenSys/Mahuta
+    source: https://github.com/ConsenSys/Mahuta
+    description: >
+      Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
+  - title: Public gateway status checker
+    website: https://ipfs.fooock.com/
+    source: https://github.com/fooock/ipfs-gateway-checker
+    description: Web app to check public states of IPFS gateways, including latency and gateway writable state.
+  - title: IPDR
+    website: https://github.com/miguelmota/ipdr
+    description: IPFS-backed Docker Registry
+  - title: "ipfs-deploy"
+    website: https://github.com/agentofuser/ipfs-deploy
+    source: https://github.com/agentofuser/ipfs-deploy
+    description: "Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy"
+    picture: /images/ipfs-deploy.png
+  - title: ipfs-video-gateway
+    website: https://ipfs.video
+    source: https://github.com/bneijt/ipfs-video-gateway
+    description: Cloud-init your own IPFS gateway on a cloud provider and easily pin content through a simple web interface.
+  - title: orbit-db
+    website: https://github.com/orbitdb/orbit-db
+    source: https://github.com/orbitdb/orbit-db
+    description: OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
+    picture: /images/orbit-db.png
+  - title: go-orbit-db
+    website: https://github.com/berty/go-orbit-db
+    source: https://github.com/berty/go-orbit-db
+    description: This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
+  - title: ipfs-action
+    picture: /images/ipfs-action.png
+    source: https://github.com/aquiladev/ipfs-action
+    description: GitHub Action for delivery of static websites.
+  - title: IPFS Setup Action
+    website: https://github.com/marketplace/actions/ipfs-setup-action
+    source: https://github.com/ibnesayeed/setup-ipfs
+    description: A GitHub Action to install and initialize go-ipfs to provision a cross-platform test environment on GitHub's CI platform.
+  - title: ShareX integration
+    website: https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu
+    source: https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu
+    description: ShareX is a file upload and manipulation tool that has a custom integration with IPFS
+  - title: gomobile-ipfs
+    website: https://github.com/ipfs-shipyard/gomobile-ipfs
+    source: https://github.com/ipfs-shipyard/gomobile-ipfs
+    description: IPFS and libp2p on Mobile, with Gomobile
+  - title: Multiverse
+    source: https://github.com/multiverse-vcs/go-multiverse
+    description: Multiverse is a decentralized version control system that enables peer-to-peer software development.
+  - title: ipfs-pinner
+    source: https://github.com/wabarc/ipfs-pinner
+    description: A toolkit help upload files to IPFS pinning services.
+  - title: wbipfs
+    source: https://github.com/wabarc/wbipfs
+    description: A command-line tool and Go package interface for wayback webpage to IPFS.
+  - title: Bubble IPFS From URL Plugin
+    source: https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500
+    description: Bubble (no code platform) plugin for IPFS From URL integration
+  - title: ipns-pin
+    source: https://github.com/justicenode/node-ipns-pin
+    description: A command-line tool to pin stuff via ipns.
+  - title: ipfs-encrypted-share
+    picture: /images/ipfs-encrypted-share.png
+    source: https://github.com/whs/ipfs-encrypted-share
+    description: Easy to use encrypted file uploader.
+  - title: solid-ipfs
+    source: https://github.com/Eximua/solid-ipfs
+    description: Using Solid to store IPFS Hash privately or publicly.
+  - title: rivet
+    source: https://github.com/wabarc/rivet
+    description: A toolkit makes it easier to archive webpages to IPFS.
