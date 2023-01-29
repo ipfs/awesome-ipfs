@@ -262,6 +262,10 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 
 [![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/CONTRIBUTING.md)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ipfs/ipfs-desktop,ipfs/awesome-ipfs&type=Date)](https://star-history.com/#ipfs/ipfs-desktop&ipfs/awesome-ipfs&Date)
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
