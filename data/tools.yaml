@@ -197,3 +197,6 @@ content:
 - title: rivet
   source: https://github.com/wabarc/rivet
   description: A toolkit makes it easier to archive webpages to IPFS.
+- title: Identity Box
+  source: https://idbox.online
+  description: Decentralized Web of the Future starts with Identities. DID implementation based on IPID method.
