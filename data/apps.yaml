@@ -15,7 +15,7 @@ content:
     picture: /images/ipfs-fps.png
     description: >
       A completely decentralized first person shooter.
-      Built with Unity, Fleek, Unstoppable Domans and Pinata.
+      Built with Unity, Fleek, Unstoppable Domains and Pinata.
   - title: Peer Web Site
     website: https://peerweb.site/
     source: https://github.com/Weedshaker/PeerWebSite
