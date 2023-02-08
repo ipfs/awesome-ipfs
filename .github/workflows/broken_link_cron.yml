@@ -62,7 +62,7 @@ jobs:
         git ls-files -m
         changed_data_files_count=$(git ls-files -m data | wc -l | tr -d ' ')
         echo "changed_data_files_count='$changed_data_files_count'"
-        echo "::set-output name=changed_data_files_count::$changed_data_files_count"
+        echo "changed_data_files_count=$changed_data_files_count" >> $GITHUB_OUTPUT
 
     - uses: EndBug/add-and-commit@d4d066316a2a85974a05efb42be78f897793c6d9 # v9.1.0 - https://github.com/EndBug/add-and-commit/commit/d4d066316a2a85974a05efb42be78f897793c6d9
       if: steps.remove-broken-links.outputs.changed_data_files_count != 0
