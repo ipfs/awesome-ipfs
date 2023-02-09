@@ -62,3 +62,9 @@ content:
     picture: /images/crustnetwork.png
     description: >
       Decentralized pinning and gateway service for IPFS.
+  - title: 4EVERLAND
+    website: https://www.4everland.org/
+    source: https://github.com/4everland
+    picture: /images/4everland.png
+    description: >
+      4EVERLAND is a Web3 infrastructure platform that empowers projects with easy and fast hosting of frontend, files, data and NFTs storage, gateway services on top of IPFS/Arweave/Dfinity.
