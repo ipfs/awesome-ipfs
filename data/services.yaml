@@ -62,3 +62,8 @@ content:
     picture: /images/crustnetwork.png
     description: >
       Decentralized pinning and gateway service for IPFS.
+  - title: Filebase
+    website: https://filebase.com
+    picture: /images/filebase.png
+    description: >
+      Geo-redundant IPFS pinning with automatic 3x redundancy and IPFS gateway service. 
