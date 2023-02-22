@@ -18,7 +18,7 @@ content:
   source: https://github.com/RHazDev/Sweet-IPFS
   description: Full node for Android
 - title: go-stellar-ipfs
-  source: https://github.com/aanupam23/go-stellar-ipfs
+  source: 
   description: go-stellar-ipfs is a library that is a bridge between Stellar and IPFS.
 - title: cachewarmer
   source: https://github.com/BrendanBenshoof/cachewarmer
@@ -101,7 +101,7 @@ content:
   description: IPFS Linux Init Daemon
 - title: Siderus Orion
   picture: /images/orion.png
-  website: https://orion.siderus.io
+  website: 
   source: https://github.com/Siderus/Orion
   description: Easy to use IPFS desktop client for macOS, Windows and Linux
 - title: ipfsecret

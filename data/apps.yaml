@@ -108,7 +108,7 @@ content:
       EdChain is a global network for education and careers. It uses blockchain
       and distributed web technologies to deliver educational content, even to those without broadband internet.
   - title: Ethlance
-    website: http://ethlance.com
+    website: 
     source: https://github.com/madvas/ethlance
     description: >
       First completely decentralised job market platform built on Ethereum
@@ -187,7 +187,7 @@ content:
     description: >
       Remote Git repository that mirrors your code to IPFS
   - title: IpJot
-    website: https://ipjot.herokuapp.com/
+    website: 
     description: >
       Creates short notes, stories, books, poems, conversations on IPFS.
   - title: IPSE
@@ -261,7 +261,7 @@ content:
     source: https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/qr-render
     demo: https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here
   - title: TallyLab
-    website: https://tallylab.com/
+    website: 
     picture: /images/tallylab.jpg
     description: >
       Local-first, end-to-end encrypted data diary app for capturing, analyzing, and sharing data about any and everything.
@@ -419,8 +419,8 @@ content:
     description: >
       Everforo is the next generation of online community groups build on top of IPFS.
   - title: IPFS-forum
-    website: https://github.com/ReForum-ipfs/ReForum#readme
-    source: https://github.com/ReForum-ipfs/ReForum
+    website: #readme
+    source: 
     description: >
       A web3 forum.You can get new ideas,reports,dicussions from this forum ,though you maybe are in a network-restricted area,all the contents will be updated qucikly by ipfs.
   - title: Watchit
@@ -481,7 +481,7 @@ content:
     description: >
       Unofficial port of musicforprogramming.net.
   - title: InfiniteBooru
-    source: https://infinitebooru.com
+    source: 
     picture: /images/infinitebooru.png
     description: >
       A booru-style media tagging application and content aggregator
