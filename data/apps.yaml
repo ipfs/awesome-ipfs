@@ -70,7 +70,7 @@ content:
     description: >
       Distributed social platform that runs in the browser.
   - title: brig
-    website: https://brig.readthedocs.io/en/latest
+    website: https://brig.readthedocs.io
     source: https://github.com/sahib/brig
     description: >
       File synchronization with git like interface and FUSE filesystem.
