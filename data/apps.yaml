@@ -3,6 +3,12 @@ color: aqua
 icon: stroke_marketing
 description: Applications built with IPFS or with functionality that uses IPFS.
 content:
+  - title: SonorousPlay
+    website: https://sonorousplay.co
+    source: https://github.com/Hacker5-UnitEd/SonorousPlay
+    picture: /images/SonorousPlay.png
+    description: >
+      SonorousPlay is a cutting-edge music streaming and sharing platform based on that allows you to stream lossless music files with unparalleled quality and convenience.
   - title: Agregore
     website: https://github.com/AgregoreWeb/agregore-browser
     source: https://github.com/AgregoreWeb/agregore-browser
