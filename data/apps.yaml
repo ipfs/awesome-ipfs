@@ -491,3 +491,8 @@ content:
     picture: /images/infinitumx.png
     description: >
       A decentralized "Reddit Place" like board with Harberger's tax as an economical concept & censorship resistance built in.
+  - title: Soul
+    source: https://www.soul-network.com/
+    picture: /images/soul.svg
+    description: >
+      Publish articles from a Medium-style platform and have them available as an immutable copy on IPFS as well.
