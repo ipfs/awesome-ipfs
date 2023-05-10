@@ -186,6 +186,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Monaparty](https://www.monaparty.me/) - Token assets platform based on Monacoin and Counterparty. Contents bound to user assets are hosted by IPFS.
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
+- [Kriptonio](https://kriptonio.com/) - IPFS Pinning service & Web3 development & infrastructure platform
 - [Robonomics Network](https://robonomics.network/) - Ethereum network infrastructure for cyber-physical systems' integration into Smart Cities and Industry 4.0
 - [Temporal](https://temporal.cloud) - Scalable IPFS Infrastructure with free starter package featuring turnkey APIs, toolkits and storage.
 - [Unstoppable Domains](https://unstoppabledomains.com) - Domains on blockchains
