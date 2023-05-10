@@ -14,6 +14,11 @@ content:
     picture: /images/pinata.png
     description: >
       Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
+  - title: Kriptonio
+    website: https://kriptonio.com/
+    picture: /images/kriptonio.png
+    description: >
+      Pinning service & Web3 Platform for building Web3 apps
   - title: Eternum
     website: https://www.eternum.io/
     picture: /images/eternum.png
