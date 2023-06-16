@@ -12,8 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     if: "!contains(github.event.head_commit.message, '[skip ci]') && github.repository == 'ipfs/awesome-ipfs'"
     steps:
-      - uses: actions/checkout@v2.3.4
-      - uses: actions/setup-node@v1.4.4
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
           node-version: 13
       - name: build
@@ -30,6 +30,4 @@ jobs:
           git commit -m "Rebuild" -a
       - name: Push changes
         if: success()
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        run: git push
