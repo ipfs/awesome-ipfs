@@ -62,3 +62,9 @@ content:
     picture: /images/crustnetwork.png
     description: >
       Decentralized pinning and gateway service for IPFS.
+  - title: dAppling Network
+    website: https://www.dappling.network/
+    source: https://github.com/alwaysbegrowing
+    picture: /images/dapplingLogo.png
+    description: >
+      Decentralized web hosting platform for Web3 frontends focusing on increasing security and preventing Web3 specific frontend attacks.
