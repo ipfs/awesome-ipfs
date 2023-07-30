@@ -62,3 +62,8 @@ content:
     picture: /images/crustnetwork.png
     description: >
       Decentralized pinning and gateway service for IPFS.
+  - title: IPFS Podcasting
+    website: https://ipfspodcasting.net
+    picture: /images/ipfspodcasting.net
+    description: >
+      Decentralized Podcast Distribution over IPFS - Crowd hosting podcast episodes with storage & bandwidth provided by volunteer nodes.
