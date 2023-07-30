@@ -64,6 +64,6 @@ content:
       Decentralized pinning and gateway service for IPFS.
   - title: IPFS Podcasting
     website: https://ipfspodcasting.net
-    picture: /images/ipfspodcasting.net
+    picture: /images/ipfspodcasting.png
     description: >
       Decentralized Podcast Distribution over IPFS - Crowd hosting podcast episodes with storage & bandwidth provided by volunteer nodes.
