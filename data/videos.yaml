@@ -32,8 +32,3 @@ content:
       A full Training Program to teach devs on how to build for the
       Decentralized Web. The series covers a ton of content, touch multiple
       parts of the IPFS stack and guides devs through building a simple DApp.
-  - title: Building an Angular dApp With OrbitDB and IPFS.
-    website: https://www.youtube.com/watch?v=O7fxxp_q0es
-    picture: /images/angular-dapp.jpg
-    description: >
-      This video shows how to build an Angular dApp for p2p chat with OrbitDB and IPFS.

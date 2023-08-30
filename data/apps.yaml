@@ -491,8 +491,3 @@ content:
     picture: /images/infinitumx.png
     description: >
       A decentralized "Reddit Place" like board with Harberger's tax as an economical concept & censorship resistance built in.
-  - title: OrbitChat
-    source: https://orbitchat.gif
-    picture: /images/orbitchat-dev.webp
-    description: >
-      Decentralized message client demo with OrbitDB and IPFS running on an Angular web app.
