@@ -3,6 +3,15 @@ color: yellow
 icon: stroke_code
 description: Tools built on the top of IPFS.
 content:
+- title: Git IPFS Remote Bridge
+  source: https://github.com/ElettraSciComp/Git-IPFS-Remote-Bridge
+  description: >
+    Yet another Git remote processor written in Python, supporting 
+    install/uninstall scripts like Git LFS, 
+    regular immutable CID-based publishing,
+    IPNS-compatible publishing with automatic key type detection,
+    release archive publishing with automatic packaging,
+    dumb HTTP clone compatibility support.
 - title: Almonit Browser Extension
   website: https://almonit.com/#/extension/
   source: https://github.com/almonit/almonit-plugin
