@@ -5,13 +5,14 @@ description: Tools built on the top of IPFS.
 content:
 - title: Git IPFS Remote Bridge
   source: https://github.com/ElettraSciComp/Git-IPFS-Remote-Bridge
+  picture: /images/git-ipfs-remote-bridge-logo-512.png
   description: >
     Yet another Git remote processor written in Python, supporting 
     install/uninstall scripts like Git LFS, 
     regular immutable CID-based publishing,
     IPNS-compatible publishing with automatic key type detection,
     release archive publishing with automatic packaging,
-    dumb HTTP clone compatibility support.
+    regular HTTP clone compatibility support via gateway.
 - title: Almonit Browser Extension
   website: https://almonit.com/#/extension/
   source: https://github.com/almonit/almonit-plugin
