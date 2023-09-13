@@ -491,3 +491,8 @@ content:
     picture: /images/infinitumx.png
     description: >
       A decentralized "Reddit Place" like board with Harberger's tax as an economical concept & censorship resistance built in.
+  - title: Incognfto
+    website: https://incognfto-eea553.spheron.app
+    source: https://github.com/spheronFdn/incognfto
+    description: >
+      Incognfto is a private NFT gallery where only the owner can view their NFTs built with IPFS.

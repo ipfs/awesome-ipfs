@@ -14,6 +14,11 @@ content:
     picture: /images/pinata.png
     description: >
       Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
+  - title: Spheron
+    website: https://spheron.network
+    picture: /images/spheron.png
+    description: >
+      Spheron is a PaaS designed for dApps looking to launch their applications on decentralised infra with best performance. It provides compute, decentralised storage, CDN & web hosting out of the box.
   - title: Eternum
     website: https://www.eternum.io/
     picture: /images/eternum.png
