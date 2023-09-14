@@ -1,32 +1,20 @@
 # Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Useful resources for using [IPFS](https://ipfs.tech) and building things on top of it
 
-_This list is for projects, tools, or pretty much any things related to IPFS that are totally_ **awesome**_. This is for products which are already awesome - if you have plans for cool stuff to do with IPFS, you should build it, and then link it here. If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [our IPFS Discuss Forums](https://discuss.ipfs.io)._
+This is a community list is for projects, tools, services, and pretty much any things related to IPFS that are _ **awesome**_.
+
+If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [our IPFS Discuss Forums](https://discuss.ipfs.io).
 
 ## Table of Contents
 
-- [Contribute](#contribute-to-this-list)
-- [Collab-Cluster](#collab-cluster)
 - [Apps](#apps)
 - [Articles](#articles)
 - [Datasets](#datasets)
 - [Services](#services)
 - [Tools](#tools)
 - [Videos](#videos)
-- [Discussions](#discussions)
-- [Want to hack on IPFS?](#want-to-hack-on-ipfs)
+- [Contribute](#contribute-to-this-list)
 - [License](#license)
-
-## Contribute to this list!
-
-Everyone is welcome to submit their new awesome-ipfs item, but it will be accepted only if it meets our [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).
-
-Readme and the website are automatically generated. In order to add an element to this list, you need to modify the files in `/data` and then run  `make build` before publishing your pull request. Read [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) to learn how to do so.
-
-## Collab-Cluster
-
-[Collaborative clusters](https://collab.ipfscluster.io/) are public IPFS Clusters that anyone can join to help replicating and re-distributing content on the IPFS network. Instead of datasets cluster content is usually updated.
 
 ## Apps
 
@@ -62,8 +50,6 @@ Readme and the website are automatically generated. In order to add an element t
 - [Gorilla REPL viewer](https://github.com/keorn/ipfs-gorilla-repl) - Gorilla is a rich REPL for Clojure in the notebook style.
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
 - [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
-- [InfiniteBooru](https://infinitebooru.com) - A booru-style media tagging application and content aggregator with all media backed by IPFS.
-- [InfinitumX](https://infinitumx.io) - A decentralized "Reddit Place" like board with Harberger's tax as an economical concept & censorship resistance built in.
 - [infura.io](https://infura.io) - An Infrastructure: use API and developer tools provide secure, reliable, and scalable access to Ethereum and IPFS to help build decentralized application easier.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
@@ -254,13 +240,11 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) - The talk includes a broad look at The IPFS Project, and a discussion on evolving the network stack through open source protocols R & D.
 - [Textile Build Series - A Free Online Workshop](https://www.youtube.com/playlist?list=PLC8CEtJ9shDznO1tpvGe--BVEWmCKY9_Z) - A full Training Program to teach devs on how to build for the Decentralized Web. The series covers a ton of content, touch multiple parts of the IPFS stack and guides devs through building a simple DApp.
 
-## Discussions
+## Contribute to this list!
 
-* [CRDTs discussion](https://github.com/ipfs/notes/issues/23)
+Everyone is welcome to submit their new awesome-ipfs item, but it will be accepted only if it meets our [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).
 
-## Want to hack on IPFS?
-
-[![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/CONTRIBUTING.md)
+Readme and the website are automatically generated. In order to add an element to this list, you need to modify the files in `/data` and then run  `make build` before publishing your pull request. Read [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) to learn how to do so.
 
 ## License
 
