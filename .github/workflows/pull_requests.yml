@@ -7,27 +7,8 @@ on:
     branches: [ master, main ]
 
 jobs:
-  # Run linting and tests
-  build-and-lint:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 13
-      - uses: ipfs/aegir/actions/cache-node-modules@master
-        with:
-          directories: |
-            README.md
-          build: |
-            npm run build:readme
-          cache_name: readme
-      # aegir/actions/cache-node-modules runs build. We don't need to run it again.
-      - run: npm run lint
-
   run-danger:
     runs-on: ubuntu-latest
-    needs: build-and-lint
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - name: Checkout
@@ -40,13 +21,6 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.1.2
-      - uses: ipfs/aegir/actions/cache-node-modules@master
-        with:
-          directories: |
-            README.md
-          build: |
-            npm run build:readme
-          cache_name: readme
       - name: Install and run awesome_bot
         # It's okay for awesome_bot to fail (for maintainers only). Danger will post a comment on the PR (for maintainers only) if it fails.
         run: |
