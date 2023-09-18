@@ -2,7 +2,7 @@
 
 This is a community list is for awesome projects, apps, tools, and services related to IPFS.
 
-If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [our IPFS Discuss Forums](https://discuss.ipfs.io).
+If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [our IPFS Discuss Forums](https://discuss.ipfs.tech).
 
 ## Table of Contents
 
