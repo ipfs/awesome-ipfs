@@ -13,7 +13,7 @@ Hello! To ensure this issue is correctly addressed as soon as possible by the IP
 
 - A clear description is provided. It should includes as much relevant information as possible and clear scope for the issue to be actionable.
 
-FOR GENERAL DISCUSSION, HELP OR QUESTIONS, please see the options at https://ipfs.io/help or head directly to https://discuss.ipfs.io.
+FOR GENERAL DISCUSSION, HELP OR QUESTIONS, please see the options at https://ipfs.tech/help or head directly to https://discuss.ipfs.tech.
 
 (you can delete this section after reading)
 -->
