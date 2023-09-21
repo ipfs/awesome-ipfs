@@ -1,26 +1,34 @@
 # Contribution Guidelines
 
+Thanks for submitting your entry to Awesome IPFS!
 Please ensure your pull request adheres to the following guidelines:
+
+## Content Policy
+
+Entries are accepted if they meet the following criteria:
+
+- Entries must use _IPFS_
+- Entries in the **apps** & **tools** categories must be **open-source** and contain a link to their source code.
+- Entries must be immediately usable (eg. nothing that is paywall-only, even a free trial would be ok)
+- Entries must have a clear license and/or privacy policy where applicable
+- Entries must respect the [IPFS Community Code of Conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md)
 
 ### 1. Before submitting
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - If you just created something, wait at least a couple of weeks before submitting.
-- Review the [content policy](POLICY.md) to ensure your submission meets the requirements.
+- Review the [content policy](#content-policy) to ensure your submission meets the requirements.
 
 ### 2. Creating a submission
 
-Make an individual pull request for each suggestion:
-- **Do not edit README directly!**
-- Add the idea to the corresponding file in [`data`](./data) and make sure it matches the format.
+Make an **individual pull request for each suggestion**:
 
 Style tips:
-- New categories, or improvements to the existing categorization are welcome.
+
 - Keep descriptions short and simple, but descriptive.
 - Don't mention `IPFS` in the description as it's implied.
 - Start the description with a capital and end with a full stop/period.
 - Check your spelling and grammar.
-- You can add a picture to describe your idea in [`./src/static/images`](./src/static/images).
 
 ### 3. Submitting it through a PR
 
@@ -29,6 +37,4 @@ Style tips:
 
 Thank you for your suggestions!
 
------
-
-**NOTE**: If you want to edit the README file directly (not the items/links) you need to modify the [`scripts/readme-template.md`](https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md) instead. Thank you!
+---
