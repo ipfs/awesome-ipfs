@@ -87,8 +87,14 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 - [Fleek](http://fleek.co/) - Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer.
 - [Fission](https://fission.codes) - Fission builds open source protocols and managed solutions that empower developers to construct scalable and secure software applications.
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends.
+
+
+### Pinning services
+- [Filebase](https://filebase.com/) - Pinning data to IPFS can be hard. Filebase removes that complexity.
+- [NFT.Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS & Filecoin.
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [Infura](https://infura.io) - Scalable and distributed storage infrastructure for your application
+- [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
 
 ## Contribute
 
