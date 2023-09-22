@@ -48,6 +48,7 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 - [Git IPFS Remote Bridge](https://github.com/ElettraSciComp/Git-IPFS-Remote-Bridge) - set of programs written in Python 3 which allow Git user to clone, push, fetch, self-host or release Git repositories over IPFS decentralized data storage system.
 - [go-orbit-db](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 - [gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) - IPFS and libp2p on Mobile, with Gomobile.
+- [helia](https://github.com/ipfs/helia) - An implementation of IPFS in JavaScript
 - [http2ipfs](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
 - [IPDR](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry.
 - [IPFS Setup Action](https://github.com/ibnesayeed/setup-ipfs) - A GitHub Action to install and initialize go-ipfs to provision a cross-platform test environment on GitHub's CI platform.
