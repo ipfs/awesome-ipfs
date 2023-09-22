@@ -41,6 +41,7 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 
 ## Tools
 
+- [bifrost-gateway](https://github.com/ipfs/bifrost-gateway) - [EXPERIMENTAL] A lightweight IPFS Gateway daemon backed by a remote data store.
 - [create-ipfs-app](https://github.com/alexbakers/create-ipfs-app) - Set up a decentralized web3 app by running one command.
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
 - [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
