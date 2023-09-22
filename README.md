@@ -39,6 +39,9 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 - [Skiff](https://github.com/skiff-org/skiff-mail) - Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
 - [Valist](https://github.com/valist-io/valist) - A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps.
 
+## Integrations
+- [Brave Browser](https://brave.com/ipfs-support/) - IPFS and IPNS Support
+
 ## Tools
 
 - [create-ipfs-app](https://github.com/alexbakers/create-ipfs-app) - Set up a decentralized web3 app by running one command.
