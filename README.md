@@ -35,7 +35,6 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 - [killcord](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
 - [Peer Web Site](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
 - [Peergos](https://github.com/Peergos/Peergos) - End-to-end encrypted, peer-to-peer file storage and sharing.
-- [Pin Tweet to IPFS](https://github.com/meandavejustice/pin-tweet-to-ipfs) - Web Extension which creates a WebArchiveZip of a tweet and adds to IPFS network.
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [Skiff](https://github.com/skiff-org/skiff-mail) - Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
 - [Valist](https://github.com/valist-io/valist) - A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps.
@@ -72,6 +71,7 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 - [mahuta](https://github.com/ConsenSys/Mahuta) - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
 - [Multiverse](https://github.com/multiverse-vcs/go-multiverse) - Multiverse is a decentralized version control system that enables peer-to-peer software development.
 - [orbit-db](https://github.com/orbitdb/orbit-db) - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
+- [Pin Tweet to IPFS](https://github.com/meandavejustice/pin-tweet-to-ipfs) - Web Extension which creates a WebArchiveZip of a tweet and adds to IPFS network.
 - [Public Gateway Checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not.
 - [rivet](https://github.com/wabarc/rivet) - A toolkit makes it easier to archive webpages to IPFS.
 - [SimpleAsWater Bot](https://github.com/simpleaswater/twitter-pinbot) - A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster.
