@@ -9,14 +9,14 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 - [Apps](#apps)
 - [Tools](#tools)
 - [Services & Platforms](#services--platforms)
+- [Pinning Services](#pinning-services)
+- [Stale Projects](#stale-projects)
 - [Contribute](#contribute)
 - [License](#license)
 
 ## Apps
 
 - [Agregore](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
-- [AirSecure](https://github.com/airsecure/airsecure) - Decentralized two factor authentication app built on Textile & IPFS.
-- [Arbore](https://github.com/MichaelMure/Arbore) - A friend-to-friend file-sharing app build on top of IPFS.
 - [archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
 - [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 - [brig](https://github.com/sahib/brig) - File synchronization with git like interface and FUSE filesystem.
@@ -25,12 +25,11 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
-- [ipcoronafs](https://github.com/RTradeLtd/ipcoronafs) - A realtime service to scrape COVID-19 and SARS-CoV-2, storing on IPFS, DNSLink, and streaming over LibP2P pubsub
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
 - [ipfs-chat](https://github.com/SomajitDey/ipfs-chat) - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
 - [IPFS-FPS](https://github.com/underscoredLabs/webgl-ipfs-fps) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
-- [ipfs-search](https://github.com/ipfs-search/ipfs-search) - IPFS search engine Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search API's available.
+
 - [IPGit](https://github.com/meyer1994/ipgit) - Remote Git repository that mirrors your code to IPFS
 - [killcord](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
 - [Peer Web Site](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
@@ -82,7 +81,6 @@ A list of web browsers with IPFS integrations
 - [rivet](https://github.com/wabarc/rivet) - A toolkit makes it easier to archive webpages to IPFS.
 - [SimpleAsWater Bot](https://github.com/simpleaswater/twitter-pinbot) - A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster.
 - [solid-ipfs](https://github.com/Eximua/solid-ipfs) - Using Solid to store IPFS Hash privately or publicly.
-- [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) - Full node for Android.
 - [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase.
 - [VIPFS](https://github.com/Ideea-inc/vipfs) - Publish your Vue apps easily to IPFS.
 - [wbipfs](https://github.com/wabarc/wbipfs) - A command-line tool and Go package interface for wayback webpage to IPFS.
@@ -96,12 +94,17 @@ A list of web browsers with IPFS integrations
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends.
 - [Valist](https://www.valist.io/) - A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps.
 
-### Pinning services
+## Pinning services
 - [Filebase](https://filebase.com/) - Pinning data to IPFS can be hard. Filebase removes that complexity.
 - [NFT.Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS & Filecoin.
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [Infura](https://infura.io) - Scalable and distributed storage infrastructure for your application
 - [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
+
+## Stale Projects
+We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a pr and we'll get it into the right place.
+
+[View the list here](./stale.md)
 
 ## Contribute
 
