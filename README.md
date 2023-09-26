@@ -1,8 +1,8 @@
 # Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a community list for awesome projects, apps, tools, and services related to IPFS.
+This is a community list of awesome projects, apps, tools, and services related to IPFS.
 
-If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [our IPFS Discuss Forums](https://discuss.ipfs.tech).
+If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in the [IPFS  Forums](https://discuss.ipfs.tech).
 
 ## Table of Contents
 
