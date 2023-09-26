@@ -8,7 +8,7 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 
 - [Apps](#apps)
 - [Tools](#tools)
-- [Services \& Platforms](#services--platforms)
+- [Services & Platforms](#services--platforms)
 - [Contribute](#contribute)
 - [License](#license)
 
