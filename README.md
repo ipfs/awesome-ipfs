@@ -21,6 +21,7 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 - [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 - [brig](https://github.com/sahib/brig) - File synchronization with git like interface and FUSE filesystem.
 - [Diffuse](https://github.com/icidasset/diffuse) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
+- [Durin](https://durin.site/) - Mobile app for accessing and uploading content on the IPFS network.
 - [galacteek](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
