@@ -22,7 +22,6 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 - [brig](https://github.com/sahib/brig) - File synchronization with git like interface and FUSE filesystem.
 - [Diffuse](https://github.com/icidasset/diffuse) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
 - [Durin](https://durin.site/) - Mobile app for accessing and uploading content on the IPFS network.
-- [galacteek](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
@@ -39,6 +38,12 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [Skiff](https://github.com/skiff-org/skiff-mail) - Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
 - [Valist](https://github.com/valist-io/valist) - A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps.
+
+## Browsers
+A list of web browsers with IPFS integrations
+- [Agregore](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
+- [Brave](https://brave.com/ipfs-support/) - A privacy-focused browser with many future forward features.
+- [galacteek](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
 
 ## Tools
 
