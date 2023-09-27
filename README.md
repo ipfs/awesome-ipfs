@@ -88,16 +88,20 @@ A list of web browsers with IPFS integrations
 ## Services & Platforms
 
 - [Ceramic](https://ceramic.network/) - Ceramic combines IPFS content addressing with advanced cryptography and blockchain timestamps to guarantee security and verifiability of data.
+- [dAppling](https://www.dappling.network/) - Hosting platform with automated deployments from GitHub to IPFS
 - [Fleek](http://fleek.co/) - Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer.
 - [Fission](https://fission.codes) - Fission builds open source protocols and managed solutions that empower developers to construct scalable and secure software applications.
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends.
 - [Valist](https://www.valist.io/) - A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps.
 
 ## Pinning services
+- [4EVERLAND](https://www.4everland.org/) - 4EVERLAND is a pinning service that provides IPFS infrastructure and tooling making it easier and faster to host frontends, store data/NFT/file and fetch data with IPFS.
 - [Filebase](https://filebase.com/) - Pinning data to IPFS can be hard. Filebase removes that complexity.
 - [NFT.Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS & Filecoin.
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
-- [Infura](https://infura.io) - Scalable and distributed storage infrastructure for your application
+- [Infura](https://infura.io) - Scalable and distributed storage infrastructure for your application.
+- [Kriptonio](https://kriptonio.com/) - Pinning service & Web3 Platform for building Web3 apps.
+- [Spheron](https://spheron.network) - Spheron offers IPFS pinning service and dedicated gateways.
 - [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
 
 ## Stale Projects
