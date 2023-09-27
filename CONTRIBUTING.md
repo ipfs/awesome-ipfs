@@ -9,9 +9,10 @@ Entries are accepted if they meet the following criteria:
 
 - Entries must use _IPFS_
 - Entries in the **apps** & **tools** categories must be **open-source** and contain a link to their source code.
-- Entries must be immediately usable (eg. nothing that is paywall-only, even a free trial would be ok)
-- Entries must have a clear license and/or privacy policy where applicable
-- Entries must respect the [IPFS Community Code of Conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md)
+- Entries in the services & platforms category must contain a clear description of how they relate to IPFS and avoid marketing buzzwords. 
+- Entries must be immediately usable (eg. nothing that is paywall-only, even a free trial would be ok).
+- Entries must have a clear license and/or privacy policy where applicable.
+- Entries must respect the [IPFS Community Code of Conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md).
 
 ### 1. Before submitting
 
