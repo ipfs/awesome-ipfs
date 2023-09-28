@@ -7,6 +7,7 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 ## Table of Contents
 
 - [Apps](#apps)
+- [Browsers](#browsers)
 - [Tools](#tools)
 - [Services & Platforms](#services--platforms)
 - [Pinning Services](#pinning-services)
@@ -17,6 +18,7 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 ## Apps
 
 - [Agregore](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
+- [Anytype](https://github.com/anyproto) - Anytype is a no-code, modular web builder designed to give ownership back to creators. It's built on our private, local-first, p2p-synced and open Anysync protocol.
 - [archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
 - [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 - [brig](https://github.com/sahib/brig) - File synchronization with git like interface and FUSE filesystem.
