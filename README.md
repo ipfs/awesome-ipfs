@@ -16,6 +16,7 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 
 ## Apps
 
+- [Web3IMG](https://web3img.com) - Web3IMG is a magical Web3 image sharing community that provides free image upload, image sharing and link services based on ipfs.
 - [Agregore](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
 - [archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
 - [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
