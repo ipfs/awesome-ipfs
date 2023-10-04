@@ -16,7 +16,7 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 ## Implementations
 IPFS is an open-source project that encourages the development of multiple implementations of the protocol, each of which seeks to optimize for various use cases.
 
-Check out the [list of Implementations](https://docs.ipfs.tech/concepts/ipfs-implementations/#popular-or-actively-maintained).
+Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipfs-implementations/#popular-or-actively-maintained) in the IPFS docs.
 
 ## Apps
 
