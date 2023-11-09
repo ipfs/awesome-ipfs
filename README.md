@@ -117,6 +117,7 @@ A list of web browsers with IPFS integrations
 - [Kriptonio](https://kriptonio.com/) - Pinning service & Web3 Platform for building Web3 apps.
 - [Scaleway](https://labs.scaleway.com/en/ipfs-pinning/) - A multi-region, multi-az redundant IPFS pinning service.
 - [Spheron](https://spheron.network) - Spheron offers IPFS pinning service and dedicated gateways.
+- [thirdweb](https://thirdweb.com/storage) - Easily upload and pin files to IPFS.
 - [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
 
 ## Stale Projects
