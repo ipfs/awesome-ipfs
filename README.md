@@ -122,9 +122,9 @@ A list of web browsers with IPFS integrations
 - [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
 
 ## Stale Projects
-We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a pr and we'll get it into the right place.
+We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a PR moving the entry into [stale.md](./stale.md) and optionally add the reason why it's marked as stale with an indented comment.
 
-[View the list here](./stale.md)
+[View the list of stale projects here](./stale.md)
 
 ## Contribute
 
