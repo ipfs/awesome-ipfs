@@ -15,3 +15,7 @@ This is a list of no longer maintained awesome IPFS projects. This list is kept 
 
 ## Tools
 - [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) - Full node for Android.
+- [IPGit](https://github.com/meyer1994/ipgit) - Remote Git repository that mirrors your code to IPFS.
+  - Note: @bmann Heroku endpoint in repo shows application error https://ipgit.herokuapp.com/
+  - Not really an app
+  - It _is_ super cool and I'd love to see more IPFS + git stuff like this (maybe we can get Gitea or ForgeJo supporting IPFS) 

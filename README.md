@@ -37,7 +37,6 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
 - [ipfs-chat](https://github.com/SomajitDey/ipfs-chat) - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
 - [IPFS-FPS](https://github.com/underscoredLabs/webgl-ipfs-fps) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
-- [IPGit](https://github.com/meyer1994/ipgit) - Remote Git repository that mirrors your code to IPFS
 - [killcord](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
 - [Mintter](https://github.com/MintterHypermedia/mintter) - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
 - [orbitchat.dev](https://github.com/cppshane/orbit-chat) - Ultra simple chatrooms on the web.
