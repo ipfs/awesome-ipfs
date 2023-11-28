@@ -115,6 +115,7 @@ A list of web browsers with IPFS integrations
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [Infura](https://infura.io) - Scalable and distributed storage infrastructure for your application.
 - [Kriptonio](https://kriptonio.com/) - Pinning service & Web3 Platform for building Web3 apps.
+- [QuickNode](https://www.quicknode.com/ipfs) - IPFS gateways and pinning
 - [Scaleway](https://labs.scaleway.com/en/ipfs-pinning/) - A multi-region, multi-az redundant IPFS pinning service.
 - [Spheron](https://spheron.network) - Spheron offers IPFS pinning service and dedicated gateways.
 - [thirdweb](https://thirdweb.com/storage) - Easily upload and pin files to IPFS.
