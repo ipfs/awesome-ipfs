@@ -91,6 +91,7 @@ A list of web browsers with IPFS integrations
 - [Pin Tweet to IPFS](https://github.com/meandavejustice/pin-tweet-to-ipfs) - Web Extension which creates a WebArchiveZip of a tweet and adds to IPFS network.
 - [Public Gateway Checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not.
 - [rivet](https://github.com/wabarc/rivet) - A toolkit makes it easier to archive webpages to IPFS.
+- [sourcify](https://github.com/ethereum/sourcify) - Decentralized Solidity contract source code verification service
 - [SimpleAsWater Bot](https://github.com/simpleaswater/twitter-pinbot) - A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster.
 - [solid-ipfs](https://github.com/Eximua/solid-ipfs) - Using Solid to store IPFS Hash privately or publicly.
 - [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase.
