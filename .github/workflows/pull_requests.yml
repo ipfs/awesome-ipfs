@@ -1,0 +1,43 @@
+
+name: Pull request workflow
+
+on:
+  pull_request_target:
+    types: [ opened, synchronize, reopened ]
+    branches: [ master, main ]
+
+jobs:
+  run-awesome-bot:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 13
+      - name: Set up Ruby 3.1.2
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1.2
+      - name: Install and run awesome_bot
+        # It's okay for awesome_bot to fail (for maintainers only). Danger will post a comment on the PR (for maintainers only) if it fails.
+        run: |
+          gem install awesome_bot
+          # Only fail the pull request if $DANGER_GITHUB_API_TOKEN is empty
+          awesome_bot --allow 429 --allow-redirect --allow-dupe --allow-ssl -w ipfs.io README.md || [ -n $DANGER_GITHUB_API_TOKEN ]
+        env:
+          DANGER_GITHUB_API_TOKEN: ${{ secrets.DANGER_GITHUB_API_TOKEN }}
+      - name: Run danger
+        if: always()
+        # see https://github.com/danger/danger/issues/1103
+        # see https://github.com/danger/danger/blob/master/.github/workflows/CI.yml#L38-L41
+        run: |
+          TOKEN='7469b4e94ce21b43e3ab7a'
+          TOKEN+='79960c12a1e067f2ec'
+          SECRET_TOKEN="${DANGER_GITHUB_API_TOKEN:-$GITHUB_TOKEN}"
+          DANGER_GITHUB_API_TOKEN=${SECRET_TOKEN:-$TOKEN} RUNNING_IN_ACTIONS=true npm run ci:danger || echo "Skipping Danger for External Contributor"
+        env:
+          DANGER_GITHUB_API_TOKEN: ${{ secrets.DANGER_GITHUB_API_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
