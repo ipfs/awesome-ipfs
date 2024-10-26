@@ -53,6 +53,11 @@ A list of web browsers with IPFS integrations
 - [galacteek](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
 - [Opera](https://blogs.opera.com/tips-and-tricks/2021/02/opera-crypto-files-for-keeps-ipfs-unstoppable-domains/) - Opera browser added support for `ipfs://` in 2021
 
+## IPFS in browsers
+
+ - [Identify with Helia](https://helia-identify.on.fleek.co/)
+
+
 ## Tools
 
 - [bifrost-gateway](https://github.com/ipfs/bifrost-gateway) - [EXPERIMENTAL] A lightweight IPFS Gateway daemon backed by a remote data store.
