@@ -46,6 +46,7 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [Quiet](https://tryquiet.org/) - Privacy focused, end-to-end encrypted chat app that runs a private IPFS network over Tor connections. Desktop and mobile iOS and Android apps available.
 - [Skiff](https://github.com/skiff-org/skiff-mail) - Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
+- [WatchIT](https://github.com/WatchItDev/watchit-app) - A movie platform with a decentralized network approach.
 
 ## Browsers
 A list of web browsers with IPFS integrations
