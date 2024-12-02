@@ -46,7 +46,8 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites with IPFS on your Mac
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [Quiet](https://tryquiet.org/) - Privacy focused, end-to-end encrypted chat app that runs a private IPFS network over Tor connections. Desktop and mobile iOS and Android apps available.
-- [TeaTime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub
+- [IPFS Share](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files directly from the browser using IPFS.
+- [TeaTime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub.
 
 
 ## Browsers
@@ -80,7 +81,6 @@ A list of web browsers with IPFS integrations
 - [ipfs-add-from-encrypted](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - Encrypt a file or directory with AES256 then add to IPFS.
 - [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy
-- [ipfs-encrypted-share](https://github.com/whs/ipfs-encrypted-share) - Easy to use encrypted file uploader.
 - [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows.
 - [ipfs-paste](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS.
 - [ipfs-pinner](https://github.com/wabarc/ipfs-pinner) - A toolkit help upload files to IPFS pinning services.
