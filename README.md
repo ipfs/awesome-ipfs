@@ -46,7 +46,8 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites with IPFS on your Mac
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [Quiet](https://tryquiet.org/) - Privacy focused, end-to-end encrypted chat app that runs a private IPFS network over Tor connections. Desktop and mobile iOS and Android apps available.
-- [Skiff](https://github.com/skiff-org/skiff-mail) - Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
+- [TeaTime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub
+
 
 ## Browsers
 A list of web browsers with IPFS integrations
