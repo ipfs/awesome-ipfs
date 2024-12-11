@@ -112,6 +112,7 @@ A list of web browsers with IPFS integrations
 - [Apillon](http://apillon.io/) - a Web3 development platform, offering IPFS gateways, IPFS file-pinning via Crust network and IPFS powered hosting services for websites and apps.
 - [Ceramic](https://ceramic.network/) - Ceramic combines IPFS content addressing with advanced cryptography and blockchain timestamps to guarantee security and verifiability of data.
 - [dAppling](https://www.dappling.network/) - Hosting platform with automated deployments from GitHub to IPFS
+- [Distributed Press](https://distributed.press/) - The open source publishing tool for the World Wide Web and Decentralized Web. 
 - [Fileverse](https://fileverse.io/) - Encrypted file sharing based on IPFS. Share any files with or without a wallet
 - [Fleek](http://fleek.co/) - Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer.
 - [Fission](https://fission.codes) - Fission builds open source protocols and managed solutions that empower developers to construct scalable and secure software applications.
