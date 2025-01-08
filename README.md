@@ -36,6 +36,7 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
+- [IPFS Share](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files directly from the browser using IPFS.
 - [ipfs-chat](https://github.com/SomajitDey/ipfs-chat) - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
 - [IPFS-FPS](https://github.com/underscoredLabs/webgl-ipfs-fps) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
 - [killcord](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
@@ -44,11 +45,10 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [Peer Web Site](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
 - [Peergos](https://github.com/Peergos/Peergos) - End-to-end encrypted, peer-to-peer file storage and sharing.
 - [Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites with IPFS on your Mac
+- [Plebbit](https://github.com/plebbit) - Plebbit is a serverless, adminless, decentralised and infinitely scalable Social Media platform that is peer-to-peer and open-source.It's built on top of IPFS, Gossipsub and Blockchain namesystems (ENS, SNS).
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [Quiet](https://tryquiet.org/) - Privacy focused, end-to-end encrypted chat app that runs a private IPFS network over Tor connections. Desktop and mobile iOS and Android apps available.
-- [IPFS Share](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files directly from the browser using IPFS.
 - [TeaTime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub.
-- [Plebbit](https://plebbit.com) - Plebbit is a serverless, adminless, decentralised and infinitely scalable Social Media platform that is peer-to-peer and open-source.It's built on top of IPFS, Gossipsub and Blockchain namesystems (ENS, SNS).
 
 
 ## Browsers
@@ -118,7 +118,7 @@ A list of web browsers with IPFS integrations
 - [Fission](https://fission.codes) - Fission builds open source protocols and managed solutions that empower developers to construct scalable and secure software applications.
 - [Matters.town](https://matters.town/) - Decentralized content publication ecosystem.
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends.
-- [Valist](https://www.valist.io/) - A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps.
+
 
 ## Pinning services
 - [4EVERLAND](https://www.4everland.org/) - 4EVERLAND is a pinning service that provides IPFS infrastructure and tooling making it easier and faster to host frontends, store data/NFT/file and fetch data with IPFS.
