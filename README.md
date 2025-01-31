@@ -10,6 +10,7 @@ To submit your project, read the [Content Policy](https://github.com/ipfs/awesom
 - [Apps](#apps)
 - [Browsers](#browsers)
 - [Tools](#tools)
+- [Debugging Tools & Learning](#debugging-tools--learning)
 - [Services & Platforms](#services--platforms)
 - [Pinning Services](#pinning-services)
 - [Stale Projects](#stale-projects)
@@ -50,17 +51,12 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [Quiet](https://tryquiet.org/) - Privacy focused, end-to-end encrypted chat app that runs a private IPFS network over Tor connections. Desktop and mobile iOS and Android apps available.
 - [TeaTime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub.
 
-
 ## Browsers
 A list of web browsers with IPFS integrations
 - [Agregore](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
 - [Brave](https://brave.com/ipfs-support/) - A privacy-focused browser with many future forward features.
 - [galacteek](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
 - [Opera](https://blogs.opera.com/tips-and-tricks/2021/02/opera-crypto-files-for-keeps-ipfs-unstoppable-domains/) - Opera browser added support for `ipfs://` in 2021
-
-## IPFS in browsers
-
- - [Identify with Helia](https://helia-identify.on.fleek.co/)
 
 
 ## Tools
@@ -107,6 +103,16 @@ A list of web browsers with IPFS integrations
 - [VIPFS](https://github.com/Ideea-inc/vipfs) - Publish your Vue apps easily to IPFS.
 - [wbipfs](https://github.com/wabarc/wbipfs) - A command-line tool and Go package interface for wayback webpage to IPFS.
 - [youtube2ipfs](https://github.com/dokterbob/youtube2ipfs) - Download videos from YouTube (and similar video platforms) and add them to IPFS.
+
+## Debugging Tools & Learning
+
+- [IPFS Check](https://check.ipfs.network/)
+- [Helia Identify](https://helia-identify.on.fleek.co/)
+- [CID Inspector](https://cid.ipfs.tech/)
+- [File to UnixFS DAG](https://dag.ipfs.tech/)
+- [IPLD Explorer](https://explore.ipld.io)
+- [Public Gateway Checker](https://github.com/ipfs/public-gateway-checker)
+- [IPNS Inspector](https://github.com/ipfs/ipns-inspector)
 
 ## Services & Platforms
 
