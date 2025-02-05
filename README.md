@@ -43,6 +43,7 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [killcord](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
 - [Mintter](https://github.com/MintterHypermedia/mintter) - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
 - [orbitchat.dev](https://github.com/cppshane/orbit-chat) - Ultra simple chatrooms on the web.
+- [Peersky](https://peersky.p2plabs.xyz/) - A minimal local-first p2p web browser: access, communicate, and publish offline.
 - [Peer Web Site](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
 - [Peergos](https://github.com/Peergos/Peergos) - End-to-end encrypted, peer-to-peer file storage and sharing.
 - [Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites with IPFS on your Mac
@@ -56,6 +57,7 @@ A list of web browsers with IPFS integrations
 - [Agregore](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
 - [Brave](https://brave.com/ipfs-support/) - A privacy-focused browser with many future forward features.
 - [galacteek](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
+- [Peersky](https://peersky.p2plabs.xyz/) - A minimal local-first p2p web browser: access, communicate, and publish offline.
 - [Opera](https://blogs.opera.com/tips-and-tricks/2021/02/opera-crypto-files-for-keeps-ipfs-unstoppable-domains/) - Opera browser added support for `ipfs://` in 2021
 
 
