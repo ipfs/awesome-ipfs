@@ -107,7 +107,7 @@ A list of web browsers with IPFS integrations
 ## Debugging Tools & Learning
 
 - [IPFS Check](https://check.ipfs.network/)
-- [Helia Identify](https://helia-identify.on.fleek.co/)
+- [Helia Identify](https://ipfs.fyi/identify)
 - [CID Inspector](https://cid.ipfs.tech/)
 - [File to UnixFS DAG](https://dag.ipfs.tech/)
 - [IPLD Explorer](https://explore.ipld.io)
