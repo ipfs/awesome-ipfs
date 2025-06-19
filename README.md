@@ -113,6 +113,7 @@ A list of web browsers with IPFS integrations
 - [IPLD Explorer](https://explore.ipld.io)
 - [Public Gateway Checker](https://github.com/ipfs/public-gateway-checker)
 - [IPNS Inspector](https://github.com/ipfs/ipns-inspector)
+- [Python IPFS integration example](https://github.com/non-npc/Python-IPFS-Demo)
 
 ## Services & Platforms
 
