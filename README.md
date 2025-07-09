@@ -76,6 +76,7 @@ A list of web browsers with IPFS integrations
 - [IPFS Setup Action](https://github.com/ibnesayeed/setup-ipfs) - A GitHub Action to install and initialize go-ipfs to provision a cross-platform test environment on GitHub's CI platform.
 - [ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for delivery of static websites.
 - [ipfs-add-from-encrypted](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - Encrypt a file or directory with AES256 then add to IPFS.
+- [IPFS-boot](https://github.com/rhodey/IPFS-boot) - Publish IPFS webapps which require user consent to update.
 - [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy
 - [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows.
