@@ -50,6 +50,8 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [Quiet](https://tryquiet.org/) - Privacy focused, end-to-end encrypted chat app that runs a private IPFS network over Tor connections. Desktop and mobile iOS and Android apps available.
 - [TeaTime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub.
+- nnections. Desktop and mobile iOS and Android apps available.
+- [TruSpace](https://github.com/openkfw/TruSpace) - A decentralized, sovereign, AI-infused document management tool
 
 ## Browsers
 A list of web browsers with IPFS integrations
