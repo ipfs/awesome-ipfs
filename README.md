@@ -61,7 +61,6 @@ A list of web browsers with IPFS integrations
 
 ## Tools
 
-- [Blumen](https://github.com/StauroDEV/blumen) - Blumen is a CLI to deploy apps on the decentralized web using IPFS and Ethereum
 - [create-ipfs-app](https://github.com/alexbakers/create-ipfs-app) - Set up a decentralized web3 app by running one command.
 - [dScan](https://github.com/p2plabsxyz/dscan) - A browser extension that uploads the content to Web3.Storage and generates QR codes for CIDs.
 - [dump-ipfs](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
@@ -93,6 +92,7 @@ A list of web browsers with IPFS integrations
 - [iprfc](https://github.com/RTradeLtd/iprfc) - IETF RFC downloader which stores RFCs on IPFS and indexes them with RTradeLtd/Lens.
 - [mahuta](https://github.com/ConsenSys/Mahuta) - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
 - [Multiverse](https://github.com/multiverse-vcs/go-multiverse) - Multiverse is a decentralized version control system that enables peer-to-peer software development.
+- [Omnipin](https://github.com/omnipin/omnipin) - The ultimate decentralized website deployment toolkit.
 - [orbit-db](https://github.com/orbitdb/orbit-db) - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
 - [Pin Tweet to IPFS](https://github.com/meandavejustice/pin-tweet-to-ipfs) - Web Extension which creates a WebArchiveZip of a tweet and adds to IPFS network.
 - [Public Gateway Checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not.
