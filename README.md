@@ -101,6 +101,7 @@ A list of web browsers with IPFS integrations
 - [SimpleAsWater Bot](https://github.com/simpleaswater/twitter-pinbot) - A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster.
 - [solid-ipfs](https://github.com/Eximua/solid-ipfs) - Using Solid to store IPFS Hash privately or publicly.
 - [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase.
+- [Upload to Web3](https://github.com/onescales/Upload-to-Web3) - Apify app for automated file uploads to decentralized storage via IPFS nodes and Pinata pinning service.
 - [VIPFS](https://github.com/Ideea-inc/vipfs) - Publish your Vue apps easily to IPFS.
 - [wbipfs](https://github.com/wabarc/wbipfs) - A command-line tool and Go package interface for wayback webpage to IPFS.
 - [youtube2ipfs](https://github.com/dokterbob/youtube2ipfs) - Download videos from YouTube (and similar video platforms) and add them to IPFS.
