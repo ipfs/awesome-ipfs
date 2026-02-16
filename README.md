@@ -46,6 +46,7 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [Peer Web Site](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
 - [Peergos](https://github.com/Peergos/Peergos) - End-to-end encrypted, peer-to-peer file storage and sharing.
 - [Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites with IPFS on your Mac
+- [Planet Express Marketplace](https://planetexpress.dropclaw.cloud) - Decentralized file marketplace on Monad blockchain with secure escrow. Buy and sell encrypted files; accepts MON, SOL, and Base USDC via x402 protocol.
 - [Plebbit](https://github.com/plebbit) - Plebbit is a serverless, adminless, decentralised and infinitely scalable Social Media platform that is peer-to-peer and open-source.It's built on top of IPFS, Gossipsub and Blockchain namesystems (ENS, SNS).
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [Quiet](https://tryquiet.org/) - Privacy focused, end-to-end encrypted chat app that runs a private IPFS network over Tor connections. Desktop and mobile iOS and Android apps available.
