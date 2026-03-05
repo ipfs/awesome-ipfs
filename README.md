@@ -131,7 +131,8 @@ A list of web browsers with IPFS integrations
 - [4EVERLAND](https://www.4everland.org/) - 4EVERLAND is a pinning service that provides IPFS infrastructure and tooling making it easier and faster to host frontends, store data/NFT/file and fetch data with IPFS.
 - [Filebase](https://filebase.com/) - Pinning data to IPFS can be hard. Filebase removes that complexity.
 - [lighthouse.storage](https://lighthouse.storage/) - A decentralized IPFS pinning service with privacy and encryption capabilities
-- [NFT.Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS & Filecoin.
+- [NFT.Storage](https://nft.storage/) - Decentralized storage and bandwidth for NFTs on IPFS & Filecoin.
+- [Tarlo](https://tarlo.app) - Managed IPFS storage with public and private pinning, no bandwidth fees, and no technical setup required.
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [QuickNode](https://www.quicknode.com/ipfs) - IPFS gateways and pinning
 - [Storacha](https://storacha.network) - Super hot decentralized data at scale.
