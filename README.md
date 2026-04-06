@@ -135,6 +135,7 @@ A list of web browsers with IPFS integrations
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [QuickNode](https://www.quicknode.com/ipfs) - IPFS gateways and pinning
 - [Storacha](https://storacha.network) - Super hot decentralized data at scale.
+- [IPFS.ninja](https://ipfs.ninja/) - IPFS uploads, pinning, and gateway services for storing, managing, and delivering files and NFT metadata. 
 
 ## Stale Projects
 We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a PR moving the entry into [stale.md](./stale.md) and optionally add the reason why it's marked as stale with an indented comment.
