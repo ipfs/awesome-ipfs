@@ -4,6 +4,7 @@ This is a community list of awesome projects, apps, tools, and services related 
 
 To submit your project, read the [Content Policy](https://github.com/ipfs/awesome-ipfs/blob/main/CONTRIBUTING.md#content-policy), and [**submit a PR**](https://github.com/ipfs/awesome-ipfs/edit/main/README.md)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for IPFS decentralized storage workflow orchestration, automated distributed file management, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
 - [Implementations](#implementations)
