@@ -23,6 +23,7 @@ IPFS is an open-source project that encourages the development of multiple imple
 Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipfs-implementations/#popular-or-actively-maintained) in the IPFS docs.
 
 ## Apps
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage hardware. Leverages IPFS for decentralized state-snapshot delivery and historical block archival.
 
 - [Agregore](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
 - [Anytype](https://github.com/anyproto) - Anytype is a no-code, modular web builder designed to give ownership back to creators. It's built on our private, local-first, p2p-synced and open Anysync protocol.
