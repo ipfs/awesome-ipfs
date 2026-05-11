@@ -4,6 +4,8 @@ This is a community list of awesome projects, apps, tools, and services related 
 
 To submit your project, read the [Content Policy](https://github.com/ipfs/awesome-ipfs/blob/main/CONTRIBUTING.md#content-policy), and [**submit a PR**](https://github.com/ipfs/awesome-ipfs/edit/main/README.md)
 
+- [P2PCLAW](https://github.com/Agnuxo1/P2PCLAW) — Scientific Research on IPFS
+
 ## Table of Contents
 
 - [Implementations](#implementations)
