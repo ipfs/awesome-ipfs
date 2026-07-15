@@ -43,7 +43,7 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [killcord](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
 - [Mintter](https://github.com/MintterHypermedia/mintter) - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
 - [orbitchat.dev](https://github.com/cppshane/orbit-chat) - Ultra simple chatrooms on the web.
-- [Peer Web Site](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
+- [decentral.ninja](https://github.com/decentral-ninja/website) - WEB3.0 Chat to communicate anonymously through decentralized networks. Using CRDTs (offline-first PWA), Websocket, WebRTC, WebTorrent, IPFS and all fully end-to-end encrypted.
 - [Peergos](https://github.com/Peergos/Peergos) - End-to-end encrypted, peer-to-peer file storage and sharing.
 - [Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites with IPFS on your Mac
 - [Plebbit](https://github.com/plebbit) - Plebbit is a serverless, adminless, decentralised and infinitely scalable Social Media platform that is peer-to-peer and open-source.It's built on top of IPFS, Gossipsub and Blockchain namesystems (ENS, SNS).
