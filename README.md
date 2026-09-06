@@ -52,6 +52,7 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [TeaTime](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub.
 
 - [VaultKeepR](https://github.com/VaultKeepR/vaultkeepr-public) - Zero-knowledge password manager that stores encrypted vaults on IPFS. No email, no account: identity is an on-chain smart account and all sync is done as encrypted content-addressed blobs.
+
 ## Browsers
 A list of web browsers with IPFS integrations
 - [Agregore](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
