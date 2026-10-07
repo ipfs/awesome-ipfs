@@ -132,6 +132,7 @@ A list of web browsers with IPFS integrations
 - [Filebase](https://filebase.com/) - Pinning data to IPFS can be hard. Filebase removes that complexity.
 - [lighthouse.storage](https://lighthouse.storage/) - A decentralized IPFS pinning service with privacy and encryption capabilities
 - [NFT.Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS & Filecoin.
+- [Octopin](https://octopin.app) - Pinning service for NFT collections with unlimited bandwidth on every plan, a free tier, and support for the Pinning Service API.
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [QuickNode](https://www.quicknode.com/ipfs) - IPFS gateways and pinning
 - [Storacha](https://storacha.network) - Super hot decentralized data at scale.
