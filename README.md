@@ -41,6 +41,7 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [ipfs-chat](https://github.com/SomajitDey/ipfs-chat) - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
 - [IPFS-FPS](https://github.com/underscoredLabs/webgl-ipfs-fps) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
 - [killcord](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
+- [MiceWeb](https://github.com/Robotizing/MiceWeb) - Decentralized web archive.
 - [Mintter](https://github.com/MintterHypermedia/mintter) - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
 - [orbitchat.dev](https://github.com/cppshane/orbit-chat) - Ultra simple chatrooms on the web.
 - [Peer Web Site](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
