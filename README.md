@@ -4,6 +4,12 @@ This is a community list of awesome projects, apps, tools, and services related 
 
 To submit your project, read the [Content Policy](https://github.com/ipfs/awesome-ipfs/blob/main/CONTRIBUTING.md#content-policy), and [**submit a PR**](https://github.com/ipfs/awesome-ipfs/edit/main/README.md)
 
+- [P2PCLAW](https://github.com/Agnuxo1/P2PCLAW) — Scientific Research on IPFS
+
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork preserves the <a href="https://github.com/ipfs/awesome-ipfs">upstream project</a>’s directory of IPFS implementations, applications, debugging tools and pinning services, with a local reference to P2PCLAW research. It helps developers locate reusable content-addressed storage components and compare deployment choices. The practical benefit is less fragmented discovery; bandwidth, storage and energy outcomes depend on replication policy and the actual network workload.</sub>
+<!-- impact-note:end -->
+
 ## Table of Contents
 
 - [Implementations](#implementations)
