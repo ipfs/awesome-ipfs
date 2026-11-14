@@ -61,6 +61,7 @@ A list of web browsers with IPFS integrations
 
 ## Tools
 
+- [GUIBo](https://guibo.vizio.biz) - Open-source GUI desktop frontend for the Kubo IPFS daemon
 - [create-ipfs-app](https://github.com/alexbakers/create-ipfs-app) - Set up a decentralized web3 app by running one command.
 - [dScan](https://github.com/p2plabsxyz/dscan) - A browser extension that uploads the content to Web3.Storage and generates QR codes for CIDs.
 - [dump-ipfs](https://github.com/quasarch/dump-ipfs) - A decentralized encrypted backup agent for popular databases supported by IPFS and Filecoin.
